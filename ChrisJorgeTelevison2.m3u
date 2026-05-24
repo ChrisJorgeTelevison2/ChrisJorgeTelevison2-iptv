@@ -1,5 +1,23 @@
 #EXTM3U
-
+########## SECTION:  Eventos:5/23/26   ##########
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png",group-title="Eventos:5/23/26", Deportivo Cuenca vs LDU de Quito 
+https://xky9q.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=754f58653aed7e38146e03c7c974b3bc0fde1131-d1-1779629032-1779575032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Saturday_Nights_Main_Event_Logo_2024.png",group-title="Eventos:5/23/26",8:00pm Saturday Night's Main Event 2026
+https://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/programs/f30bbe65-77c6-4f92-bc1b-641445f43d49/16x9/1280x720_20260522195741.jpg",group-title="Eventos:5/23/26",8:00pm:Eastern Conference Finals Knicks vs Cavaliers 
+https://8c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=6377dbf036fa570f4e2afa834a72c3b6a8121a70-8d-1779631774-1779577774
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: Nashville SC vs New York City
+https://pecdl1.streameasthd.net/mls2en/index.m3u8?token=c0d27dc429ba1fd9c12a39683ecb15c2c26a5cb4-38-1779628531-1779574531&ip=47.17.229.27
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: Chicago Fire vs Toronto FC
+https://8c51.streameasthd.net/mls3en/index.m3u8?token=9a0552b48a629ad2ab255cf1a5aaa61b155b1b6d-2f-1779628545-1779574545&ip=47.17.229.27
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: San Diego vs Vancouver Whitecaps
+https://98ca2.streameasthd.net/mls4en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=2756e561fece0d5145b27a12a44c18bfb9b2629d-dc-1779628583-1779574583
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
+https://pre.streameasthd.net/mls5en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=d49197c6de41584e73b4de14ca8a41453ada1268-e3-1779628684-1779574684
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
+https://8c51.streameasthd.net/mls6en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=1796d373c478faffc41ecc80ec943272094d587e-98-1779628700-1779574700
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: LA Galaxy vs Houston Dynamo
+https://8c51.streameasthd.net/mls7en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=37f37ac2c84ddab83579198133aeb214b8117813-fc-1779628748-1779574748
 ########## SECTION:  KIDS   ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2017_Disney_Channel_logo.svg/640px-2017_Disney_Channel_logo.svg.png",group-title="KIDS", DISNEY CHANNEL-ChrisJorgeTelevison2 
 http://181.119.111.25:4000/play/a0h9/index.m3u8
@@ -1394,22 +1412,43 @@ https://pr745.streamingtv339.com/fanatiz8/tracks-v1a1/mono.m3u8
 https://pr745.streamingtv339.com/fanatiz9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 9)-ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 10)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 11)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 12)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 13)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 14)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 15)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 16)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 17)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 18)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 19)-ChrisJorgeTelevison2
+https://pr745.streamingtv339.com/fanatiz20/tracks-v1a1/mono.m3u8
+
 ########## SECTION: MLS SEASON PASS ###########
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 1) - ChrisJorgeTelevison2
 https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 2) - ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/442.m3u8
+https://pecdl1.streameasthd.net/mls2en/index.m3u8?token=c0d27dc429ba1fd9c12a39683ecb15c2c26a5cb4-38-1779628531-1779574531&ip=47.17.229.27
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 3) - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+https://8c51.streameasthd.net/mls3en/index.m3u8?token=9a0552b48a629ad2ab255cf1a5aaa61b155b1b6d-2f-1779628545-1779574545&ip=47.17.229.27
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 4) - ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/442.m3u8
+https://98ca2.streameasthd.net/mls4en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=2756e561fece0d5145b27a12a44c18bfb9b2629d-dc-1779628583-1779574583
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 5) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+https://pre.streameasthd.net/mls5en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=d49197c6de41584e73b4de14ca8a41453ada1268-e3-1779628684-1779574684
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 6) - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
+https://8c51.streameasthd.net/mls6en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=1796d373c478faffc41ecc80ec943272094d587e-98-1779628700-1779574700
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 7) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+https://8c51.streameasthd.net/mls7en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=37f37ac2c84ddab83579198133aeb214b8117813-fc-1779628748-1779574748
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 8) - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 9) - ChrisJorgeTelevison2
@@ -1490,40 +1529,37 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 1) - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos2-ChrisJorgeTelevison2/Eventos2-ChrisJorgeTelevison2/playlist.m3u8
-
+http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS(CHANNEL 2) - ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 3) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 4) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 5) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
-
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 6) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
-
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 7) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 8) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 9) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 10) - ChrisJorgeTelevison2
-http://38.49.128.38:8000/play/a0kj/index.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 11) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 12) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/tWqZ9xCh/hls/media-1/stream.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 ########## SECTION:  NFL Sunday Ticket  ##########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png"group-title="NFL Sunday Ticket", NFL Channel(USA🇺🇸)-ChrisJorgeTelevison2
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=desktop&usprivacy=1YNN&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=157bf1cc-d901-62b2-6b46-028727400e00&tmsid=121705&palnonce=&rdid=157bf1cc-d901-62b2-6b46-028727400e00&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=NFL%20Channel&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
@@ -1792,7 +1828,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 4(USA)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 5(USA)-ChrisJorgeTelevison2
-ttps://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+https://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
 
 
 

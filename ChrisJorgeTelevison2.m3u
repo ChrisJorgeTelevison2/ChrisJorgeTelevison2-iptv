@@ -6,17 +6,17 @@ https://xky9q.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=47.17.229.27&toke
 https://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/programs/f30bbe65-77c6-4f92-bc1b-641445f43d49/16x9/1280x720_20260522195741.jpg",group-title="Eventos:5/23/26",8:00pm:Eastern Conference Finals Knicks vs Cavaliers 
 https://8c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=6377dbf036fa570f4e2afa834a72c3b6a8121a70-8d-1779631774-1779577774
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: Nashville SC vs New York City
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png" group-title="Eventos:5/23/26",MLS: Nashville SC vs New York City
 https://pecdl1.streameasthd.net/mls2en/index.m3u8?token=c0d27dc429ba1fd9c12a39683ecb15c2c26a5cb4-38-1779628531-1779574531&ip=47.17.229.27
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: Chicago Fire vs Toronto FC
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26",MLS: Chicago Fire vs Toronto FC
 https://8c51.streameasthd.net/mls3en/index.m3u8?token=9a0552b48a629ad2ab255cf1a5aaa61b155b1b6d-2f-1779628545-1779574545&ip=47.17.229.27
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: San Diego vs Vancouver Whitecaps
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26",MLS: San Diego vs Vancouver Whitecaps
 https://98ca2.streameasthd.net/mls4en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=2756e561fece0d5145b27a12a44c18bfb9b2629d-dc-1779628583-1779574583
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png",group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
 https://pre.streameasthd.net/mls5en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=d49197c6de41584e73b4de14ca8a41453ada1268-e3-1779628684-1779574684
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
 https://8c51.streameasthd.net/mls6en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=1796d373c478faffc41ecc80ec943272094d587e-98-1779628700-1779574700
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="Eventos:5/23/26",MLS: LA Galaxy vs Houston Dynamo
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26",MLS: LA Galaxy vs Houston Dynamo
 https://8c51.streameasthd.net/mls7en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=37f37ac2c84ddab83579198133aeb214b8117813-fc-1779628748-1779574748
 ########## SECTION:  KIDS   ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2017_Disney_Channel_logo.svg/640px-2017_Disney_Channel_logo.svg.png",group-title="KIDS", DISNEY CHANNEL-ChrisJorgeTelevison2 
@@ -730,7 +730,7 @@ http://181.209.105.115:2525/play/tntseries/index.m3u8
 
  ########## SECTION: DEPORTES│COLOMBIA🇨🇴##########
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400", group-title="DEPORTES│COLOMBIA🇨🇴", DSPORTS -ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es", group-title="DEPORTES│COLOMBIA🇨🇴", DSPORTS 2 -ChrisJorgeTelevison2
 http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s", group-title="DEPORTES│COLOMBIA🇨🇴", DSPORTS+ -ChrisJorgeTelevison2
@@ -759,7 +759,7 @@ http://181.118.153.15:8000/play/op88/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/300?cb=20221011170127",group-title="DEPORTES│COLOMBIA🇨🇴",WIN SPORTS+ (COLOMBIA🇨🇴)-ChrisJorgeTelevison2 
 http://190.60.39.195:8000/play/a0ug/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",group-title="DEPORTES│COLOMBIA🇨🇴", TNT SPORTS-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png",group-title="DEPORTES│COLOMBIA🇨🇴", TNT SPORTS-ChrisJorgeTelevison2
  http://181.13.252.102:8000/play/a0bc/index.m3u8 
 ########## SECTION: COLOMBIA🇨🇴##########
 
@@ -815,7 +815,7 @@ http://178.33.239.54:8080/501a/index.m3u8
 
 ########## SECTION:DEPORTES│PERU🇵🇪 ##########
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400", group-title="DEPORTES│PERU🇵🇪", DSPORTS -ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es", group-title="DEPORTES│PERU🇵🇪", DSPORTS 2 -ChrisJorgeTelevison2
 http://199.188.103.176:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s", group-title="DEPORTES│PERU🇵🇪", DSPORTS+ -ChrisJorgeTelevison2
@@ -857,10 +857,10 @@ http://8.243.126.131:8000/play/a052/index.m3u8
 http://216.107.136.17:18112/play/a0la/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/07/tigo-sports-960x246.png",group-title="DEPORTES│PERU🇵🇪", Tigo Sports-ChrisJorgeTelevison2
 http://8.243.126.131:8000/play/a0ih/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",group-title="DEPORTES│PERU🇵🇪", TNT Sports-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png",group-title="DEPORTES│PERU🇵🇪", TNT Sports-ChrisJorgeTelevison2
 http://8.243.126.131:8000/play/a0nr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",group-title="DEPORTES│PERU🇵🇪", TNT Sports-ChrisJorgeTelevison2
-
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png",group-title="DEPORTES│PERU🇵🇪", TNT Sports-ChrisJorgeTelevison2
+http://8.243.126.131:8000/play/a0nr/index.m3u8
 ########## SECTION:PERU🇵🇪 ##########
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png"group-title="PERU🇵🇪",USA Network LATIN AMERICA-ChrisJorgeTelevison2
 http://8.243.126.131:8000/play/a05z/index.m3u8
@@ -903,14 +903,33 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/160?cb=20250807224814", group-title="PERU🇵🇪",America TV (PERU)-ChrisJorgeTelevison2
 http://8.243.126.131:8000/play/a01q/index.m3u8
+########## SECTION: ESPN PACK ##########
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/nk34/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 2 -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/aj01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"group-title="DEPORTES│COLOMBIA🇨🇴", ESPN 3 -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/lt41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",group-title="DEPORTES│COLOMBIA🇨🇴", ESPN 4 -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/rk19/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 5 -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/en28/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png", group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 6 -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/ns99/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 7 -ChrisJorgeTelevison2
+http://181.118.153.15:8000/play/rq26/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", group-title="DEPORTES│COLOMBIA🇨🇴", ESPN Premium -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a078/index.m3u8
 
 ############################
 ##### 🇦🇷 ARGENTINA | DEPORTES
 ############################
 
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",DSPORTS
-http://190.43.92.235:1988/play/a1un/index.m3u8
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",DSPORTS 2
 http://190.108.89.228:8000/play/a05w/index.m3u8
 
@@ -1079,10 +1098,9 @@ http://181.13.252.102:8000/play/a07j/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",DSPORTS
-http://190.43.92.235:1988/play/a1un/index.m3u8
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",DSPORTS BACKUP
-http://190.108.89.228:8000/play/a05w/index.m3u8
+
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",DSPORTS 2
 http://190.61.41.181:8000/play/a0r4/index.m3u8
@@ -1225,34 +1243,22 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/.m3u8
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 
-
 ########## SECTION: PARAMOUNT+ CHANNELS ##########
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+",PARAMOUNT+ (CHANNEL 1) (USA🇺🇸) - ChrisJorgeTelevision2
-https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8 
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/1f0ffdd8-ff29-485b-8238-38e7b9a766eb:DLS/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a6bcf9f9-9eb9-48dd-87e0-9234d78c7bae%22%2Csu
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 2) (USA🇺🇸) - ChrisJorgeTelevision2
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 3) (USA🇺🇸) - ChrisJorgeTelevision2
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 4) (USA🇺🇸) - ChrisJorgeTelevision2
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/42999bd5-2419-4ab6-b7dd-d07bf49100e5:ATL/variant/d8ea6d3d54a25e62aaabfdc2f950a733/bandwidth/9478000.m3u8?CMCD=mtp%3D19000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d6cda902-aa01-4511-a7ac-24d73cb5238f%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 5) (USA🇺🇸) - ChrisJorgeTelevision2
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=Hj-uH-1KO5arRw-MhHsMCzpt_JTmLrsy0E_0dV34uBBgA9QafcZXd3TIH4g87C9w_FGeVwNigN8aJ0waJHSfTll7b_qKGDMi9hKRUKdsZEpd9juCI8YbaRa2t8R7BBKT6tQOFf8wRJcRluFfqoEVt34uQFP2McF07Uy4OHOi2YPg-kMGxKoFz9Hud3so0A&CMCD=mtp%3D51200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%222d0e1aa6-69c0-4520-935c-70a14cc43b0f%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 6) (USA🇺🇸) - ChrisJorgeTelevision2
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=Hj-uH-1KO5arRw-MhHsMCzpt_JTmLrsy0E_0dV34uBBgA9QafcZXd3TIH4g87C9w_FGeVwNigN8aJ0waJHSfTll7b_qKGDMi9hKRUKdsZEpd9juCI8YbaRa2t8R7BBKT6tQOFf8wRJcRluFfqoEVt34uQFP2McF07Uy4OHOi2YPg-kMGxKoFz9Hud3so0A&CMCD=mtp%3D51200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%222d0e1aa6-69c0-4520-935c-70a14cc43b0f%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 7) (USA🇺🇸) - ChrisJorgeTelevision2
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=tIE0zvdqlq3bGxONFGPrBpTkW9H_azbT1hEVttkQmAsqL1B-jYhARS91XefooxyEWUn0UvphiVvXT8ooO22s_nqbrXUHTcHJUizAssB1jf_WU9473jJZwcD-HbVjouB_j_rfBYDvhqec-Y758Tz5ixgtEDUz3EvEiBysoeGoPRwed2C3oLtS8tUaH-FjaA&CMCD=mtp%3D75700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2256c3970b-252e-475f-9011-a5aec6f1a62e%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png",group-title="PARAMOUNT+",  PARAMOUNT+ (CHANNEL 8) (USA🇺🇸) - ChrisJorgeTelevision2
-https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/991c40d1-e91a-491c-ad39-d47849c71ab7:CBF2/variant/5d0ff86f1a3a586bfc68f141042cfb26/bandwidth/9290689.m3u8?CMCD=mtp%3D23000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22876be640-48f5-4105-8aad-7ca4a3bd4dce%22%2Csu
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/e2c52314-0850-4df7-a650-a030791b857c:DLS/variant/469fe0b81b9056529d4e030304e25458/bandwidth/7575084.m3u8?CMCD=mtp%3D53000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d314ccc0-742c-4330-a8ca-9f4910695651%22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png",group-title="PARAMOUNT+",PARAMOUNT+ (CHANNEL 8) (USA🇺🇸) - ChrisJorgeTelevision2c
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=efOrGjQneeX6bqsQOoGH2qWgnpfBsx7GSYMEY8yY_ZdDKywvTaCOzEFrNj_5GoraSMNHav48RnfGCqO1B2AuzntbNE-C_e1aY98IQpgMQrsrZpQbfj4qjViahWr5N6QUvEUgWE1vKuPufyCPrdtxQiknWrOiuoSJ_ealQSwt9D9hq5JXiHCIJZKqur_dAg&CMCD=mtp%3D39800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220b5bf41e-440a-4025-ad1f-519948e5701e%22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 9) (USA🇺🇸) - ChrisJorgeTelevision2
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=efOrGjQneeX6bqsQOoGH2qWgnpfBsx7GSYMEY8yY_ZdDKywvTaCOzEFrNj_5GoraSMNHav48RnfGCqO1B2AuzntbNE-C_e1aY98IQpgMQrsrZpQbfj4qjViahWr5N6QUvEUgWE1vKuPufyCPrdtxQiknWrOiuoSJ_ealQSwt9D9hq5JXiHCIJZKqur_dAg&CMCD=mtp%3D39800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220b5bf41e-440a-4025-ad1f-519948e5701e%22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 10) (USA🇺🇸) - ChrisJorgeTelevision2
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 11) (USA🇺🇸) - ChrisJorgeTelevision2
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/42999bd5-2419-4ab6-b7dd-d07bf49100e5:ATL/variant/d8ea6d3d54a25e62aaabfdc2f950a733/bandwidth/9478000.m3u8?CMCD=mtp%3D19000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d6cda902-aa01-4511-a7ac-24d73cb5238f%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 12) (USA🇺🇸) - ChrisJorgeTelevision2
-https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8 
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 ########## SECTION:  STAR+  ##########
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcH56vdqEG36boqt9LHiRag4wfwrw0f_wkqw&s",group-title="STAR+", ESPN -ChrisJorgeTelevison2
@@ -1476,9 +1482,10 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_webvtt.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ljxvjRWpaD5aC_rdhdhUWH9cgZQsqNWKIg&s" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 1) -ChrisJorgeTelevison2
-https://rezofoot.tv/Fox_Sports_1/index.m3u8
+http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ljxvjRWpaD5aC_rdhdhUWH9cgZQsqNWKIg&s" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 2) -ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0o7/index.m3u8
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ljxvjRWpaD5aC_rdhdhUWH9cgZQsqNWKIg&s" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 3) -ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_NESN/index.m3u8
@@ -1488,7 +1495,7 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ljxvjRWpaD5aC_rdhdhUWH9cgZQsqNWKIg&s" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 5) -ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ljxvjRWpaD5aC_rdhdhUWH9cgZQsqNWKIg&s" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 6) -ChrisJorgeTelevison2
-https://rezofoot.tv/Fox_Sports_1/index.m3u8
+http://41.223.30.230/FOXSPORTS1/index.m3u8
 
 
 
@@ -1896,54 +1903,63 @@ http://181.209.105.115:2525/play/history2/index.m3u8
 http://181.209.105.115:2525/play/fx/index.m3u8
 
 
-
+#EXTM3U
 
 #MOVIES
-#EXTINF:-1 tvg-id="movie1" tvg-name="Scream 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKNwlbJjEzANzADLcCwSODW8XUCzJf4OvWQ&s" group-title="Movies", Scream 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKNwlbJjEzANzADLcCwSODW8XUCzJf4OvWQ&s" group-title="Movies",Scream 7
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yUgV3Nuu/hls/media-1/stream.m3u8
-#EXTINF:-1 tvg-id="movie2" tvg-name="The Super Mario Galaxy Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTl7wNIyCz676GzY8TWQFo5fPV4-cpqh8cJA&s" group-title="Movies", The Super Mario Galaxy Movie
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTl7wNIyCz676GzY8TWQFo5fPV4-cpqh8cJA&s" group-title="Movies",The Super Mario Galaxy Movie
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/2l0tlEGz/hls/media-1/stream.m3u8
 
+
 #SERIES
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E01" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E01
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E01
 https://dn720402.ca.archive.org/0/items/squid/SG%2001.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E02" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E02
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E02
 https://dn720402.ca.archive.org/0/items/squid/SG%2002.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E03" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E03
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E03
 https://dn720402.ca.archive.org/0/items/squid/SG%2003.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E04" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E04
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E04
 https://dn720402.ca.archive.org/0/items/squid/SG%2004.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E05" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E05
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E05
 https://dn720402.ca.archive.org/0/items/squid/SG%2005.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E06" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E06
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E06
 https://dn720402.ca.archive.org/0/items/squid/SG%2006.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E07" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E07
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E07
 https://dn720402.ca.archive.org/0/items/squid/SG%2007.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E08" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E08
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E08
 https://dn720402.ca.archive.org/0/items/squid/SG%2008.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S01E09" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series", Squid Game S01E09
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S01E09
 https://dn720402.ca.archive.org/0/items/squid/SG%2009.mp4
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game S2E1" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",  Squid Game S2E1
+
+#SQUID GAME S2
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E01
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/__CdxDQE/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game  S2E2" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",  Squid Game  S2E2
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E02
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/pOdkJAN6/hls/media-1/stream.m3u8
 
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game  S2E3" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game  S2E3
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game  S2E4" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game  S2E4
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E03
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/JbUWaoq0/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E04
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/1JXpTAiQ/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game  S2E5" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game  S2E5
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E05
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/7CGPBank/hls/media-1/stream.m3u8
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game  S2E6" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game  S2E6
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E06
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/qbj5UEMG/hls/media-1/stream.m3u8
-#EXTINF:-1 tvg-id="series1" tvg-name="Squid Game  S2E7" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid 
-Game  S2E7
+
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_v8_ae.jpg" group-title="Series",Squid Game S02E07
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/GEPOMl67/hls/media-2/stream.m3u8

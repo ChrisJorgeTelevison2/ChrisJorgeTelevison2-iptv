@@ -1,5 +1,10 @@
 #EXTM3U
-########## SECTION:  Eventos:5/23/26   ##########
+########## SECTION:  Eventos Diarios:5/24/26   ##########
+#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",group-title="Eventos:5/24/26", Liga Profesional: River Plate vs Belgrano - Final 1/1
+https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",group-title="Eventos:5/24/26", Serie A: Torino vs Juventus 
+http://181.118.153.15:8000/play/lt41/index.m3u8
+########## SECTION:  Eventos Diarios:5/23/26   ##########
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png",group-title="Eventos:5/23/26", Deportivo Cuenca vs LDU de Quito 
 https://xky9q.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=754f58653aed7e38146e03c7c974b3bc0fde1131-d1-1779629032-1779575032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Saturday_Nights_Main_Event_Logo_2024.png",group-title="Eventos:5/23/26",8:00pm Saturday Night's Main Event 2026
@@ -905,23 +910,23 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 http://8.243.126.131:8000/play/a01q/index.m3u8
 ########## SECTION: ESPN PACK ##########
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png",group-title=" ESPN PACK",ESPN -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/nk34/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 2 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title=" ESPN PACK",ESPN 2 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/aj01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"group-title="DEPORTES│COLOMBIA🇨🇴", ESPN 3 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"group-title=" ESPN PACK", ESPN 3 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/lt41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",group-title="DEPORTES│COLOMBIA🇨🇴", ESPN 4 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",group-title=" ESPN PACK", ESPN 4 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/rk19/index.m3u8
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 5 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png",group-title=" ESPN PACK",ESPN 5 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/en28/index.m3u8
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png", group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 6 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png", group-title=" ESPN PACK",ESPN 6 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/ns99/index.m3u8
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png",group-title="DEPORTES│COLOMBIA🇨🇴",ESPN 7 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png",group-title=" ESPN PACK",ESPN 7 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/rq26/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", group-title="DEPORTES│COLOMBIA🇨🇴", ESPN Premium -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", group-title=" ESPN PACK", ESPN Premium -ChrisJorgeTelevison2
 http://181.13.252.102:8000/play/a078/index.m3u8
 
 ############################

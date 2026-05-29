@@ -146,7 +146,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s",group-title="LOCAL 🗽",TELEMUNDO 47(USA)ChrisJorgeTelevison2 
-https://futbol.ultratv.workers.dev/deportivo111/73.m3u8
+https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",group-title="LOCAL 🗽",GOLTV-ChrisJorgeTelevison2 
 http://199.188.103.176:8000/play/a0cy/index.m3u8
@@ -297,8 +297,7 @@ https://xtream.videx.lol/Yoshiro/admin/435.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s",group-title="LATINO",TELEMUNDO 47(USA)ChrisJorgeTelevison2 
-https://futbol.ultratv.workers.dev/deportivo111/73.m3u8
-
+https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
 
 
 

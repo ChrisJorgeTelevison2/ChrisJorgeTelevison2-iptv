@@ -1373,25 +1373,25 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/vix_so/vix_so.isml/.m3u8
 
 
 
-########## SECTION: VIX Deportes ##########
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", Zona TUDN - ChrisJorgeTelevison2
+# -------- VIX DEPORTES --------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES", Zona TUDN 
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona_so/zona_so.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", Zona TUDN 2 - ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES", Zona TUDN 2
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", VIX Deportes 1- ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",  VIX Deportes 1
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", VIX Deportes 2- ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES", VIX Deportes 2 
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", VIX Deportes 3- ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/ha1padPS/hls/media-2/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", VIX Deportes 4- ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES", VIX Deportes 3
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/ha1padPS/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 4
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title=" VIX Deportes", VIX Deportes 5- ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 5- ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
 
 

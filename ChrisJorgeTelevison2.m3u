@@ -1914,7 +1914,8 @@ http://181.209.105.115:2525/play/fx/index.m3u8
 # -------- MOVIES --------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKNwlbJjEzANzADLcCwSODW8XUCzJf4OvWQ&s" group-title="MOVIES", Scream 7
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yUgV3Nuu/hls/media-1/stream.m3u8
-#EXTINF:-1 tvg-logo="Movies.png" group-title="MOVIES", The Super Mario Galaxy Movie
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQew4_5rXQ_RHmC7KyfPaBnES0p3mG_zuIzMA&s" group-title="MOVIES", The Super Mario Galaxy Movie
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/2l0tlEGz/hls/media-1/stream.m3u8
 
 

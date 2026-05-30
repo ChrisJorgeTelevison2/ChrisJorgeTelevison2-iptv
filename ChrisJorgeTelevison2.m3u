@@ -1,28 +1,24 @@
 #EXTM3U
-########## SECTION:  Eventos Diarios:5/24/26   ##########
-#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",group-title="Eventos:5/24/26", Liga Profesional: River Plate vs Belgrano - Final 1/1
+# -------- Eventos Diarios:5/30/26 --------
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris Saint-Germain F.C. vs 
+Arsenal F.C.
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/29/26", 7:30pm│Partido Amistoso:Ecuador vs Arabia Saudita 
+http://170.82.113.51:8899/play/a0j1/index.m3u8
+
+# -------- Eventos Diarios:5/24/26 --------
+#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png" group-title="Eventos Diarios:5/24/26",Liga Profesional: River Plate vs Belgrano - Final 1/1
 https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",group-title="Eventos:5/24/26", Serie A: Torino vs Juventus 
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png" group-title="Eventos Diarios:5/24/26", Serie A: Torino vs Juventus 
 http://181.118.153.15:8000/play/lt41/index.m3u8
-########## SECTION:  Eventos Diarios:5/23/26   ##########
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png",group-title="Eventos:5/23/26", Deportivo Cuenca vs LDU de Quito 
-https://xky9q.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=754f58653aed7e38146e03c7c974b3bc0fde1131-d1-1779629032-1779575032
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Saturday_Nights_Main_Event_Logo_2024.png",group-title="Eventos:5/23/26",8:00pm Saturday Night's Main Event 2026
-https://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/programs/f30bbe65-77c6-4f92-bc1b-641445f43d49/16x9/1280x720_20260522195741.jpg",group-title="Eventos:5/23/26",8:00pm:Eastern Conference Finals Knicks vs Cavaliers 
-https://8c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=6377dbf036fa570f4e2afa834a72c3b6a8121a70-8d-1779631774-1779577774
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png" group-title="Eventos:5/23/26",MLS: Nashville SC vs New York City
-https://pecdl1.streameasthd.net/mls2en/index.m3u8?token=c0d27dc429ba1fd9c12a39683ecb15c2c26a5cb4-38-1779628531-1779574531&ip=47.17.229.27
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26",MLS: Chicago Fire vs Toronto FC
-https://8c51.streameasthd.net/mls3en/index.m3u8?token=9a0552b48a629ad2ab255cf1a5aaa61b155b1b6d-2f-1779628545-1779574545&ip=47.17.229.27
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26",MLS: San Diego vs Vancouver Whitecaps
-https://98ca2.streameasthd.net/mls4en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=2756e561fece0d5145b27a12a44c18bfb9b2629d-dc-1779628583-1779574583
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png",group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
-https://pre.streameasthd.net/mls5en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=d49197c6de41584e73b4de14ca8a41453ada1268-e3-1779628684-1779574684
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26", MLS: Portland Timbers vs SJ Earthquakes
-https://8c51.streameasthd.net/mls6en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=1796d373c478faffc41ecc80ec943272094d587e-98-1779628700-1779574700
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/10/MLS-logo.png", group-title="Eventos:5/23/26",MLS: LA Galaxy vs Houston Dynamo
-https://8c51.streameasthd.net/mls7en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=37f37ac2c84ddab83579198133aeb214b8117813-fc-1779628748-1779574748
+# -------- La Copa Mundial 2026 --------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="La Copa Mundial 2026", Ronda 1 Copa Mundial de la FIFA: Mexico vs South Africa 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/rth541CUaD3KwNke/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="La Copa Mundial 2026", Ronda 1 Copa Mundial de la FIFA: South Korea vs Czech Republic 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/rth541CUaD3KwNke/hls/master.m3u8
+
 ########## SECTION:  KIDS   ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2017_Disney_Channel_logo.svg/640px-2017_Disney_Channel_logo.svg.png",group-title="KIDS", DISNEY CHANNEL-ChrisJorgeTelevison2 
 http://181.119.111.25:4000/play/a0h9/index.m3u8

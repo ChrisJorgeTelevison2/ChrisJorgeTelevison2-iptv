@@ -1,6 +1,6 @@
 #EXTM3U
 # -------- Eventos Diarios:5/30/26 --------
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec961a53-4aac-4b75-804d-8437f0eca309/13/BOXART-16X9/en-US/288x91._UR1920,1080_SX624_FMpng_.png" group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris vs Arsenal 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec961a53-4aac-4b75-804d-8437f0eca309/13/BOXART-16X9/en-US/288x91._UR1920,1080_SX624_FMpng_.png"  group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris vs Arsenal 
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRUyyrQ81J9_-2_a3XeE78xyijjY-tJX27g&s" group-title="Eventos Diarios:5/29/26", 3:00pm│Brazilan Serie A-Round 18:Flamengo vs Coritiba
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/master.m3u8

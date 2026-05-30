@@ -1,10 +1,17 @@
 #EXTM3U
 # -------- Eventos Diarios:5/30/26 --------
-#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris Saint-Germain F.C. vs 
-Arsenal F.C.
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec961a53-4aac-4b75-804d-8437f0eca309/13/BOXART-16X9/en-US/288x91._UR1920,1080_SX624_FMpng_.png" group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris vs Arsenal 
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRUyyrQ81J9_-2_a3XeE78xyijjY-tJX27g&s" group-title="Eventos Diarios:5/29/26", 3:00pm│Brazilan Serie A-Round 18:Flamengo vs Coritiba
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/29/26", 7:30pm│Partido Amistoso:Ecuador vs Arabia Saudita 
 http://170.82.113.51:8899/play/a0j1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDC6dCpyKWuPsWMQ9ZZDmFDucdRgFnQxo00w&s" group-title="Eventos Diarios:5/29/26", 8:00pm│ Ecuador Liga Pro-Round 16:Deportivo Cuenca vs Deflin
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEXN8W8bD3KxDWYrSE8N9cCCjt4swjTMNlkY7d8aaQm8thgeBwqIyrycjBKz3VFD4mWMMq0NRaQsXYxFn4UxWp5vJv7oFw7fe7XBWExLxTcK65sLfq-SITHiDZvS1JEzbG-mrCE-O6Q3CHj7-ep-c2h8HP_8RwApknG0KaMGFf5y7j-UOROydIFJ4xjCu/s350/toulca%20vs%20tigres.png" group-title="Eventos Diarios:5/29/26", 8:00pm│ CONCACAF Champions Cup-Final:Toulca vs Tigres
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/ha1padPS/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqgvubabGtDisWM_Z1xs5efLHTGnJsBEH9GiE86G-pwKTBkZo9xuNyAoPIkYBv3i5xNH1HkZa_AajOQrV-l9HM58YdB64wVZp473grqIoDzUI2UshDylKoZd4T2Zx5Q0EvlM570VwBTGNjjYmsdQx9hF_k42hEW1VmMdyLoV2bf6rPfTAbOrIaA7TRsPy8/s350/MexicovsAustraila.pngg" group-title="Eventos Diarios:5/29/26", 10:00pm│Partido Amistoso:Mexico vs Austraila
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
 # -------- Eventos Diarios:5/24/26 --------
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png" group-title="Eventos Diarios:5/24/26",Liga Profesional: River Plate vs Belgrano - Final 1/1

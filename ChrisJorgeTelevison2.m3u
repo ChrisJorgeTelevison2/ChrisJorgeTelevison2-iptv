@@ -2,15 +2,17 @@
 # -------- Eventos Diarios:5/30/26 --------
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec961a53-4aac-4b75-804d-8437f0eca309/13/BOXART-16X9/en-US/288x91._UR1920,1080_SX624_FMpng_.png"  group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris vs Arsenal 
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRUyyrQ81J9_-2_a3XeE78xyijjY-tJX27g&s" group-title="Eventos Diarios:5/29/26", 3:00pm│Brazilan Serie A-Round 18:Flamengo vs Coritiba
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRUyyrQ81J9_-2_a3XeE78xyijjY-tJX27g&s" group-title="Eventos Diarios:5/30/26", 3:00pm│Brazilan Serie A-Round 18:Flamengo vs Coritiba
 https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/29/26", 7:30pm│Partido Amistoso:Ecuador vs Arabia Saudita 
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/30/26", 7:30pm│Partido Amistoso:Ecuador vs Arabia Saudita 
 http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDC6dCpyKWuPsWMQ9ZZDmFDucdRgFnQxo00w&s" group-title="Eventos Diarios:5/29/26", 8:00pm│ Ecuador Liga Pro-Round 16:Deportivo Cuenca vs Deflin
+#EXTINF:-1 tvg-logo="https://static.elcanaldelfutbol.com/static/news/nota-ecu-arabia.jpg.large.jpeg" group-title="Eventos Diarios:5/30/26", 7:30pm│Partido Amistoso:Ecuador vs Arabia Saudita 
+https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDC6dCpyKWuPsWMQ9ZZDmFDucdRgFnQxo00w&s" group-title="Eventos Diarios:5/30/26", 8:00pm│ Ecuador Liga Pro-Round 16:Deportivo Cuenca vs Deflin
 https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/chunks.m3u8
-#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEXN8W8bD3KxDWYrSE8N9cCCjt4swjTMNlkY7d8aaQm8thgeBwqIyrycjBKz3VFD4mWMMq0NRaQsXYxFn4UxWp5vJv7oFw7fe7XBWExLxTcK65sLfq-SITHiDZvS1JEzbG-mrCE-O6Q3CHj7-ep-c2h8HP_8RwApknG0KaMGFf5y7j-UOROydIFJ4xjCu/s350/toulca%20vs%20tigres.png" group-title="Eventos Diarios:5/29/26", 8:00pm│ CONCACAF Champions Cup-Final:Toulca vs Tigres
+#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEXN8W8bD3KxDWYrSE8N9cCCjt4swjTMNlkY7d8aaQm8thgeBwqIyrycjBKz3VFD4mWMMq0NRaQsXYxFn4UxWp5vJv7oFw7fe7XBWExLxTcK65sLfq-SITHiDZvS1JEzbG-mrCE-O6Q3CHj7-ep-c2h8HP_8RwApknG0KaMGFf5y7j-UOROydIFJ4xjCu/s350/toulca%20vs%20tigres.png" group-title="Eventos Diarios:5/30/26", 8:00pm│ CONCACAF Champions Cup-Final:Toulca vs Tigres
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/ha1padPS/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqgvubabGtDisWM_Z1xs5efLHTGnJsBEH9GiE86G-pwKTBkZo9xuNyAoPIkYBv3i5xNH1HkZa_AajOQrV-l9HM58YdB64wVZp473grqIoDzUI2UshDylKoZd4T2Zx5Q0EvlM570VwBTGNjjYmsdQx9hF_k42hEW1VmMdyLoV2bf6rPfTAbOrIaA7TRsPy8/s350/MexicovsAustraila.pngg" group-title="Eventos Diarios:5/29/26", 10:00pm│Partido Amistoso:Mexico vs Austraila
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqgvubabGtDisWM_Z1xs5efLHTGnJsBEH9GiE86G-pwKTBkZo9xuNyAoPIkYBv3i5xNH1HkZa_AajOQrV-l9HM58YdB64wVZp473grqIoDzUI2UshDylKoZd4T2Zx5Q0EvlM570VwBTGNjjYmsdQx9hF_k42hEW1VmMdyLoV2bf6rPfTAbOrIaA7TRsPy8/s350/MexicovsAustraila.pngg" group-title="Eventos Diarios:5/30/26", 10:00pm│Partido Amistoso:Mexico vs Austraila
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
 # -------- Eventos Diarios:5/24/26 --------
@@ -910,26 +912,32 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/160?cb=20250807224814", group-title="PERU🇵🇪",America TV (PERU)-ChrisJorgeTelevison2
 http://8.243.126.131:8000/play/a01q/index.m3u8
-########## SECTION: ESPN PACK ##########
+# -------- ESPN PACK --------
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png",group-title=" ESPN PACK",ESPN -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="ESPN PACK", ESPN -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/nk34/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title=" ESPN PACK",ESPN 2 -ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="ESPN PACK", ESPN 2 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/aj01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"group-title=" ESPN PACK", ESPN 3 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN PACK", ESPN 3 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/lt41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",group-title=" ESPN PACK", ESPN 4 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="ESPN PACK", ESPN 4 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/rk19/index.m3u8
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png",group-title=" ESPN PACK",ESPN 5 -ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="ESPN PACK", ESPN 5 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/en28/index.m3u8
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png", group-title=" ESPN PACK",ESPN 6 -ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN PACK", ESPN 6 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/ns99/index.m3u8
-#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png",group-title=" ESPN PACK",ESPN 7 -ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN PACK", ESPN 7 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/rq26/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", group-title=" ESPN PACK", ESPN Premium -ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ESPN PACK", ESPN Premium -ChrisJorgeTelevison2
 http://181.13.252.102:8000/play/a078/index.m3u8
+
 
 ############################
 ##### 🇦🇷 ARGENTINA | DEPORTES
@@ -1399,83 +1407,105 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-aud
 
 
 
-########## SECTION:  FANATIZ EVENTOS  ##########
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 1)-ChrisJorgeTelevison2 
+# -------- FANATIZ EVENTOS --------
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 1) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 2)-ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 2) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 3)-ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 3) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 4)-ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 4) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 5)-ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 5) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 6)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 6) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 7)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 7) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 8)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 8) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 9)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 9) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 9)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 10) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 10)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 11) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 11)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 12) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 12)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 13) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 13)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 14) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 14)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 15) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 15)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 16) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 16)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 17) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 17)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 18) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 18)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 19) -ChrisJorgeTelevison2
 https://pr745.streamingtv339.com/fanatiz19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png",group-title="FANATIZ EVENTOS ", FANATIZ (EVENTOS 19)-ChrisJorgeTelevison2
-https://pr745.streamingtv339.com/fanatiz20/tracks-v1a1/mono.m3u8
 
-########## SECTION: MLS SEASON PASS ###########
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 1) - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 2) - ChrisJorgeTelevison2
-https://pecdl1.streameasthd.net/mls2en/index.m3u8?token=c0d27dc429ba1fd9c12a39683ecb15c2c26a5cb4-38-1779628531-1779574531&ip=47.17.229.27
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 3) - ChrisJorgeTelevison2
-https://8c51.streameasthd.net/mls3en/index.m3u8?token=9a0552b48a629ad2ab255cf1a5aaa61b155b1b6d-2f-1779628545-1779574545&ip=47.17.229.27
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 4) - ChrisJorgeTelevison2
-https://98ca2.streameasthd.net/mls4en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=2756e561fece0d5145b27a12a44c18bfb9b2629d-dc-1779628583-1779574583
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 5) - ChrisJorgeTelevison2
-https://pre.streameasthd.net/mls5en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=d49197c6de41584e73b4de14ca8a41453ada1268-e3-1779628684-1779574684
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 6) - ChrisJorgeTelevison2
-https://8c51.streameasthd.net/mls6en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=1796d373c478faffc41ecc80ec943272094d587e-98-1779628700-1779574700
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 7) - ChrisJorgeTelevison2
-https://8c51.streameasthd.net/mls7en/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=37f37ac2c84ddab83579198133aeb214b8117813-fc-1779628748-1779574748
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 8) - ChrisJorgeTelevison2
+# -------- MLS SEASON PASS -------
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 1) - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 9) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 10) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 11) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 12) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 13) - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS",MLS SEASON PASS (CHANNEL 14) - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 2) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 3) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 4) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 5) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 6) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 7) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 8) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 9) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 10) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 11) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 12) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 13) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 14) - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
 
 ########## SECTION: MLB LEAGUE PASS⚾  ##########
 #EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_w1536/mlb/aaatxpsk0u7q7uufosqv.png" group-title="MLB League Pass⚾",MLB TV (CHANNEL 1) - ChrisJorgeTelevison2
@@ -1734,49 +1764,39 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/st
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png",group-title="ESPN+",ESPN+  8 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-########## SECTION:  EVENTOS 🎫  ##########
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫",EVENTOS  1 - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
+# -------- EVENTOS  🎫 -------- 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫 ",EVENTOS PPV  2 - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫",EVENTOS 3 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS🎫",EVENTOS PPV  4 - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫",EVENTOS PPV  5 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫", EVENTOS 1 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫",EVENTOS PPV  6 - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫", EVENTOS 2 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
-
-
-
-
-########## SECTION:  EVENTOS PPV🎫  ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫 ",EVENTOS PPV  1 - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫",EVENTOS PPV  2 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫", EVENTOS 3 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫",EVENTOS PPV 3 - ChrisJorgeTelevison2
-https://vsd120.okcdn.ru/cmaf/15093517781552/sig/bJOvofRAjIM/expires/1779668965129/srcIp/47.17.229.27/urls/45.136.21.59/clientType/36/srcAg/CHROME/mid/14392710285104/get/dash_14392710285104.dKrdQLH-4aI.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫",EVENTOS PPV  4 - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫",EVENTOS PPV  5 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫", EVENTOS 4 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫",EVENTOS PPV  6 - ChrisJorgeTelevison2
+
+
+
+
+# -------- EVENTOS PPV 🎫 -------- 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫", EVENTOS PPV 1 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.pngL" group-title="EVENTOS PPV🎫", EVENTOS PPV 2 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫", EVENTOS PPV 3 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
  
-
-########## SECTION:  PPV🎫  ##########
+# -------- PPV🎫 -------- 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaWcJnxhKg5Y6nwbBs6JEFcW7zGN0BoJ6-VpXUztC2tS2ywqczUVA05nJwhbTpgQQQe4C2LxarXknu7khC_V5ulUL-BPARd9GZ2aEReiFuQn12llimILPumLxNsrYpXuqRWecEX6Kh-ymHUzn69lsvgNOqt9QofDGV4uoWO9_LnRziwHm7k-ho_3Qi9dY/s610-rw/PPV%20LIVE.png" group-title="PPV🎫",PPV LIVE 1 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
@@ -1797,84 +1817,80 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/st
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
 
-########## SECTION:  PPV SPORTS ##########
+ 
+# -------- PPV SPORTS🎫  -------- 
 
-#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS",PPV SPORTS 1 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS",PPV SPORTS 2 - ChrisJorgeTelevison2
-https://vsd120.okcdn.ru/cmaf/15093517781552/sig/bJOvofRAjIM/expires/1779668965129/srcIp/47.17.229.27/urls/45.136.21.59/clientType/36/srcAg/CHROME/mid/14392710285104/get/dash_14392710285104.dKrdQLH-4aI.mpd
+#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 1  - ChrisJorgeTelevision2
+STREAM_URL
 
-#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS",PPV SPORTS 3 - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS",PPV SPORTS 4 - ChrisJorgeTelevison2
-http://200.115.120.1:8000/play/ca124/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS",PPV SPORTS  5 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS",PPV SPORTS 6 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 2 - ChrisJorgeTelevision2
+STREAM_URL
 
-########## SECTION:  DAZN PPV  ##########
+#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫",PPV SPORTS  3 - ChrisJorgeTelevision2
+STREAM_URL
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/DAZN_PPV.png/revision/latest?cb=20230708104557" group-title="DAZN PPV", DAZN PPV  1 - ChrisJorgeTelevison2
-https://cdn13.zafiles.cfd/live/cdn13/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 4 - ChrisJorgeTelevision2
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/DAZN_PPV.png/revision/latest?cb=20230708104557" group-title="DAZN PPV", DAZN PPV  2 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/DAZN_PPV.png/revision/latest?cb=20230708104557" group-title="DAZN PPV", DAZN PPV  3 - ChrisJorgeTelevison2
-https://cdn13.zafiles.cfd/live/cdn13/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/DAZN_PPV.png/revision/latest?cb=20230708104557" group-title="DAZN PPV", DAZN PPV 4  - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 5 - ChrisJorgeTelevision2
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/DAZN_PPV.png/revision/latest?cb=20230708104557" group-title="DAZN PPV", DAZN PPV  5 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/DAZN_PPV.png/revision/latest?cb=20230708104557" group-title="DAZN PPV", DAZN PPV  6 - ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-########## SECTION:  PEACOCK EVENTS ########## 
+ 
+# -------- DAZN PPV --------  
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK| ESPAÑOL(USA)-ChrisJorgeTelevison2
-https://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 1(USA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 2(USA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 3(USA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 4(USA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK EVENTS", PEACOCK EVENTS 5(USA)-ChrisJorgeTelevison2
-https://newday.loreofeldenring.site/dailymotion/live/playlist/1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_vA_N4qTAnpbzKWVQQU8liP1UeLFNnzV6Q&s" group-title="DAZN PPV", DAZN PPV 1 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_vA_N4qTAnpbzKWVQQU8liP1UeLFNnzV6Q&s" group-title="DAZN PPV", DAZN PPV 2 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_vA_N4qTAnpbzKWVQQU8liP1UeLFNnzV6Q&s" group-title="DAZN PPV", DAZN PPV 3 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_vA_N4qTAnpbzKWVQQU8liP1UeLFNnzV6Q&s" group-title="DAZN PPV", DAZN PPV 4 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
+
+# -------- PEACOCK|EVENTS --------  
+
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 1 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 2 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 3 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 4 - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
 
 
 
-########## SECTION:  WWE PPV EVENTS ##########
+# -------- WWE|PPV --------  
 
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/WWE_Network_%28Horizontal%29.svg/revision/latest?cb=20200925185937"group-title="WWE PPV EVENTS",WWE Network (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/WWE_Network_%28Horizontal%29.svg/revision/latest?cb=20200925185937" group-title=" WWE|PPV",  WWE Network  - ChrisJorgeTelevision2
 http://200.115.120.1:8000/play/ca121/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg"group-title="WWE PPV EVENTS",RAW ON NETFLIX (USA🇺🇸)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg"group-title="WWE PPV EVENTS",RAW ON NETFLIX| ESPAÑOL (USA🇺🇸)-ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png"group-title="WWE PPV EVENTS",WWE  Main EVENT  (USA🇺🇸)-ChrisJorgeTelevison2
-https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/pvod/211329/Thanks_for_Joining_us.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg" group-title=" WWE|PPV", RAW ON NETFLIX
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png"group-title="WWE PPV EVENTS",WWE PPV EVENT 1 (USA🇺🇸)-ChrisJorgeTelevison2
-https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/pvod/211329/Thanks_for_Joining_us.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png"group-title="WWE PPV EVENTS",WWE PPV EVENT 2 (USA🇺🇸)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png" group-title=" WWE|PPV",WWE PPV EVENT 1 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png"group-title="WWE PPV EVENTS",WWE PPV EVENT 3 (USA🇺🇸)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/PPV_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png"group-title="WWE PPV EVENTS",WWE PPV EVENT 4 (USA🇺🇸)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png" group-title=" WWE|PPV",WWE PPV EVENT 2 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png"group-title="WWE PPV EVENTS",WWE PPV EVENT 5 (USA🇺🇸)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png" group-title=" WWE|PPV",WWE PPV EVENT 3
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png" group-title=" WWE|PPV",WWE PPV EVENT 4
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png" group-title=" WWE|PPV",WWE PPV EVENT 5
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
 ########## SECTION:  NETFLIX LIVE SPORTS  ##########
+#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg" group-title=" NETFLIX LIVE SPORTS",RAW ON NETFLIX 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg"group-title="NETFLIX LIVE SPORTS",RAW ON NETFLIX (USA🇺🇸)-ChrisJorgeTelevison2
 https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg"group-title="NETFLIX LIVE SPORTS",RAW ON NETFLIX En Español  (USA🇺🇸)-ChrisJorgeTelevison2

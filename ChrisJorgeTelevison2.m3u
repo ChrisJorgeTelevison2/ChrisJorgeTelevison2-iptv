@@ -1136,10 +1136,9 @@ http://170.82.113.51:8899/play/a0j1/index.m3u8
 http://170.82.113.51:8899/play/a0j1/index.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-
+https://bd2ih.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=96fe112c63a1de0ad650e4b3e1e801ec8adbae1b-70-1780299343-1780245343
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS 2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+https://live20.bozztv.com/giatv/giatv-Eventos2-ChrisJorgeTelevison2/Eventos2-ChrisJorgeTelevison2/playlist.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS 3
 https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8

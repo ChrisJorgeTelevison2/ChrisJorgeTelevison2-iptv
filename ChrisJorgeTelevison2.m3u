@@ -131,7 +131,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 
 ########## SECTION: LOCAL 🗽 ##########
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
-https://videxdata.alwaysdata.net/deportivo111/72.m3u8
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
@@ -1824,15 +1824,14 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/st
 STREAM_URL
 
 #EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 2 - ChrisJorgeTelevision2
-STREAM_URL
+https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫",PPV SPORTS  3 - ChrisJorgeTelevision2
-STREAM_URL
-
+https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 4 - ChrisJorgeTelevision2
-
+https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 5 - ChrisJorgeTelevision2
-
+https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8
  
 # -------- DAZN PPV --------  
 
@@ -1849,7 +1848,8 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
 
 # -------- PEACOCK|EVENTS --------  
-
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|Español  - ChrisJorgeTelevision2
+https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 1 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
 
@@ -1892,11 +1892,11 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/st
 #EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg" group-title=" NETFLIX LIVE SPORTS",RAW ON NETFLIX 
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg"group-title="NETFLIX LIVE SPORTS",RAW ON NETFLIX (USA🇺🇸)-ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2024/12/WWE-Raw-Netflix.jpeg"group-title="NETFLIX LIVE SPORTS",RAW ON NETFLIX En Español  (USA🇺🇸)-ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-2014-present.jpg",group-title="NETFLIX LIVE SPORTS", NETFLIX MAIN EVENT  (USA🇺🇸)-ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/stream.m3u8
+https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1FDel2564gRr-wdG3huIPvzPrmrUJYtqLBQ&s" group-title="NETFLIX LIVE SPORTS",NETFLIX SPORTS LIVE 1 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/stream.m3u8

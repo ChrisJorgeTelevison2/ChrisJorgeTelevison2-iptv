@@ -383,6 +383,7 @@ http://179.60.224.196:8000/play/a0dw/index.m3u8
 
 
 
+
  ########## SECTION: MEXICO🇲🇽 ##########
 
 
@@ -517,7 +518,7 @@ http://45.228.234.62:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.png",  group-title="MEXICO🇲🇽", ESPN 5 -ChrisJorgeTelevison2
 http://200.92.227.238:8000/play/a0um/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn6.png",  group-title="DISNEY+-MEXICO🇲🇽", ESPN 6 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn6.png",  group-title="MEXICO🇲🇽", ESPN 6 -ChrisJorgeTelevison2
 http://videx-limit182-stream.x10.mx:8000/stream/espn6.m3u8
 
 
@@ -586,7 +587,7 @@ http://200.92.227.238:8000/play/a0og/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/uploads/2023/08/WhatsApp_Image_2023-08-01_at_15.28.48-removebg-preview.png" group-title="DEPORTES│Costa Rica🇨🇷",FUTV - ChrisJorgeTelevison2
 http://190.105.128.198:5800/play/a03q/index.m3u8
-L
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/1280px-ViX_Logo.svg.png",  group-title="DEPORTES│Costa Rica🇨🇷", La Liga VIX -ChrisJorgeTelevison2
 http://190.105.128.198:5800/play/a087/index.m3u8
 ########## SECTION: Costa Rica🇨🇷 ##########
@@ -935,8 +936,76 @@ http://181.118.153.15:8000/play/ns99/index.m3u8
 #EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN PACK", ESPN 7 -ChrisJorgeTelevison2
 http://181.118.153.15:8000/play/rq26/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ESPN PACK", ESPN Premium -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="ESPN PACK", ESPN Premium -ChrisJorgeTelevison2
 http://181.13.252.102:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png",   group-title="ESPN PACK", ESPN ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a002/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png",    group-title="ESPN PACK",ESPN 2 -ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png",  group-title="ESPN PACK", ESPN 3 -ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png",   group-title="ESPN PACK", ESPN 4-ChrisJorgeTelevison2
+ http://45.228.234.62:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.png",  group-title="ESPN PACK", ESPN 5 -ChrisJorgeTelevison2
+http://200.92.227.238:8000/play/a0um/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn6.png",  group-title="ESPN PACK", ESPN 6 -ChrisJorgeTelevison2
+http://200.92.227.238:8000/play/a0um/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="ESPN PACK", ESPN -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="ESPN PACK", ESPN 2 -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN PACK", ESPN 3 -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="ESPN PACK", ESPN 4 -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="ESPN PACK", ESPN 5 -ChrisJorgeTelevison2
+http://8.243.126.131:8000/play/a0nh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="ESPN PACK", ESPN 6 -ChrisJorgeTelevison2
+http://8.243.126.131:8000/play/a0ns/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="ESPN PACK", ESPN 7 -ChrisJorgeTelevison2
+http://8.243.126.131:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="ESPN PACK", ESPN Premium -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a078/index.m3u8
+
+# -------- FOX Sports Pack --------
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230209073234" group-title="FOX Sports Pack", Fox Sports -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/330px-Fox_Sports_2_Argentina_2023.svg.png" group-title="FOX Sports Pack", Fox Sports 2 -ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a05c/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png" group-title="FOX Sports Pack", Fox Sports 3-ChrisJorgeTelevison2
+http://181.13.252.102:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsportsmx.png" group-title="FOX Sports Pack", FOX SPORTS 1  -ChrisJorgeTelevison2
+http://38.194.226.190:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports2mx.png" group-title="FOX Sports Pack", FOX SPORTS 2  -ChrisJorgeTelevison2
+http://38.194.226.190:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports3mexico.png", group-title="FOX Sports Pack",FOX SPORTS 3-ChrisJorgeTelevison2
+http://38.194.226.190:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png", group-title="FOX Sports Pack",FOX SPORTS Premium--ChrisJorgeTelevison2
+http://38.194.226.190:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", group-title="FOX Sports Pack", Fox Sports 1 (USA)-ChrisJorgeTelevison2
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaw_mXY21Od0sSSZt2bMRyFFxuX50m8jp-XA&s", group-title="FOX Sports Pack", Fox Sports 2 (USA)-ChrisJorgeTelevison2
+http://104.238.222.251:9090/281866_.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", group-title="FOX Sports Pack", Fox Deportes(USA)-ChrisJorgeTelevison2 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 
 ############################
@@ -968,7 +1037,7 @@ http://8.243.126.131:8000/play/a0nh/index.m3u8
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 6
 http://8.243.126.131:8000/play/a0ns/index.m3u8
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN 7
-http://8.243.126.131:8000/play/a065/index.m3u8?hls
+http://8.243.126.131:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",ESPN PREMIUM
 http://181.13.252.102:8000/play/a078/index.m3u8
@@ -977,10 +1046,10 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",FOX SPORTS 2
-http://181.13.252.102:8000/play/a07j/index.m3u8
+http://181.13.252.102:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",FOX SPORTS 3
-http://181.13.252.102:8000/play/a07j/index.m3u8
+http://181.13.252.102:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 group-title="🇦🇷 ARGENTINA | DEPORTES",TYC SPORTS
 http://38.49.128.38:8000/play/a0kw/index.m3u8

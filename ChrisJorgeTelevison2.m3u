@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-omhpvahegw.xml"
 # -------- Eventos Diarios:5/30/26 --------
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec961a53-4aac-4b75-804d-8437f0eca309/13/BOXART-16X9/en-US/288x91._UR1920,1080_SX624_FMpng_.png"  group-title="Eventos Diarios:5/29/26", 12:00pm│Champions League Final:Paris vs Arsenal 
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8

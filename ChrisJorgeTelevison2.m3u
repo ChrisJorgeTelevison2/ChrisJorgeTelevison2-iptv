@@ -1130,19 +1130,21 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 http://181.13.252.102:8000/play/a078/index.m3u8
 
 #EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 1
-https://canaiss.fazoeli.co.za/fontes/smart/premiere.m3u8
+http://138.117.81.96:8000/play/a0eu/index.m3u8
 
 #EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 2
-https://canaiss.fazoeli.co.za/fontes/smart/premiere2.m3u8
-
+http://138.117.81.96:8000/play/a0gf/index.m3u8
 #EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 3
-https://canaiss.fazoeli.co.za/fontes/smart/premiere3.m3u8
+http://138.117.81.96:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 4
-https://canaiss.fazoeli.co.za/fontes/smart/premiere4.m3u8
+http://138.117.81.96:8000/play/a0fn/index.m3u8
 #EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 5
-https://canaiss.fazoeli.co.za/fontes/smart/premiere4.m3u8
-
+http://138.117.81.96:8000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 6
+http://138.117.81.96:8000/play/a0fe/index.m3u8
+#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",PREMIERE 7
+http://138.117.81.96:8000/play/a0f4/index.m3u8
 
 ############################
 ##### 🇪🇨 ECUADOR | SPORTS
@@ -1205,19 +1207,17 @@ http://170.82.113.51:8899/play/a0j1/index.m3u8
 http://170.82.113.51:8899/play/a0j1/index.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS
-https://bd2ih.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=47.17.229.27&token=96fe112c63a1de0ad650e4b3e1e801ec8adbae1b-70-1780299343-1780245343
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS 2
-https://live20.bozztv.com/giatv/giatv-Eventos2-ChrisJorgeTelevison2/Eventos2-ChrisJorgeTelevison2/playlist.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS 3
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS+
-http://170.82.113.51:8899/play/a0j1/index.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 
 #EXTINF:-1 group-title="🇪🇨 ECUADOR | SPORTS",ZAPPING SPORTS+ 2
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 
 ############################
 ##### 🇪🇨 ECUADOR | TV
@@ -1575,6 +1575,99 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/st
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 14) - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
 
+
+# -------- MLS TEAMS -------
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/atlanta-united.png" group-title="MLS TEAMS", Atlanta United - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/austin-fc.png" group-title="MLS TEAMS", Austin FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/charlotte-fc.png" group-title="MLS TEAMS", Charlotte FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/chicago-fire-fc.png" group-title="MLS TEAMS", Chicago Fire FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/fc-cincinnati.png" group-title="MLS TEAMS", FC Cincinnati - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/colorado-rapids.png" group-title="MLS TEAMS", Colorado Rapids - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/columbus-crew.png" group-title="MLS TEAMS", Columbus Crew - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/dc-united.png" group-title="MLS TEAMS", D.C. United - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/fc-dallas.png" group-title="MLS TEAMS", FC Dallas - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/houston-dynamo.png" group-title="MLS TEAMS", Houston Dynamo FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/inter-miami-cf.png" group-title="MLS TEAMS", Inter Miami CF - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/la-galaxy.png" group-title="MLS TEAMS", LA Galaxy - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/lafc.png" group-title="MLS TEAMS", LAFC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/minnesota-united.png" group-title="MLS TEAMS", Minnesota United FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/cf-montreal.png" group-title="MLS TEAMS", CF Montréal - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/nashville-sc.png" group-title="MLS TEAMS", Nashville SC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/new-england-revolution.png" group-title="MLS TEAMS", New England Revolution - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/new-york-red-bulls.png" group-title="MLS TEAMS", New York Red Bulls - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/new-york-city-fc.png" group-title="MLS TEAMS", New York City FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/orlando-city-sc.png" group-title="MLS TEAMS", Orlando City SC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/philadelphia-union.png" group-title="MLS TEAMS", Philadelphia Union - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/portland-timbers.png" group-title="MLS TEAMS", Portland Timbers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/real-salt-lake.png" group-title="MLS TEAMS", Real Salt Lake - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/san-diego-fc.png" group-title="MLS TEAMS", San Diego FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/san-jose-earthquakes.png" group-title="MLS TEAMS", San Jose Earthquakes - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/seattle-sounders.png" group-title="MLS TEAMS", Seattle Sounders FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/sporting-kc.png" group-title="MLS TEAMS", Sporting Kansas City - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/st-louis-city-sc.png" group-title="MLS TEAMS", St. Louis CITY SC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/toronto-fc.png" group-title="MLS TEAMS", Toronto FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_q-best/prd-league/club-logos/vancouver-whitecaps.png" group-title="MLS TEAMS", Vancouver Whitecaps FC - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
 ########## SECTION: MLB LEAGUE PASS⚾  ##########
 #EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_w1536/mlb/aaatxpsk0u7q7uufosqv.png" group-title="MLB League Pass⚾",MLB TV (CHANNEL 1) - ChrisJorgeTelevison2
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist_webvtt.m3u8
@@ -1672,6 +1765,110 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/st
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS (CHANNEL 12) - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+
+
+
+# -------- NBA TEAMS  -------
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/bos.png" group-title="NBA TEAMS", Boston Celtics - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/bkn.png" group-title="NBA TEAMS", Brooklyn Nets - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/nyk.png" group-title="NBA TEAMS", New York Knicks - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/phi.png" group-title="NBA TEAMS", Philadelphia 76ers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/tor.png" group-title="NBA TEAMS", Toronto Raptors - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/chi.png" group-title="NBA TEAMS", Chicago Bulls - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/cle.png" group-title="NBA TEAMS", Cleveland Cavaliers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/det.png" group-title="NBA TEAMS", Detroit Pistons - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/ind.png" group-title="NBA TEAMS", Indiana Pacers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mil.png" group-title="NBA TEAMS", Milwaukee Bucks - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/atl.png" group-title="NBA TEAMS", Atlanta Hawks - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/cha.png" group-title="NBA TEAMS", Charlotte Hornets - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mia.png" group-title="NBA TEAMS", Miami Heat - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/orl.png" group-title="NBA TEAMS", Orlando Magic - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/was.png" group-title="NBA TEAMS", Washington Wizards - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/den.png" group-title="NBA TEAMS", Denver Nuggets - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/min.png" group-title="NBA TEAMS", Minnesota Timberwolves - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/okc.png" group-title="NBA TEAMS", Oklahoma City Thunder - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/por.png" group-title="NBA TEAMS", Portland Trail Blazers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/utah.png" group-title="NBA TEAMS", Utah Jazz - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/gsw.png" group-title="NBA TEAMS", Golden State Warriors - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/lac.png" group-title="NBA TEAMS", LA Clippers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" group-title="NBA TEAMS", Los Angeles Lakers - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/phx.png" group-title="NBA TEAMS", Phoenix Suns - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sac.png" group-title="NBA TEAMS", Sacramento Kings - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/dal.png" group-title="NBA TEAMS", Dallas Mavericks - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/hou.png" group-title="NBA TEAMS", Houston Rockets - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mem.png" group-title="NBA TEAMS", Memphis Grizzlies - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/nop.png" group-title="NBA TEAMS", New Orleans Pelicans - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sas.png" group-title="NBA TEAMS", San Antonio Spurs - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 ########## SECTION:  NFL Sunday Ticket  ##########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png"group-title="NFL Sunday Ticket", NFL Channel(USA🇺🇸)-ChrisJorgeTelevison2
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=desktop&usprivacy=1YNN&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=157bf1cc-d901-62b2-6b46-028727400e00&tmsid=121705&palnonce=&rdid=157bf1cc-d901-62b2-6b46-028727400e00&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=NFL%20Channel&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
@@ -1719,90 +1916,68 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBOM46Z.png",group-title="NFL Sunday Ticket", NFL Sunday Ticket 16 (USA🇺🇸)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
 
-########## SECTION: NHL PASS ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png",group-title=" NHL PASS",, NHL CHANNEL (CANADA)-ChrisJorgeTelevison2
-https://livetv-fa.tubi.video/nhl/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png",group-title=" NHL PASS", NHL CHANNEL (CANADA)-ChrisJorgeTelevison2
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png",group-title=" NHL PASS", NHL CHANNEL (CANADA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS", NHL PASS 1 (CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS", NHL PASS 2(CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS",NHL PASS 3 (CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS", NHL PASS 4 (CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS", NHL PASS 5 (CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS", NHL PASS 6 (CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/10/NHL-Center-ice.jpg.jpeg",group-title=" NHL PASS", NHL PASS 7 (CANADA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
 
-########## SECTION: 24/7 Channels ##########
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557",group-title="24/7 Channels",WWE NETWORK 24/7(USA)-ChrisJorgeTelevison2
-http://200.115.120.1:8000/play/ca121/index.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557",group-title="24/7 Channels",PEPPA PIG 24/7(USA)-ChrisJorgeTelevison2
+
+# --------  24/7 CHANNELS  ------- 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", WWE NETWORK 24/7 (USA) - ChrisJorgeTelevison2
+http://200.115.120.1:8000/play/ca121/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", PEPPA PIG 24/7 (USA) - ChrisJorgeTelevison2
 http://200.115.120.1:8000/play/ca009/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557",group-title="24/7 Channels",DREAMWORKS 24/7(USA)-ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", DREAMWORKS 24/7 (USA) - ChrisJorgeTelevison2
 http://200.115.120.1:8000/play/ca005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557",group-title="24/7 Channels", Pokemon 24/7(USA)-ChrisJorgeTelevison2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", POKEMON 24/7 (USA) - ChrisJorgeTelevison2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557",group-title="24/7 Channels", RickandMorty 24/7(USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", RICK AND MORTY 24/7 (USA) - ChrisJorgeTelevison2
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_5.m3u8
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", PARAMOUNT+ PICKS  24/7  - ChrisJorgeTelevison2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557",group-title="24/7 Channels", Casos de la Dra. Polo 24/7 (USA)-ChrisJorgeTelevison2 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d546e36-eca6-11ee-8e4d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=72ca6cea-74f5-4b3d-acff-a34985bd6151&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", PARAMOUNT+ PICKS 24/7 - ChrisJorgeTelevison2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels"Anime AllDay 24/7 - ChrisJorgeTelevison2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", CASOS DE LA DRA POLO 24/7 - ChrisJorgeTelevison2
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",SOUTH PARK 24/7- ChrisJorgeTelevison
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ANIME ALL DAY 24/7 - ChrisJorgeTelevison2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",NARUTO 24/7- ChrisJorgeTelevison
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1164-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91b30c33-90e6-47e3-95e6-a297bd00e5df
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", SOUTH PARK 24/7 - ChrisJorgeTelevison2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",ONE PIECE 24/7- ChrisJorgeTelevison
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d815-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=011422f0-e50a-4334-9bb5-b01fe7684ef5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", NARUTO 24/7 - ChrisJorgeTelevison2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ONE PIECE 24/7 - ChrisJorgeTelevison2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",Los Simpsons 24/7- ChrisJorgeTelevison
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", THE SIMPSONS 24/7 - ChrisJorgeTelevison2
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",Los Simpsons 24/7- ChrisJorgeTelevison
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", VIX JAJAJA - ChrisJorgeTelevison2
+https://d3v3mmi4g0m0ew.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9dep4gfn1ijcp/server/distrib/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", VIX NOVELAS DE ORO - ChrisJorgeTelevison2
+https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", VIX GRANDES PAREJAS - ChrisJorgeTelevison2
+https://dfthcr89xhr9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qakw38x191dx/server/distrib/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",ViX JaJaJa - ChrisJorgeTelevison2
-https://d3v3mmi4g0m0ew.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9dep4gfn1ijcp/server/distrib/0bnenbTDekmrc4k0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqneaHlA15ODd243ofh4ow7byPiOMypU6EpNOlVXM0LAvEGO7MheGgBhEe3EcVhOZINDlQkAXpVg1LSgJfYM3Tqtf8SUzpfMDCWDBLW9si6Nzvzp4VDF9d4LVSqSz1TbNTsYH9uoxvheGk1btfcS3mSBRXX3Dg02LfpkYwW1jwdCUcYqkl9md3jIycfOMwsE6ag/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", ViX Novelas de Oro - ChrisJorgeTelevison2
-https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels",ViX Grandes Parejas - ChrisJorgeTelevison2
-https://dfthcr89xhr9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qakw38x191dx/server/distrib/AJzMzWfNL23JI5DA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqvFRpE0R0MAj1T3d3pBjJ8FAXLY4bpY3f-Z3bjDZohMBIoStJzmAHKYT6Ca-NeRLgLCjQh5GfzqmMexbi6ao3NBnZRGtI58hnPciSWhC5ifup2KbiX3E8LN9yGq9nbPM0ADpTVVTbx-4xHEDxvjMp5bqD_uk_GoHJoU1YiY7JzvUY75lHeqU1b02IPEFKZ5FRw/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", Zona TUDN - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ZONA TUDN - ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona_so/zona_so.isml/.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", Noticias Univision 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", NOTICIAS UNIVISION 24/7 - ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247_so/n247_so.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", Aquí y Ahora - ChrisJorgeTelevison2
-https://d3unbvkahyadn8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4ftct3puiiwx/server/distrib/Akpqp9fxaoNEhJdj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqkX5uHc8eRVb60iX16U2aobDsXJ7NO8RHvpYQqDRkxZBBpnbZ30EfJ5Y7DcgknHG0y0NUVhfFbcGhU1QwKDtyRDiVTRz1qnPiGPx2pDTzYwjy3Cnzu3H8a8QqSN81xrBbMn_a9QPbLYBiU0Vxpp51_nSkXqaALVcAlHcIBricX_5kWp2LS7TLb7_M73T_C0JUA/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", ZONA VIX - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", AQUI Y AHORA - ChrisJorgeTelevison2
+https://d3unbvkahyadn8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4ftct3puiiwx/server/distrib/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ZONA VIX - ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix_so/vix_so.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 Channels", Dragon Ball - ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", DRAGON BALL - ChrisJorgeTelevison2
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
 ########## SECTION:  ESPN+  ##########

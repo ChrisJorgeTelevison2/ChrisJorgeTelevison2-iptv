@@ -1,5 +1,8 @@
 #EXTINF
 # -------- Eventos Diarios:6/7/26 --------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcmngegCy53DqEy9FpirlSTbmFRmtmdczuw&s" group-title="Eventos Diarios:5/30/26", 9:00pm│Partido Amistoso:Argentina vs Islandia
+http://190.61.41.181:8000/play/a0r5/index.m3u8
+# -------- Eventos Diarios:6/7/26 --------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcmngegCy53DqEy9FpirlSTbmFRmtmdczuw&s" group-title="Eventos Diarios:5/30/26", 4:00pm│Partido Amistoso: Ecuador vs Guatemala
 http://181.119.185.32:8000/play/a002/index.m3u8
 

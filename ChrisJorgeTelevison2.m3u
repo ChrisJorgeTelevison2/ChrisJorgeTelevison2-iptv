@@ -240,9 +240,10 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png", group-title="LOCAL 🗽", MSGN NETWORK (USA)-ChrisJorgeTelevison2 
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png", group-title="LOCAL 🗽", MSG 2 NETWORK (USA)-ChrisJorgeTelevison2 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/hIRMPqv2/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png", group-title="LOCAL 🗽", MSGN 2 NETWORK (USA)-ChrisJorgeTelevison2 
-http://23.237.104.106:8080/USA_MSG/index.m3u8
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/Nce2diJn/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png",group-title="LOCAL 🗽", BIG TEN NETWORK (USA🇺🇸)-ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png",group-title="LOCAL 🗽",Adult Swim(USA)-ChrisJorgeTelevison2
@@ -1098,42 +1099,26 @@ https://181.209.105.115:2525/play/natgeo/index.m3u8
 
 
 
-############################
-##### 🇧🇷 BRAZIL | SPORTS
-############################
+# -------- 🇧🇷 BRAZIL | SPORTS --------
 
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",SPORTV
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/80569
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",SPORTV 2
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/71
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",SPORTV 3
-https://canaiss.fazoeli.co.za/fontes/smart/sportv3.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",BAND SPORTS
-https://canaiss.fazoeli.co.za/fontes/smart/bandsports.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",COMBATE
-https://canaiss.fazoeli.co.za/fontes/smart/combate.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN
-https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN 2
-https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN 3
-https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN 4
-https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN 5
-https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
-
-#EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN 6
-http://181.13.252.102:8000/play/a078/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES",SPORTV 
+http://138.117.81.96:8000/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", SPORTV 2 
+http://138.117.81.96:8000/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", SPORTV 3
+http://138.117.81.96:8000/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", Combate
+http://138.117.81.96:8000/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", ESPN
+http://138.117.81.96:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", ESPN 2
+http://138.117.81.96:8000/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", ESPN 3
+http://138.117.81.96:8000/play/a0gk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", ESPN 4
+http://138.117.81.96:8000/play/a0gc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇧🇷 BRAZIL | DEPORTES", ESPN 5
+http://138.117.81.96:8000/play/a0er/index.m3u8
 #EXTINF:-1 group-title="🇧🇷 BRAZIL | SPORTS",ESPN PREMIUM
 http://181.13.252.102:8000/play/a078/index.m3u8
 
@@ -1478,11 +1463,17 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-aud
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/ha1padPS/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 4
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 5- ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 5 
+
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/WPP5mx1l/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 6
+https://streamvidex.qzz.io/latamplay/vix1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 7
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 8
+http://201.151.118.136:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSon8emkbpVv-5NW6xneSB6X4T80_VJHTbsfQ&s" group-title="VIX DEPORTES",VIX Deportes 9
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg 
 # -------- FANATIZ EVENTOS --------
 
 #EXTINF:-1 tvg-logo="https://nextjs.fanatiz.com/fanatiz/strapi/production/Fanatiz_new_92171dc64b.png" group-title="FANATIZ EVENTOS", FANATIZ (EVENTOS 1) -ChrisJorgeTelevison2

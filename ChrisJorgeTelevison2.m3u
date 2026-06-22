@@ -7,6 +7,70 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/rth541CUaD3KwNke/hls/ma
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="La Copa Mundial 2026", Ronda 1 Copa Mundial de la FIFA: South Korea vs Czech Republic 
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/rth541CUaD3KwNke/hls/master.m3u8
 
+
+
+
+
+# -------- USA LOCAL FOX --------
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 11 LOS ANGELES
+http://stream.cammonitorplus.net/1776/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 26 HOUSTON
+http://stream.cammonitorplus.net/1780/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX NETWORK
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 5 NEW YORK
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 29 PHILADELPHIA
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 25 BOSTON
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 32 CHICAGO
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 2 DETROIT
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 9 MINNEAPOLIS
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 4 DALLAS
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 13 TAMPA BAY
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 5 ATLANTA
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 10 PHOENIX
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 13 SEATTLE
+http://84.17.50.102/fox/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 31 DENVER
+http://84.17.50.102/fox/index.m3u8
 ########## SECTION:  KIDS   ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2017_Disney_Channel_logo.svg/640px-2017_Disney_Channel_logo.svg.png",group-title="KIDS", DISNEY CHANNEL-ChrisJorgeTelevison2 
 http://181.119.111.25:4000/play/a0h9/index.m3u8
@@ -1152,7 +1216,7 @@ http://138.117.81.96:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="🇪🇨 ECUADOR  | DEPORTES", ESPN
 http://181.119.185.32:8000/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="🇪🇨 ECUADOR | SPORTS", ESPN 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="🇪🇨 ECUADOR | DEPORTES", ESPN 2
 http://181.119.185.32:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="🇪🇨 ECUADOR  | DEPORTES", ESPN 3
@@ -2074,26 +2138,26 @@ https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN+ ", ESPN+ 1 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ", ESPN+ 1 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN+ ",ESPN+  2 - ChrisJorgeTelevison2
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN+ ",ESPN+ 3 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ",ESPN+  2 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN+ ",ESPN+  4 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ",ESPN+ 3 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN+",ESPN+  5 - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN+",ESPN+  6 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ",ESPN+  4 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png",group-title="ESPN+", ESPN+  7 - ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+",ESPN+  5 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png",group-title="ESPN+",ESPN+  8 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+",ESPN+  6 - ChrisJorgeTelevison2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png",group-title="ESPN+", ESPN+  7 - ChrisJorgeTelevison2 
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png",group-title="ESPN+",ESPN+  8 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
 # -------- EVENTOS  🎫 -------- 
@@ -2122,7 +2186,7 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/st
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫", EVENTOS PPV 1 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.pngL" group-title="EVENTOS PPV🎫", EVENTOS PPV 2 - ChrisJorgeTelevision2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫", EVENTOS PPV 2 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫", EVENTOS PPV 3 - ChrisJorgeTelevision2
@@ -2153,7 +2217,7 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/st
 # -------- PPV SPORTS🎫  -------- 
 
 #EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 1  - ChrisJorgeTelevision2
-STREAM_URL
+https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ppvliveevents.com/static/sitefiles/images/logo.png" group-title="PPV SPORTS🎫", PPV SPORTS 2 - ChrisJorgeTelevision2
 https://unixutf.loreofeldenring.site/dailymotion/live/playlist/3.m3u8

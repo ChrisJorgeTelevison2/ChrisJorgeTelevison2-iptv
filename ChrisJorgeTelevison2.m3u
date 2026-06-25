@@ -1,15 +1,101 @@
 #EXTINF
 
 # -------- 🏆La Copa Mundial 2026🏆 --------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="La Copa Mundial 2026", Ronda 1 Copa Mundial de la FIFA: Mexico vs South Africa 
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/rth541CUaD3KwNke/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆", 🏆La Copa Mundial 2026🏆(CANAL 1)
+https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆La Copa Mundial 2026🏆(CANAL 2)
+https://streamvidex.qzz.io/latamplay/universo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png"group-title="🏆La Copa Mundial 2026🏆",🏆La Copa Mundial 2026 🏆(CANAL 3)
+http://190.61.41.181:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="La Copa Mundial 2026", Ronda 1 Copa Mundial de la FIFA: South Korea vs Czech Republic 
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/rth541CUaD3KwNke/hls/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png"group-title="🏆La Copa Mundial 2026🏆", 🏆La Copa Mundial 2026🏆(CANAL 4)
+http://190.61.41.181:8000/play/a0r4/index.m3u8 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 5)
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 6)
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 7)
+https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 8)
+https://streamvidex.qzz.io/latamplay/universo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 9)
+https://streamvidex.qzz.io/latamplay/vix1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 10)
+http://201.151.118.136:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 11)
+http://38.44.109.41:8003/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 12)
+http://138.59.227.20:8000/play/a06x/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆4K
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆4K 2
+https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
+
+# -------- USA SPORTS 🏀⚽🏈 --------
+
+#EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png" group-title="USA SPORTS ", TUDN (USA) - ChrisJorgeTelevision2
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="USA SPORTS ", GOLTV - ChrisJorgeTelevision2
+http://199.188.103.176:8000/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA SPORTS 🏀⚽🏈", FOX Sports 1 (FS1) - ChrisJorgeTelevision2
+https://cdn.telecloud.tv/CH3223/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA SPORTS", FOX Sports 2 (FS2) - ChrisJorgeTelevision2
+https://cdn.telecloud.tv/CH3225/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="USA SPORTS ", FOX Deportes - ChrisJorgeTelevision2
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ596P7p4lC-16i_P-zcXslhQn8EpXQ&s" group-title="USA SPORTS ", SNY (USA) - ChrisJorgeTelevision2
+http://212.102.60.231/SNY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="USA SPORTS ", YES Network - ChrisJorgeTelevision2
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSG Network - ChrisJorgeTelevision2
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSGN Network - ChrisJorgeTelevision2
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSG 2 Network - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/hIRMPqv2/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSGN 2 Network - ChrisJorgeTelevision2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/Nce2diJn/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png" group-title="USA SPORTS ", Big Ten Network - ChrisJorgeTelevision2
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="USA SPORTS ", SEC Network - ChrisJorgeTelevision2
+http://212.102.60.231/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pbfilm.com/upload/editor/ESPN.png" group-title="USA SPORTS ", ESPN - ChrisJorgeTelevision2
+http://41.223.30.230/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEHR19Uv-KiCltFsgzWXnkYiBaPCj643JCw&s" group-title="USA SPORTS ", ESPN 2 - ChrisJorgeTelevision2
+http://41.223.30.230/ESPN2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png" group-title="USA SPORTS ", ESPN U - ChrisJorgeTelevision2
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png" group-title="USA SPORTS ", ESPN News - ChrisJorgeTelevision2
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png" group-title="USA SPORTS ", ESPN Deportes - ChrisJorgeTelevision2
+http://45.228.234.62:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2250/887144-854918/a4df4ef049b119253c9833bea8ed6515.jpg" group-title="USA SPORTS ",CBS Sports Network
+http://192.129.159.196:8020/watch/9ab7e7d9-db8b-4427-a4ad-c469d2f13b40/server1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/250px-Marquee_Sports_Network_Logo.svg.png" group-title="USA SPORTS ",Marquee Sports Network
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/55178
 
 # -------- USA LOCAL FOX --------
 
@@ -174,9 +260,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 
 ########## SECTION: LOCAL 🗽 ##########
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+https://streamvidex.qzz.io/latamplay/universo/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtjKSgHlpQ00GGAug3m74d-SyOA5Yi2VBUQ&s",group-title="LOCAL 🗽", Univision 41 (USA🇺🇸)-ChrisJorgeTelevison2
@@ -185,7 +271,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png",group-title="LOCAL 🗽",Galavision (USA🇺🇸)-ChrisJorgeTelevison2
-http://104.238.205.28:8989/278705_.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png", group-title="LOCAL 🗽",Unimas  (USA)-ChrisJorgeTelevison2 
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
@@ -194,13 +280,13 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s",group-title="LOCAL 🗽",TELEMUNDO 47(USA)ChrisJorgeTelevison2 
-https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
+https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",group-title="LOCAL 🗽",GOLTV-ChrisJorgeTelevison2 
 http://199.188.103.176:8000/play/a0cy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Telemundo_31_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210206140606",group-title="LOCAL 🗽",TELEMUNDO 31-ChrisJorgeTelevison2 
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntyzTXfank4jNLdfKpLtTqVIXpuwAeMx6HA&s",group-title="LOCAL 🗽", NEWS 12 Westchester (USA🇺🇸)-ChrisJorgeTelevison2
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
@@ -229,15 +315,17 @@ http://rezofoot.tv/TBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",group-title="LOCAL 🗽", TNT  (USA🇺🇸)-ChrisJorgeTelevison2
 http://84.17.50.102/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZ4C_dpk3qjFYqC_zNGD6BS8Q3ApPUpR8Q&s",group-title="LOCAL 🗽", TRUTV (USA🇺🇸)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/blackout-audio_eng=128000-video=4500000.m3u8
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png", group-title="LOCAL 🗽", USA Network(USA)-ChrisJorgeTelevison2
  https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/blackout-audio_eng=128000-video=4500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", group-title="LOCAL 🗽", Fox Sports 1(USA)-ChrisJorgeTelevison2
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+https://cdn.telecloud.tv/CH3223/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png", group-title="LOCAL 🗽", Fox Sports 2(USA)-ChrisJorgeTelevison2
-http://104.238.222.251:9090/281866_.m3u8 
+https://cdn.telecloud.tv/CH3225/index.m3u8 
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png", group-title="LOCAL 🗽", Fox Deportes(USA)-ChrisJorgeTelevison2
@@ -333,7 +421,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png",group-title="LATINO", Galavision  (USA🇺🇸)-ChrisJorgeTelevison2
-http://104.238.205.28:8989/278705_.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png", group-title="LATINO",Unimas  (USA)-ChrisJorgeTelevison2 
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut_so/wfut_so.isml/.m3u8

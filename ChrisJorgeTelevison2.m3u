@@ -35,7 +35,7 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆4K 2
 https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
 
-# -------- USA SPORTS 🏀⚽🏈 --------
+# -------- USA SPORTS --------
 
 #EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png" group-title="USA SPORTS ", TUDN (USA) - ChrisJorgeTelevision2
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
@@ -43,7 +43,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="USA SPORTS ", GOLTV - ChrisJorgeTelevision2
 http://199.188.103.176:8000/play/a0cy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA SPORTS 🏀⚽🏈", FOX Sports 1 (FS1) - ChrisJorgeTelevision2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA SPORTS", FOX Sports 1 (FS1) - ChrisJorgeTelevision2
 https://cdn.telecloud.tv/CH3223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA SPORTS", FOX Sports 2 (FS2) - ChrisJorgeTelevision2

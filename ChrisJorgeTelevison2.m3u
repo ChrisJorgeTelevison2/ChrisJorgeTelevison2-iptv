@@ -1060,7 +1060,75 @@ http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47346
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57366
 
 
+# -------- CANADA MOVIES --------
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 1 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57309
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 2 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57310
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 3
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57322
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 4 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57311
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 1
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66363
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 2
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66364
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 3
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66365
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 4
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66366
+
+---
+
+# -------- CANADA NEWS --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/CBC_logo_2018.svg" group-title="CANADA NEWS",CBC NEWS NETWORK
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57304
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/CBC_logo_2018.svg" group-title="CANADA NEWS",CBC TORONTO
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57306
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/CBC_logo_2018.svg" group-title="CANADA NEWS",CBC VANCOUVER
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57391
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/CTV_logo_2018.svg" group-title="CANADA NEWS",CTV NEWS CHANNEL
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57350
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/CP24_logo.svg" group-title="CANADA NEWS",CP24 NEWS HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57357
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/CP24_logo.svg" group-title="CANADA NEWS",BNN BLOOMBERG
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57358
+
+---
+
+# -------- CANADA GENERAL --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/CTV_logo_2018.svg" group-title="CANADA GENERAL",CTV TORONTO
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47296
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/CTV_logo_2018.svg" group-title="CANADA GENERAL",GLOBAL TORONTO
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57435
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Citytv_logo_2012.svg" group-title="CANADA GENERAL",CITY TV TORONTO
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57394
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Citytv_logo_2012.svg" group-title="CANADA GENERAL",CITY TV VANCOUVER
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57395
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/CTV_logo_2018.svg" group-title="CANADA GENERAL",CTV OTTAWA
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47237
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/CTV_logo_2018.svg" group-title="CANADA GENERAL",CTV MONTREAL
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47234
 
 
 
@@ -1818,38 +1886,131 @@ http://190.108.83.69:8000/play/a0c6/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s" group-title="DIRECTV CANALES",DSPORTS+ (COLOMBIA🇨🇴 )
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-########## SECTION:  United Kingdom🇬🇧 ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png",group-title="United Kingdom🇬🇧", SKY SPORTS FOOTBALL-ChrisJorgeTelevison2
-http://178.33.239.54:8080/500a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Sky_Sports_News_%282021_logo%29.svg/1280px-Sky_Sports_News_%282021_logo%29.svg.png",group-title="United Kingdom🇬🇧",  SKY SPORTS NEWS-ChrisJorgeTelevison2
-http://178.33.239.54:8080/501a/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Sky-sports-main-action.jpg",group-title="United Kingdom🇬🇧",  SKY SPORTS ACTION-ChrisJorgeTelevison2
-http://178.33.239.54:8080/504a/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",group-title="United Kingdom🇬🇧",  SKY SPORTS MAIN EVENT-ChrisJorgeTelevison2
-http://178.33.239.54:8080/502a/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png",group-title="United Kingdom🇬🇧",  SKY SPORTS PREMIER LEAGUE -ChrisJorgeTelevison2
-http://178.33.239.54:8080/506a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sky_Sport_Mix_-_Logo_2026.svg/3840px-Sky_Sport_Mix_-_Logo_2026.svg.png",group-title="United Kingdom🇬🇧",  SKY SPORTS MIX  -ChrisJorgeTelevison2
-http://178.33.239.54:8080/507a/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png",group-title="United Kingdom🇬🇧",  Sky SPORTS F1 -ChrisJorgeTelevison2
-http://178.33.239.54:8080/508a/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXHrvcasOYFCy_V-JNoaoeUtyrlrGx2QDt5A&s",group-title="United Kingdom🇬🇧",  SKY SPORT CRICKET -ChrisJorgeTelevison2 
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/2560px-Sky_News_logo.svg.png",group-title="United Kingdom🇬🇧",  SKY NEWS-ChrisJorgeTelevison2 
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
+# -------- UK MOVIES 🇬🇧 --------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/2560px-Sky_News_logo.svg.png", group-title="United Kingdom🇬🇧",  SKY NEWS-ChrisJorgeTelevison2
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sky_Cinema_logo_2020.svg" group-title="UK 🇬🇧 MOVIES",SKY CINEMA ACTION FHD 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35254
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE76vpDxotNF85w0rdCv90zHY73UAqHuhviw&s", group-title="United Kingdom🇬🇧", DAZN Combat-ChrisJorgeTelevison2
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sky_Cinema_logo_2020.svg" group-title="UK 🇬🇧 MOVIES",SKY CINEMA DRAMA 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35251
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png", group-title="United Kingdom🇬🇧", FIFA+-ChrisJorgeTelevison2
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sky_Cinema_logo_2020.svg" group-title="UK 🇬🇧 MOVIES",SKY CINEMA SCI-FI & HORROR 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35248
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sky_Cinema_logo_2020.svg" group-title="UK 🇬🇧 MOVIES",SKY CINEMA COMEDY 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Sky_Cinema_logo_2020.svg" group-title="UK 🇬🇧 MOVIES",SKY CINEMA CRIME THRILLER 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35252
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Film4_logo_2022.svg" group-title="UK 🇬🇧 MOVIES",FILM4 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53702
+
+---
+
+# -------- UK NEWS 🇬🇧 --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sky_News_logo_2021.svg" group-title="UK 🇬🇧 NEWS",SKY NEWS 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/77166
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/BBC_Logo_2021.svg" group-title="UK 🇬🇧 NEWS",BBC NEWS 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53757
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/RT%C3%89_News_logo.svg" group-title="UK 🇬🇧 NEWS",RTE NEWS 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/79108
+
+---
+
+# -------- UK GENERAL 🇬🇧 --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/BBC_Logo_2021.svg" group-title="UK 🇬🇧 GENERAL",BBC ONE 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53649
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/BBC_Logo_2021.svg" group-title="UK 🇬🇧 GENERAL",BBC ONE SCOTLAND 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53755
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/BBC_Logo_2021.svg" group-title="UK 🇬🇧 GENERAL",BBC TWO HD 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53650
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/ITV_logo_2019.svg" group-title="UK 🇬🇧 GENERAL",ITV 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53651
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/ITV_logo_2019.svg" group-title="UK 🇬🇧 GENERAL",ITV2 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53671
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/ITV_logo_2019.svg" group-title="UK 🇬🇧 GENERAL",ITV3 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53665
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/ITV_logo_2019.svg" group-title="UK 🇬🇧 GENERAL",ITV4 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53666
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Channel_5_logo_2025.svg" group-title="UK 🇬🇧 GENERAL",CHANNEL 5 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53653
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Channel_4_logo_2015.svg" group-title="UK 🇬🇧 GENERAL",E4 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53672
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Channel_4_logo_2015.svg" group-title="UK 🇬🇧 GENERAL",MORE4 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53673
+
+---
+
+# -------- UK KIDS 🇬🇧 --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_2010_logo.svg" group-title="UK 🇬🇧 KIDS",CARTOON NETWORK 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53719
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Nickelodeon_2009_logo.svg" group-title="UK 🇬🇧 KIDS",NICKELODEON 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Boomerang_2014_logo.svg" group-title="UK 🇬🇧 KIDS",BOOMERANG 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53718
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CBBC_logo_2016.svg" group-title="UK 🇬🇧 KIDS",CBBC 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53720
+
+---
+
+# -------- UK ENTERTAINMENT 🇬🇧 --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/MTV_Logo_2010.svg" group-title="UK 🇬🇧 ENTERTAINMENT",MTV UK 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53737
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/MTV_Logo_2010.svg" group-title="UK 🇬🇧 ENTERTAINMENT",MTV CLASSIC (US) 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53734
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Comedy_Central_logo_2018.svg" group-title="UK 🇬🇧 ENTERTAINMENT",COMEDY CENTRAL 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53660
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Dave_TV_logo.svg" group-title="UK 🇬🇧 ENTERTAINMENT",DAVE 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53659
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Discovery_Channel_logo_2019.svg" group-title="UK 🇬🇧 ENTERTAINMENT",DISCOVERY CHANNEL 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53684
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Discovery_Channel_logo_2019.svg" group-title="UK 🇬🇧 ENTERTAINMENT",DISCOVERY SCIENCE 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53695
+
+---
+
+# -------- UK SPORTS 🇬🇧 --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS MAIN EVENT 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35243
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS ACTION 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53705
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS F1 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/53704
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS GOLF 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35240
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS NEWS 🇬🇧
+http://nocable.cc:8080/3jhwHD/390283/35241
 
 
 

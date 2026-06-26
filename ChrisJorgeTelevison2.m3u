@@ -97,6 +97,45 @@ http://192.129.159.196:8020/watch/9ab7e7d9-db8b-4427-a4ad-c469d2f13b40/server1.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/250px-Marquee_Sports_Network_Logo.svg.png" group-title="USA SPORTS ",Marquee Sports Network
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/55178
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekjE7lDkPPOeQeU7MHEo375fMOZWfYJU0KLNC7YZVzw&s=10" group-title="USA SPORTS ",  NBC Sports Bay Area (A)
+http://nocable.cc:8080/3jhwHD/390283/9900
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="USA SPORTS ", US NBC Sports Boston (A)
+http://nocable.cc:8080/3jhwHD/390283/20939
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NBC_Sports_California_2023.svg/1280px-NBC_Sports_California_2023.svg.png" group-title="USA SPORTS ", US NBC Sports California (A)
+http://nocable.cc:8080/3jhwHD/390283/20940
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/NBC_Sports_Chicago.jpg" group-title="USA SPORTS ", US NBC Sports Chicago
+http://nocable.cc:8080/3jhwHD/390283/20941
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/250px-NBC_Sports_Network_logo.svg.png" group-title="USA SPORTS ", US NBC Sports Network (FHD)
+http://nocable.cc:8080/3jhwHD/390283/20926
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/NBC_Sports_Philadelphia.png" group-title="USA SPORTS ", US NBC Sports Philly (F)
+http://nocable.cc:8080/3jhwHD/390283/20943
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA SPORTS ", US NBC Sports Washington (F)
+http://nocable.cc:8080/3jhwHD/390283/20944
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_England_Sports_Network_%28logo%29.png" group-title="USA SPORTS ", US NESN (F)
+http://nocable.cc:8080/3jhwHD/390283/31637
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SEC_ESPN_Network_II.svg/revision/latest?cb=20240711212434" group-title="USA SPORTS ", US ESPN SEC Network
+http://nocable.cc:8080/3jhwHD/390283/17608
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_for_Spectrum_SportsNet_LA.jpg" group-title="USA SPORTS ", US Spectrum SportsNet LA Dodgers (HD)
+http://nocable.cc:8080/3jhwHD/390283/31636
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" group-title="USA SPORTS ", US Spectrum SportsNet Lakers (FHD)
+http://nocable.cc:8080/3jhwHD/390283/21842
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="USA SPORTS ", US Tennis Channel
+http://nocable.cc:8080/3jhwHD/390283/20184
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="USA SPORTS ", US YES Network
+http://nocable.cc:8080/3jhwHD/390283/57972
+
 # -------- USA LOCAL FOX --------
 
 
@@ -157,6 +196,190 @@ http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 31 DENVER
 http://84.17.50.102/fox/index.m3u8
+
+# -------- USA LOCAL CBS --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS KANSAS CITY
+http://stream.cammonitorplus.net/1791/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS GREEN BAY
+http://stream.cammonitorplus.net/1775/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS NEW ORLEANS
+http://stream.cammonitorplus.net/1806/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS JACKSONVILLE
+http://stream.cammonitorplus.net/1787/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS CHICAGO
+http://stream.cammonitorplus.net/1751/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS TAMPA
+http://stream.cammonitorplus.net/1840/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS BALTIMORE
+http://stream.cammonitorplus.net/1743/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS PHILADELPHIA
+http://stream.cammonitorplus.net/1814/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS DALLAS-FORT WORTH
+http://stream.cammonitorplus.net/1763/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS CLEVELAND
+http://stream.cammonitorplus.net/1759/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS PITTSBURGH
+http://stream.cammonitorplus.net/1818/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS AUSTIN
+http://stream.cammonitorplus.net/1832/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS BUFFALO
+http://stream.cammonitorplus.net/1747/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS NEW YORK CITY
+http://stream.cammonitorplus.net/1810/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS INDIANAPOLIS
+http://stream.cammonitorplus.net/1783/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS CINCINNATI
+http://stream.cammonitorplus.net/1755/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS LAS VEGAS
+http://stream.cammonitorplus.net/1794/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS MIAMI
+http://stream.cammonitorplus.net/1836/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS DETROIT
+http://stream.cammonitorplus.net/1771/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS HOUSTON
+http://stream.cammonitorplus.net/1779/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS DENVER
+http://stream.cammonitorplus.net/1767/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS SIOUX FALLS
+http://173.225.32.123/KELO-2361/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS WEST
+http://stream.cammonitorplus.net/1798/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS EAST
+https://cdn.telecloud.tv/CH3247/index.m3u8
+
+# -------- USA LOCAL NBC --------
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC MIAMI
+http://91.218.50.136/Rose35torres/iB7101/10862
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC NEW YORK
+http://91.218.50.136/Rose35torres/iB7101/10861
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC BOSTON
+http://91.218.50.136/Rose35torres/iB7101/1288846
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC GREEN BAY
+http://stream.cammonitorplus.net/1777/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC CLEVELAND
+http://stream.cammonitorplus.net/1761/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC PHILADELPHIA
+http://stream.cammonitorplus.net/1816/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC ATLANTA
+http://stream.cammonitorplus.net/1741/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC PITTSBURGH
+http://stream.cammonitorplus.net/1820/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC DETROIT
+http://stream.cammonitorplus.net/1773/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC AUSTIN
+http://stream.cammonitorplus.net/1834/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC BALTIMORE
+http://stream.cammonitorplus.net/1745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC BUFFALO
+http://stream.cammonitorplus.net/1749/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC CHICAGO
+http://stream.cammonitorplus.net/1753/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC LAS VEGAS
+http://stream.cammonitorplus.net/1796/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC CINCINNATI
+http://stream.cammonitorplus.net/1757/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC NEW ORLEANS
+http://stream.cammonitorplus.net/1808/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC INDIANAPOLIS
+http://stream.cammonitorplus.net/1785/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC HOUSTON
+http://stream.cammonitorplus.net/1781/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC NEW YORK CITY
+http://stream.cammonitorplus.net/1812/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC MIAMI (ALT)
+http://stream.cammonitorplus.net/1838/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC DENVER
+http://stream.cammonitorplus.net/1769/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC TAMPA
+http://stream.cammonitorplus.net/1842/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC DALLAS-FORT WORTH
+http://stream.cammonitorplus.net/1765/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC SIOUX FALLS
+http://173.225.32.123/KDLT-2396/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC WEST
+http://stream.cammonitorplus.net/1800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC EAST
+http://41.205.64.66/NBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC 5
+http://stream.cammonitorplus.net/1796/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC 5
+http://stream.cammonitorplus.net/1765/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",WLWT 5 CINCINNATI NBC
+http://stream.cammonitorplus.net/1757/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",WBAL TV 11 NBC
+http://stream.cammonitorplus.net/1745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC ALIVE
+http://stream.cammonitorplus.net/1741/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC 5
+http://stream.cammonitorplus.net/1796/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC 5
+http://stream.cammonitorplus.net/1765/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",WLWT 5 CINCINNATI NBC
+http://stream.cammonitorplus.net/1757/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",WBAL TV 11 NBC
+http://stream.cammonitorplus.net/1745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/NBC-Logo-500x281-1.png" group-title="USA LOCAL NBC",NBC ALIVE
+http://stream.cammonitorplus.net/1741/index.m3u8
 ########## SECTION:  KIDS   ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2017_Disney_Channel_logo.svg/640px-2017_Disney_Channel_logo.svg.png",group-title="KIDS", DISNEY CHANNEL-ChrisJorgeTelevison2 
 http://181.119.111.25:4000/play/a0h9/index.m3u8
@@ -730,19 +953,114 @@ https://ultratv.x10.mx/stream/canal1cr/index.m3u8
 https://ultratv.x10.mx/stream/canal2repretel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica🇨🇷",  Canal6cr - ChrisJorgeTelevison2
 https://ultratv.x10.mx/stream/canal6repretel/index.m3u8
-########## SECTION: Canada🇨🇦 ##########
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png", group-title=" Canada🇨🇦", TSN 1(CANADA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/TSN_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",group-title=" Canada🇨🇦", TSN 2 (CANADA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/TSN_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYza8KO.png", group-title=" Canada🇨🇦", TSN 3 (CANADA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/TSN_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png", group-title=" Canada🇨🇦",TSN 4 (CANADA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/TSN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HEzHpzz.png",group-title=" Canada🇨🇦", TSN 5 (CANADA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/TSN_5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i3radio.com/userfiles-aplin/avatars/oie_mlyifcxw5qcb-1984955481.png",group-title=" Canada🇨🇦",TSN The Ocho (CANADA)-ChrisJorgeTelevison2
+#EXTM3U
+
+# -------- Canada🇨🇦 SPORTS --------
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/nba_tv.png" group-title="CANADA SPORTS",NBA TV
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/22995
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet East
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/41836
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet 360 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/2219
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet 360
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57299
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet East HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57298
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet One (FHD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57297
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet One (HD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47379
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Ontario
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57463
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Ontario HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57296
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Ontario (FHD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/11649
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Pacific (FHD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/9860
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Pacific HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47387
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet West (FHD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/20975
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet West
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57300
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet World HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/75675
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 1
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57292
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 1 (R)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47440
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 2
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16129
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 2 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47442
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 3 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/10389
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 3 HD (Alt)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47444
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 4
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66783
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 4 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16130
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 5
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57467
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 5 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16131
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn_ocho.png" group-title="CANADA SPORTS",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/rds.png" group-title="CANADA SPORTS",RDS
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57325
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/rds.png" group-title="CANADA SPORTS",RDS2 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57490
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/rds.png" group-title="CANADA SPORTS",RDS INFO
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57491
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tva_sports.png" group-title="CANADA SPORTS",TVA SPORTS 1
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57498
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tva_sports.png" group-title="CANADA SPORTS",TVA SPORTS 2
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57337
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/golf_channel.png" group-title="CANADA SPORTS",Golf Channel HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57362
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/nfl_network.png" group-title="CANADA SPORTS",NFL Network HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47346
+
+#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/oln.png" group-title="CANADA SPORTS",OLN
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57366
+
+
+
 
 
 
@@ -1478,6 +1796,28 @@ http://181.119.185.32:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Cartoon_Network_logo.png" group-title="🇪🇨 ECUADOR| GENERAL", CARTOON NETWORK
 http://181.119.185.32:8000/play/a00z/index.m3u8
 
+
+# -------- DIRECTV CANALES --------
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DIRECTV CANALES",DSPORTS (🇪🇨ECUADOR )
+http://190.61.41.181:8000/play/a0r5/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="DIRECTV CANALES",DSPORTS 2 (🇪🇨ECUADOR )
+http://190.61.41.181:8000/play/a0r4/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s" group-title="DIRECTV CANALES",DSPORTS+ (🇪🇨ECUADOR )
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+.#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DIRECTV CANALES",DSPORTS (COLOMBIA🇨🇴 )
+http://190.108.83.69:8000/play/a0cb/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="DIRECTV CANALES",DSPORTS 2 (COLOMBIA🇨🇴 )
+http://190.108.83.69:8000/play/a0c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s" group-title="DIRECTV CANALES",DSPORTS+ (COLOMBIA🇨🇴 )
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
 ########## SECTION:  United Kingdom🇬🇧 ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png",group-title="United Kingdom🇬🇧", SKY SPORTS FOOTBALL-ChrisJorgeTelevison2
 http://178.33.239.54:8080/500a/index.m3u8
@@ -1558,24 +1898,26 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Logo.png",group-title="PRIME VIDEO", FIFA+-ChrisJorgeTelevison2 
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
+# -------- PARAMOUNT+ --------
 
-########## SECTION: PARAMOUNT+ CHANNELS ##########
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+",PARAMOUNT+ (CHANNEL 1) (USA🇺🇸) - ChrisJorgeTelevision2
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/1f0ffdd8-ff29-485b-8238-38e7b9a766eb:DLS/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a6bcf9f9-9eb9-48dd-87e0-9234d78c7bae%22%2Csu
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 2) (USA🇺🇸) - ChrisJorgeTelevision2
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 1)
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 4) (USA🇺🇸) - ChrisJorgeTelevision2
-https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/e2c52314-0850-4df7-a650-a030791b857c:DLS/variant/469fe0b81b9056529d4e030304e25458/bandwidth/7575084.m3u8?CMCD=mtp%3D53000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d314ccc0-742c-4330-a8ca-9f4910695651%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png",group-title="PARAMOUNT+",PARAMOUNT+ (CHANNEL 8) (USA🇺🇸) - ChrisJorgeTelevision2c
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 2)
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=efOrGjQneeX6bqsQOoGH2qWgnpfBsx7GSYMEY8yY_ZdDKywvTaCOzEFrNj_5GoraSMNHav48RnfGCqO1B2AuzntbNE-C_e1aY98IQpgMQrsrZpQbfj4qjViahWr5N6QUvEUgWE1vKuPufyCPrdtxQiknWrOiuoSJ_ealQSwt9D9hq5JXiHCIJZKqur_dAg&CMCD=mtp%3D39800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220b5bf41e-440a-4025-ad1f-519948e5701e%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 9) (USA🇺🇸) - ChrisJorgeTelevision2
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=efOrGjQneeX6bqsQOoGH2qWgnpfBsx7GSYMEY8yY_ZdDKywvTaCOzEFrNj_5GoraSMNHav48RnfGCqO1B2AuzntbNE-C_e1aY98IQpgMQrsrZpQbfj4qjViahWr5N6QUvEUgWE1vKuPufyCPrdtxQiknWrOiuoSJ_ealQSwt9D9hq5JXiHCIJZKqur_dAg&CMCD=mtp%3D39800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220b5bf41e-440a-4025-ad1f-519948e5701e%22
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png", group-title="PARAMOUNT+", PARAMOUNT+ (CHANNEL 10) (USA🇺🇸) - ChrisJorgeTelevision2
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 3)
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 4)
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 5)
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 6)
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/853636/5743360/media.m3u8?request_token=efOrGjQneeX6bqsQOoGH2qWgnpfBsx7GSYMEY8yY_ZdDKywvTaCOzEFrNj_5GoraSMNHav48RnfGCqO1B2AuzntbNE-C_e1aY98IQpgMQrsrZpQbfj4qjViahWr5N6QUvEUgWE1vKuPufyCPrdtxQiknWrOiuoSJ_ealQSwt9D9hq5JXiHCIJZKqur_dAg&CMCD=mtp%3D39800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220b5bf41e-440a-4025-ad1f-519948e5701e%22
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bxvspbo2e7cv/6exQimSiiJ0oo0V7xmPNUA/6473b34ecb98096f717a0d3050d82bbc/paramount_resized.png" group-title="PARAMOUNT+",PARAMOUNT+(CHANNEL 7)
+https://cdn.telecloud.tv/CH3247/index.m3u8
 ########## SECTION:  STAR+  ##########
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcH56vdqEG36boqt9LHiRag4wfwrw0f_wkqw&s",group-title="STAR+", ESPN -ChrisJorgeTelevison2
 http://181.13.252.102:8000/play/a05a/index.m3u8
@@ -1619,8 +1961,7 @@ https://181.209.105.115:2525/play/natgeo/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
 
-
-########## SECTION:  DISNEY+  ##########
+# -------- DISNEY+ --------  
 #EXTINF:-1 tvg-logo="https://media.tenor.com/29qm4Hg4NFwAAAAM/disney-plus-pixar.gif",group-title="DISNEY+", DISNEY CHANNEL-ChrisJorgeTelevison2 
 https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://media.tenor.com/29qm4Hg4NFwAAAAM/disney-plus-pixar.gif",group-title="DISNEY+", DISNEY JR -ChrisJorgeTelevison2 
@@ -1640,27 +1981,28 @@ https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://media.tenor.com/29qm4Hg4NFwAAAAM/disney-plus-pixar.gif",group-title="DISNEY+", STAR CHANNEL-ChrisJorgeTelevison2 
 http://181.209.105.115:2525/play/starchannel/index.m3u8
 
-########## SECTION:  HBO  ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",group-title="HBO", HBO 2-ChrisJorgeTelevison2 
-http://181.13.252.102:8000/play/a06o/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png",group-title="HBO", HBO 2-ChrisJorgeTelevison2 
-https://181.13.252.102:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",group-title="HBO",  HBO FAMILY -ChrisJorgeTelevison2 
-https://181.13.252.102:8000/play/a06r/index.m3u8
+# -------- HBO Max --------
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDl2-JlIOISG-Ut71WzCwE8vw9mdBeeUOuJg&s",group-title="HBO", HBO MUNDI-ChrisJorgeTelevison2 
-https://181.13.252.102:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfzy_zryHCA8eh6XVhjEB3jjVQZ5W4qUmRA&s",group-title="HBO", HBO XTREME-ChrisJorgeTelevison2 
-https:/181.13.252.102:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",group-title="HBO", HBO PLUS-ChrisJorgeTelevison2 
-https://181.13.252.102:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO
+http://190.108.83.69:8000/play/a035/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO 2
+http://190.108.83.69:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",group-title="HBO", HBO Signature-ChrisJorgeTelevison2 
-https://181.13.252.102:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO FAMILY
+http://190.108.83.69:8000/play/a03x/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO MUNDI
+http://190.108.83.69:8000/play/a01h/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO XTREME
+http://190.108.83.69:8000/play/a03y/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO PLUS
+http://190.108.83.69:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/HBO-Max-Logo.png" group-title="HBO Max",HBO Signature
+http://190.108.83.69:8000/play/a01g/index.m3u8
 
 ########## SECTION: VIX Canales ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/800px-ViX_Logo.svg.png" group-title=" VIX Canales", ViX JaJaJa - ChrisJorgeTelevison2
@@ -1815,6 +2157,7 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/st
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" group-title="MLS SEASON PASS", MLS SEASON PASS (CHANNEL 14) - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/stream.m3u8
+
 
 
 # -------- MLS TEAMS -------

@@ -482,11 +482,11 @@ http://200.115.120.1:8000/play/ca005/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTnfPL2-FyyMuaQR8r-3NWB_kvtG6GEgXgA&s",group-title="KIDS", Pokemon 24/7(USA)-ChrisJorgeTelevison2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 
-########## SECTION: LOCAL 🗽 ##########
+# --------  LOCAL 🗽  --------
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
-
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
-https://streamvidex.qzz.io/latamplay/universo/index.m3u8
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtjKSgHlpQ00GGAug3m74d-SyOA5Yi2VBUQ&s",group-title="LOCAL 🗽", Univision 41 (USA🇺🇸)-ChrisJorgeTelevison2

@@ -563,6 +563,31 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 23 Miami
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 66 Chicago
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 34  Atlanta
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 33 Arizona
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 48 Colorado
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 15  Nevada
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 14 New Mexico
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision 32 Utah
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-500x281.png" group-title="USA LOCAL LATINOS",Univision East
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
 

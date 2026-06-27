@@ -483,7 +483,7 @@ http://200.115.120.1:8000/play/ca005/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 
 # --------  LOCAL 🗽  --------
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo (USA)-ChrisJorgeTelevison2
 http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
@@ -571,6 +571,68 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png", group-title="LOCAL 🗽", ESPN DEPORTES (USA)-ChrisJorgeTelevison2
 http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/509171
+
+
+
+# -------- USA LOCAL LATINOS --------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KTMW (Salt Lake City)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/420074
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KGLA (New Orleans)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419769
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - WTMO (Orlando)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419664
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KUAN (San Diego)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419614
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KVDA (San Antonio)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/420058
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KTMD (Houston)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/420043
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - WNJU (New York)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419896
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KBLR (Las Vegas)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419872
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KVEA (Los Angeles)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419601
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",USA: Telemundo - KHRR (Tucson)
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419586
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",PR: Telemundo FHD
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/611456
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo Tucson
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410612
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo Tampa
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410611
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo Phoenix
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410608
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo Internacional
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410601
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo Boston
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410594
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo San Francisco
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410610
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo San Antonio
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410609
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGctqGGdOXQC4uejk3RWMM8BVpEm-Y2elpEQ&s" group-title="USA LOCAL LATINOS",LAT: Telemundo New York
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410606
+
 
 ########## SECTION: LATINO ##########
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title=" LATINO", ViX JaJaJa - ChrisJorgeTelevison2

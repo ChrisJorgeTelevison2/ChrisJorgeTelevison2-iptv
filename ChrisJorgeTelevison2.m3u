@@ -921,39 +921,126 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",group-title="DISNEY+-MEXICO🇲🇽", Los Simpsons 24/7- ChrisJorgeTelevison
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-########## SECTION:DEPORTES│Costa Rica🇨🇷 ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",  group-title="DEPORTES│Costa Rica🇨🇷", ESPN -ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0o6/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",    group-title="DEPORTES│Costa Rica🇨🇷", ESPN 2 -ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",  group-title="DEPORTES│Costa Rica🇨🇷", ESPN 3 -ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0nb/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",   group-title="DEPORTES│Costa Rica🇨🇷", ESPN 4-ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png",  group-title="DEPORTES│Costa Rica🇨🇷", ESPN 5 -ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a05o/index.m3u8
+# -------- DEPORTES│Costa Rica🇨🇷 --------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png",  group-title="DEPORTES│Costa Rica🇨🇷", ESPN 6 -ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FUTV_logo.png" group-title="DEPORTES│Costa Rica🇨🇷",FUTV CR
+http://45.228.233.60:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FUTV_logo.png" group-title="DEPORTES│Costa Rica🇨🇷",FUTV HD CR
+http://45.228.233.60:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Claro_sports_logo.png" group-title="DEPORTES│Costa Rica🇨🇷",Claro Sports 2 HD
+http://45.228.233.60:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8m0q8Qp.png" group-title="DEPORTES│Costa Rica🇨🇷",Esport Max
+http://45.228.233.60:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8m0q8Qp.png" group-title="DEPORTES│Costa Rica🇨🇷",Latin America Sport
+http://45.228.233.60:8000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/TUDN_logo.png" group-title="DEPORTES│Costa Rica🇨🇷",TUDN
+http://45.228.233.60:8000/play/a05f/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A",group-title="DEPORTES│Costa Rica🇨🇷",Tigo Sports(Costa Rica🇨🇷)ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0og/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN HD
+http://45.228.233.60:8000/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/uploads/2023/08/WhatsApp_Image_2023-08-01_at_15.28.48-removebg-preview.png" group-title="DEPORTES│Costa Rica🇨🇷",FUTV - ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a03q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN 2 HD
+http://45.228.233.60:8000/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/1280px-ViX_Logo.svg.png",  group-title="DEPORTES│Costa Rica🇨🇷", La Liga VIX -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN 3 HD
+http://45.228.233.60:8000/play/a04z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN 4 HD
+http://45.228.233.60:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN 5
+http://45.228.233.60:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN 5 HD
+http://45.228.233.60:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.png" group-title="DEPORTES│Costa Rica🇨🇷",ESPN 6 HD
+http://45.228.233.60:8000/play/a050/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="DEPORTES│Costa Rica🇨🇷",Sky Sports
 http://190.105.128.198:5800/play/a087/index.m3u8
-########## SECTION: Costa Rica🇨🇷 ##########
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LAImwOafPy3sZRNxmGJUQtgt0VaYZ9A9JT-One_JBEXyHEw26bCFgXi9p8VHIrFX_w" group-title="Costa Rica🇨🇷",  Canal1cr - ChrisJorgeTelevison2
-https://ultratv.x10.mx/stream/canal1cr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/250px-Repretel_2_CDR.png" group-title="Costa Rica🇨🇷",  Canal2cr - ChrisJorgeTelevison2
-https://ultratv.x10.mx/stream/canal2repretel/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Costa Rica🇨🇷",  Canal6cr - ChrisJorgeTelevison2
-https://ultratv.x10.mx/stream/canal6repretel/index.m3u8
-#EXTM3U
+# -------- COSTA RICA GENERAL --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Repretel_11_logo.png" group-title="CR GENERAL",Repretel 11
+http://45.228.233.60:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Repretel_4_logo.png" group-title="CR GENERAL",Repretel 4
+http://45.228.233.60:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Repretel_6_logo.png" group-title="CR GENERAL",Repretel 6
+http://45.228.233.60:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Teletica_logo.png" group-title="CR GENERAL",Canal 7 HD CR
+http://45.228.233.60:8000/play/a01i/index.m3u8
+
+
+
+# -------- COSTA RICA OTHERS --------
+
+# --- INFANTILES ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Disney_Junior_logo.png" group-title="CR KIDS",Disney JR
+http://45.228.233.60:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Disney_Channel_logo_2019.png" group-title="CR KIDS",Disney
+http://45.228.233.60:8000/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Cartoon_Network_2010_logo.png" group-title="CR KIDS",Cartoon Network HD
+http://45.228.233.60:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Cartoonito_logo.png" group-title="CR KIDS",Cartoonito
+http://45.228.233.60:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Discovery_Kids_logo.png" group-title="CR KIDS",Discovery Kids
+http://45.228.233.60:8000/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Semillitas_logo.png" group-title="CR KIDS",Semillitas
+http://45.228.233.60:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Tooncast_logo.png" group-title="CR KIDS",Tooncast
+http://45.228.233.60:8000/play/a03b/index.m3u8
+
+
+
+# --- PELÍCULAS / SERIES ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Cinecanal_logo.png" group-title="CR MOVIES",CineCanal
+http://45.228.233.60:8000/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Cinemax_logo.png" group-title="CR MOVIES",CineMax
+http://45.228.233.60:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Sony_Movie_Channel_logo.png" group-title="CR MOVIES",Sony Movies HD
+http://45.228.233.60:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Studio_Universal_logo.png" group-title="CR MOVIES",Studio Universal HD
+http://45.228.233.60:8000/play/a01j/index.m3u8
+
+
+
+# --- NOTICIAS ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNN_en_Espa%C3%B1ol_logo.png" group-title="CR NEWS",CNNE
+http://45.228.233.60:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Russia-today-logo.png" group-title="CR NEWS",Russia Today Int
+http://45.228.233.60:8000/play/a01b/index.m3u8
+
+
+
+# --- MÚSICA ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/HTV_logo.png" group-title="CR MUSIC",HTV
+http://45.228.233.60:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Exa_tv_logo.png" group-title="CR MUSIC",Exa TV
+http://45.228.233.60:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Telehit_logo.png" group-title="CR MUSIC",Telehit
+http://45.228.233.60:8000/play/a05a/index.m3u8
 
 # -------- Canada🇨🇦 SPORTS --------
 
@@ -1997,23 +2084,32 @@ http://nocable.cc:8080/3jhwHD/390283/53695
 
 # -------- UK SPORTS 🇬🇧 --------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS MAIN EVENT 🇬🇧
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-ME-2020-logo-250.png" group-title="UK 🇬🇧 SPORTS",SKY SPORTS MAIN EVENT 🇬🇧
 http://nocable.cc:8080/3jhwHD/390283/35243
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS ACTION 🇬🇧
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" group-title="UK 🇬🇧 SPORTS",SKY SPORTS ACTION 🇬🇧
 http://nocable.cc:8080/3jhwHD/390283/53705
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS F1 🇬🇧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="UK 🇬🇧 SPORTS",SKY SPORTS F1 🇬🇧
 http://nocable.cc:8080/3jhwHD/390283/53704
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS GOLF 🇬🇧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Sport_Golf_-_Logo_2026.svg/1280px-Sky_Sport_Golf_-_Logo_2026.svg.png" group-title="UK 🇬🇧 SPORTS",SKY SPORTS GOLF 🇬🇧
 http://nocable.cc:8080/3jhwHD/390283/35240
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sports_logo_2020.svg" group-title="UK 🇬🇧 SPORTS",SKY SPORTS NEWS 🇬🇧
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="UK 🇬🇧 SPORTS",SKY SPORTS NEWS 🇬🇧
 http://nocable.cc:8080/3jhwHD/390283/35241
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="UK 🇬🇧 SPORTS",TNT SPORTS 1  🇬🇧
+http://192.129.159.196:8020/watch/9ab7e7d2-a517-4162-92de-ddeb433bb0da/server1.m3u8 
 
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="UK 🇬🇧 SPORTS",TNT SPORTS 2  🇬🇧
+http://192.129.159.196:8020/watch/9ab7e7d2-dce8-4819-a4aa-efe4dfbef7ff/server1.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="UK 🇬🇧 SPORTS",TNT SPORTS 3  🇬🇧
+http://192.129.159.196:8020/watch/9ab7e7d3-0e0b-405a-a3dc-e5a2c9392402/server1.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="UK 🇬🇧 SPORTS",TNT SPORTS 4  🇬🇧
+http://192.129.159.196:8020/watch/9ab7e7d3-47b9-4758-8146-a3835e152757/server1.m3u8
 ########## SECTION: PEACOCK  ##########
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK",NBC Sports-ChrisJorgeTelevison2 
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_desktopweb_NBCUSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=157bf1cc-d901-62b2-6b46-028727400e00&ads._fw_vcid2=512116:157bf1cc-d901-62b2-6b46-028727400e00&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB17&ads._fw_content_genre=Sports&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.19.1&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
@@ -2663,95 +2759,305 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u
 
 
 
-# --------  24/7 CHANNELS  ------- 
+# -------- 24/7 CHANNELS -------- 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", WWE NETWORK 24/7 (USA) - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", WWE NETWORK 24/7
 http://200.115.120.1:8000/play/ca121/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", PEPPA PIG 24/7 (USA) - ChrisJorgeTelevison2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", PEPPA PIG 24/7 
 http://200.115.120.1:8000/play/ca009/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", DREAMWORKS 24/7 (USA) - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", DREAMWORKS 24/7 
 http://200.115.120.1:8000/play/ca005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", POKEMON 24/7 (USA) - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", POKEMON 24/7 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", RICK AND MORTY 24/7 (USA) - ChrisJorgeTelevison2
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", PARAMOUNT+ PICKS 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", RICK AND MORTY 24/7
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", PARAMOUNT+ PICKS 24/7 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", CASOS DE LA DRA POLO 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", CASOS DE LA DRA POLO 24/7 - ChrisJorgeTelevison2
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ANIME ALL DAY 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", ANIME ALL DAY 24/7 - ChrisJorgeTelevison2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", SOUTH PARK 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", SOUTH PARK 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", NARUTO 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",  NARUTO 24/7 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d5fc39a25d5e00082895c4/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ONE PIECE 24/7 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",  ONE PIECE 24/7  
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", THE SIMPSONS 24/7 - ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", THE SIMPSONS 24/7 
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", VIX JAJAJA - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",  VIX JAJAJA
 https://d3v3mmi4g0m0ew.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9dep4gfn1ijcp/server/distrib/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", VIX NOVELAS DE ORO - ChrisJorgeTelevison2
+ VIX NOVELAS DE ORO - ChrisJorgeTelevison2
 https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", VIX GRANDES PAREJAS - ChrisJorgeTelevison2
+ VIX GRANDES PAREJAS - ChrisJorgeTelevison2
 https://dfthcr89xhr9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qakw38x191dx/server/distrib/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ZONA TUDN - ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", ZONA TUDN - ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona_so/zona_so.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", NOTICIAS UNIVISION 24/7 - ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", NOTICIAS UNIVISION 24/7 
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247_so/n247_so.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", AQUI Y AHORA - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",  AQUI Y AHORA 24/7 
 https://d3unbvkahyadn8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4ftct3puiiwx/server/distrib/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", ZONA VIX - ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", ZONA VIX 24/7 
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix_so/vix_so.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest?cb=20200817164557" group-title="24/7 CHANNELS", DRAGON BALL - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",  DRAGON BALL 24/7 
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
-########## SECTION:  ESPN+  ##########
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", TOM AND JERRY 24/7  
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ROBOT CHICKEN
+http://nocable.cc:8080/3jhwHD/390283/325107
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 SABRINA THE TEENAGE WITCH
+http://nocable.cc:8080/3jhwHD/390283/325108
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 THE ALFRED HITCHCOCK HOUR
+http://nocable.cc:8080/3jhwHD/390283/325109
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ", ESPN+ 1 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DOG THE BOUNTY HUNTER
+http://nocable.cc:8080/3jhwHD/390283/325110
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DINOSAURS
+http://nocable.cc:8080/3jhwHD/390283/325111
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DINERS DRIVE-INS AND DIVES
+http://nocable.cc:8080/3jhwHD/390283/325112
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DIFF'RENT STROKES
+http://nocable.cc:8080/3jhwHD/390283/325113
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DICK VAN DYKE SHOW
+http://nocable.cc:8080/3jhwHD/390283/325114
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 JACKIE CHAN MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325115
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 JET LI MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325116
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 SIMPSONS TREEHOUSE OF HORROR
+http://nocable.cc:8080/3jhwHD/390283/325117
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DEGRASSI JUNIOR HIGH
+http://nocable.cc:8080/3jhwHD/390283/325118
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DEADLIEST CATCH
+http://nocable.cc:8080/3jhwHD/390283/325119
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DALLAS
+http://nocable.cc:8080/3jhwHD/390283/325120
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 DA ALI G SHOW
+http://nocable.cc:8080/3jhwHD/390283/325121
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 CURB YOUR ENTHUSIASM
+http://nocable.cc:8080/3jhwHD/390283/325122
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 CRIMINAL MINDS
+http://nocable.cc:8080/3jhwHD/390283/325123
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 COLUMBO
+http://nocable.cc:8080/3jhwHD/390283/325124
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 CHEERS
+http://nocable.cc:8080/3jhwHD/390283/325125
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 CHARMED
+http://nocable.cc:8080/3jhwHD/390283/325126
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 CHAPPELLE'S SHOW
+http://nocable.cc:8080/3jhwHD/390283/325127
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BURN NOTICE
+http://nocable.cc:8080/3jhwHD/390283/325128
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BUFFY THE VAMPIRE SLAYER
+http://nocable.cc:8080/3jhwHD/390283/325129
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BROOKLYN NINE-NINE
+http://nocable.cc:8080/3jhwHD/390283/325130
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BREAKING BAD
+http://nocable.cc:8080/3jhwHD/390283/325131
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BRADY BUNCH
+http://nocable.cc:8080/3jhwHD/390283/325132
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BOY MEETS WORLD
+http://nocable.cc:8080/3jhwHD/390283/325133
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BOBS BURGERS
+http://nocable.cc:8080/3jhwHD/390283/325134
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BLUE BLOODS
+http://nocable.cc:8080/3jhwHD/390283/325135
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BILLY THE EXTERMINATOR
+http://nocable.cc:8080/3jhwHD/390283/325136
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BEWITCHED
+http://nocable.cc:8080/3jhwHD/390283/325137
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ACTION MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325138
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BEAVIS AND BUTTHEAD
+http://nocable.cc:8080/3jhwHD/390283/325139
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BAYWATCH
+http://nocable.cc:8080/3jhwHD/390283/325140
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 A NIGHTMARE ON ELM STREET
+http://nocable.cc:8080/3jhwHD/390283/325141
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BATMAN 1966
+http://nocable.cc:8080/3jhwHD/390283/325142
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BARNEY MILLER
+http://nocable.cc:8080/3jhwHD/390283/325143
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 BAR RESCUE
+http://nocable.cc:8080/3jhwHD/390283/325144
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ARRESTED DEVELOPMENT
+http://nocable.cc:8080/3jhwHD/390283/325145
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ARE YOU AFRAID OF THE DARK
+http://nocable.cc:8080/3jhwHD/390283/325146
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ARCHER
+http://nocable.cc:8080/3jhwHD/390283/325147
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ANCIENT ALIENS
+http://nocable.cc:8080/3jhwHD/390283/325148
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 AMERICAN DAD
+http://nocable.cc:8080/3jhwHD/390283/325149
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 AMERICAN CHOPPER
+http://nocable.cc:8080/3jhwHD/390283/325150
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ALICE
+http://nocable.cc:8080/3jhwHD/390283/325151
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ALF
+http://nocable.cc:8080/3jhwHD/390283/325152
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 ACCORDING TO JIM
+http://nocable.cc:8080/3jhwHD/390283/325153
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 A DIFFERENT WORLD
+http://nocable.cc:8080/3jhwHD/390283/325154
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 60 DAYS IN
+http://nocable.cc:8080/3jhwHD/390283/325155
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 3RD ROCK FROM THE SUN
+http://nocable.cc:8080/3jhwHD/390283/325156
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 24 HOURS IN POLICE CUSTODY
+http://nocable.cc:8080/3jhwHD/390283/325157
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 24 HOURS IN POLICE CUSTODY (ALT)
+http://nocable.cc:8080/3jhwHD/390283/325158
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 21 JUMP STREET
+http://nocable.cc:8080/3jhwHD/390283/325159
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 X-MEN
+http://nocable.cc:8080/3jhwHD/390283/325160
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 WILL FERRELL MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325161
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 WAR MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325162
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 VAMPIRE MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325163
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 TWILIGHT
+http://nocable.cc:8080/3jhwHD/390283/325164
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 TRANSPORTER
+http://nocable.cc:8080/3jhwHD/390283/325165
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 TRANSFORMERS
+http://nocable.cc:8080/3jhwHD/390283/325166
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 THRILLER MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325167
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 THE HANGOVER
+http://nocable.cc:8080/3jhwHD/390283/325168
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 MAGNUM PI
+http://nocable.cc:8080/3jhwHD/390283/325169
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 THE AVENGERS
+http://nocable.cc:8080/3jhwHD/390283/325170
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 SUPERHERO MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325171
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 STEVEN SEAGAL
+http://nocable.cc:8080/3jhwHD/390283/325172
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 SPORTS MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325174
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 QUENTIN TARANTINO MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325175
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 SCIFI MOVIES
+http://nocable.cc:8080/3jhwHD/390283/325176
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",24/7 RUSH HOUR
+http://nocable.cc:8080/3jhwHD/390283/325177
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png" group-title="24/7 CHANNELS",  ICARLY 24/7 
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+# -------- ESPN+ -------- 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 1
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ",ESPN+  2 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 3
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 4
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 5
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ",ESPN+ 3 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 6
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+ ",ESPN+  4 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 7
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+",ESPN+  5 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 8
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png" group-title="ESPN+",ESPN+  6 - ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 9
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png",group-title="ESPN+", ESPN+  7 - ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/960px-ESPN_Plus.svg.png" group-title="ESPN+", ESPN+ 10
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/espn-logo_brandlogos.net_7iymz.png",group-title="ESPN+",ESPN+  8 - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/HKNO3qIx/hls/media-2/stream.m3u8
-
 # -------- EVENTOS  🎫 -------- 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkKZ897rIO30vjJOYKBOt04qqkF-26yghukQto_-bj9L3pOyz6CY09St6Nbjaq-5N_x9VkOzDFSRNIiK_S-9b7xf2hOeMtInORkAi6E-XwYc95kNfTDL1iEoimGfIG4GXCyhTDtmHRu26giSCWGI4nPLDdzylm-xXWsmSz2qxzUoYi5fRo014MV_q1dM/s1536/chrisjorgetelevison2-evetnos.png" group-title="EVENTOS🎫", EVENTOS 1 - ChrisJorgeTelevision2

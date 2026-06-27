@@ -483,150 +483,94 @@ http://200.115.120.1:8000/play/ca005/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 
 # --------  LOCAL 🗽  --------
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo (USA)-ChrisJorgeTelevison2
 http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo(USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/NBC_Universo_logo_variant.png/revision/latest/scale-to-width-down/250?cb=20150125161522", group-title="LOCAL 🗽", Universo (USA)-ChrisJorgeTelevison2
 http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtjKSgHlpQ00GGAug3m74d-SyOA5Yi2VBUQ&s",group-title="LOCAL 🗽", Univision 41 (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtjKSgHlpQ00GGAug3m74d-SyOA5Yi2VBUQ&s", group-title="LOCAL 🗽", Univision 41 (USA🇺🇸)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png",group-title="LOCAL 🗽",Galavision (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png", group-title="LOCAL 🗽", Galavision (USA🇺🇸)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png", group-title="LOCAL 🗽",Unimas  (USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png", group-title="LOCAL 🗽", Unimas (USA)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 
-#EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png", group-title="LOCAL 🗽",TUDN (USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png", group-title="LOCAL 🗽", TUDN (USA)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s",group-title="LOCAL 🗽",TELEMUNDO 47(USA)ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s", group-title="LOCAL 🗽", TELEMUNDO 47 (USA)-ChrisJorgeTelevison2
 http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410606
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",group-title="LOCAL 🗽",GOLTV-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png", group-title="LOCAL 🗽", GOLTV-ChrisJorgeTelevison2
 http://199.188.103.176:8000/play/a0cy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Telemundo_31_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210206140606",group-title="LOCAL 🗽",TELEMUNDO 31-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Telemundo_31_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20210206140606", group-title="LOCAL 🗽", TELEMUNDO 31-ChrisJorgeTelevison2
 https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntyzTXfank4jNLdfKpLtTqVIXpuwAeMx6HA&s",group-title="LOCAL 🗽", NEWS 12 Westchester (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntyzTXfank4jNLdfKpLtTqVIXpuwAeMx6HA&s", group-title="LOCAL 🗽", NEWS 12 Westchester (USA🇺🇸)-ChrisJorgeTelevison2
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/News_12_Hudson_Valley_2019.svg/revision/latest/scale-to-width-down/250?cb=20220414034143",group-title="LOCAL 🗽", NEWS 12 Hudson Valley (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/News_12_Hudson_Valley_2019.svg/revision/latest/scale-to-width-down/250?cb=20220414034143", group-title="LOCAL 🗽", NEWS 12 Hudson Valley (USA🇺🇸)-ChrisJorgeTelevison2
 https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ez7qAZP.png",group-title="LOCAL 🗽", NEWS 12 NY (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ez7qAZP.png", group-title="LOCAL 🗽", NEWS 12 NY (USA🇺🇸)-ChrisJorgeTelevison2
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHAqsCH452m3suor9mAWI3_i4kWpT2HF3aQ&s",group-title="LOCAL 🗽", NEWS 12 Bronx (USA🇺🇸)-ChrisJorgeTelevison2
-https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHAqsCH452m3suor9mAWI3_i4kWpT2HF3aQ&s", group-title="LOCAL 🗽", NEWS 12 Bronx (USA🇺🇸)-ChrisJorgeTelevison2
+https://mdc4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbD3xU6qEMITmP9gfzm9wOoKMWTxXKlwTRQ&s",group-title="LOCAL 🗽", NEWS 12 Brookyln (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbD3xU6qEMITmP9gfzm9wOoKMWTxXKlwTRQ&s", group-title="LOCAL 🗽", NEWS 12 Brooklyn (USA🇺🇸)-ChrisJorgeTelevison2
 https://mdc4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULIptL-xjpLv2RWDTrbKtlBYPKkl2VD2Uyw&s",group-title="LOCAL 🗽", NEWS 12 Conneticut (USA🇺🇸)-ChrisJorgeTelevison2
-https://mdc4.ott.alticeusa.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULIptL-xjpLv2RWDTrbKtlBYPKkl2VD2Uyw&s", group-title="LOCAL 🗽", NEWS 12 Connecticut (USA🇺🇸)-ChrisJorgeTelevison2
+https://mdc4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7raDckviSGCj68Xr8UR2jQNCcbLeuEoQIA&s",group-title="LOCAL 🗽", NEWS 12 Long Island (USA🇺🇸)-ChrisJorgeTelevison2
-https://mdc4.ott.alticeusa.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7raDckviSGCj68Xr8UR2jQNCcbLeuEoQIA&s", group-title="LOCAL 🗽", NEWS 12 Long Island (USA🇺🇸)-ChrisJorgeTelevison2
+https://mdc4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd1iT5NMoGenrGwMvUU-VUe1oFfmWhDEDQ9g&s",group-title="LOCAL 🗽", NEWS 12 New Jersey (USA🇺🇸)-ChrisJorgeTelevison2
-https://mdc4.ott.alticeusa.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd1iT5NMoGenrGwMvUU-VUe1oFfmWhDEDQ9g&s", group-title="LOCAL 🗽", NEWS 12 New Jersey (USA🇺🇸)-ChrisJorgeTelevison2
+https://mdc4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FqzGvhxWcAAyZzO.png", group-title="LOCAL 🗽",CBSNY USA (USA)-ChrisJorgeTelevison2
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/17761229/5743360/media.m3u8?request_token=8sYx_UwQJlI9YojPAp7FzcXG2Q-lshViiUVPoy__RlfgfkOOyKBkyAF24Pyd0EXxkVdULLlwbq9s9rzAZPIbZOwv_NifsQ9HD372DMvKsefdS4t1V6uj4WOQR8-viarQqdkPJ1i2e71QdjX9HfHblbJKUKZhhi9rjc9UuzJN-ken7fuQ5bm-I5PF5xjK2au_&CMCD=mtp%3D76900%2Cot%3Dm%2Csf%3Dh%2Csid%3D"a14aa02a-c5ef-4085-921a-def738433c44"
-5e399
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FqzGvhxWcAAyZzO.png", group-title="LOCAL 🗽", CBS NY USA (USA)-ChrisJorgeTelevison2
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/17761229/5743360/media.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3F7yletgxMz6GBCDTew42SIgS4WvavWvJxA&s", group-title="LOCAL 🗽",TBS (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3F7yletgxMz6GBCDTew42SIgS4WvavWvJxA&s", group-title="LOCAL 🗽", TBS (USA)-ChrisJorgeTelevison2
 http://rezofoot.tv/TBS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",group-title="LOCAL 🗽", TNT (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png", group-title="LOCAL 🗽", TNT (USA)-ChrisJorgeTelevison2
 http://84.17.50.102/tnt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZ4C_dpk3qjFYqC_zNGD6BS8Q3ApPUpR8Q&s",group-title="LOCAL 🗽", TRUTV (USA🇺🇸)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZ4C_dpk3qjFYqC_zNGD6BS8Q3ApPUpR8Q&s", group-title="LOCAL 🗽", TRUTV (USA)-ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png", group-title="LOCAL 🗽", USA Network(USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png", group-title="LOCAL 🗽", USA Network (USA)-ChrisJorgeTelevison2
 https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/blackout-audio_eng=128000-video=4500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", group-title="LOCAL 🗽", Fox Sports 1(USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015-Fox_Sports_1_logo.svg.png", group-title="LOCAL 🗽", Fox Sports 1 (USA)-ChrisJorgeTelevison2
 https://cdn.telecloud.tv/CH3223/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png", group-title="LOCAL 🗽", Fox Sports 2(USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png", group-title="LOCAL 🗽", Fox Sports 2 (USA)-ChrisJorgeTelevison2
 https://cdn.telecloud.tv/CH3225/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png", group-title="LOCAL 🗽", Fox Deportes(USA)-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png", group-title="LOCAL 🗽", Fox Deportes (USA)-ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/fox-logotype-black-text-png-0.png", group-title="LOCAL 🗽", WNYW (New York) FOX East (USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1748/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",group-title="LOCAL 🗽", beIN SPORTS (USA🇺🇸)-ChrisJorgeTelevison2
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1200px-BeIN_Sports_En_Espa%C3%B1ol.png",group-title="LOCAL 🗽", beIN SPORTS en Español(USA)-ChrisJorgeTelevison2
-http://200.115.120.1:8000/play/ca124/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WTVJ_2023.svg/250px-WTVJ_2023.svg.png", group-title="LOCAL 🗽", NBC 6 Florida (USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1838/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XuVAQ1PR3ud4YpDwDr27J3bnJb8Yy0CA-g&s", group-title="LOCAL 🗽", CBS 2 New York (WCBS-TV) (USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1810/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.orcacommunications.com/wp-content/uploads/2022/05/Untitled-design226.png", group-title="LOCAL 🗽", WNBC (New York) NBC East (USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1812/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBs2VN_uVL1W2Kg8wVoDonfubLnYmR32sN3Q&s", group-title="LOCAL 🗽", ABC7 New York (WABC-TV)(USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1809/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2f/WCBS-TV_logo.svg.png/revision/latest?cb=20210416114735", group-title="LOCAL 🗽", WCBS (New York) CBS East(USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1809/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/fox-logotype-black-text-png-0.png", group-title="LOCAL 🗽", WNYW (New York) FOX East (USA)-ChrisJorgeTelevison2
-http://stream.cammonitorplus.net/1748/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahu_-uPS1rIgUsW4gfa4cKRPcOzwUiUzI3A&s", group-title="LOCAL 🗽", SNY (USA)-ChrisJorgeTelevison2
-http://212.102.60.231/SNY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png", group-title="LOCAL 🗽", YES Network(USA)-ChrisJorgeTelevison2
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ596P7p4lC-16i_P-zg8tXbQXslhQn8EpXQ&s", group-title="LOCAL 🗽", MSG NETWORK (USA)-ChrisJorgeTelevison2
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png", group-title="LOCAL 🗽", MSGN NETWORK (USA)-ChrisJorgeTelevison2
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png", group-title="LOCAL 🗽", MSG 2 NETWORK (USA)-ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/hIRMPqv2/hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png", group-title="LOCAL 🗽", MSGN 2 NETWORK (USA)-ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/Nce2diJn/hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png",group-title="LOCAL 🗽", BIG TEN NETWORK (USA🇺🇸)-ChrisJorgeTelevison2
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png",group-title="LOCAL 🗽",Adult Swim(USA)-ChrisJorgeTelevison2
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png", group-title="LOCAL 🗽", SEC Network (USA)-ChrisJorgeTelevison2
-http://212.102.60.231/SEC_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pbfilm.com/upload/editor/ESPN.png",group-title="LOCAL 🗽", ESPN-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.pbfilm.com/upload/editor/ESPN.png", group-title="LOCAL 🗽", ESPN (USA)-ChrisJorgeTelevison2
 http://41.223.30.230/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEHR19Uv-KiCltFsgzWXnkYiBaPCj643JCw&s",group-title="LOCAL 🗽", ESPN 2-ChrisJorgeTelevison2
-http://41.223.30.230/ESPN2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png?_=20160127222921",group-title="LOCAL 🗽", ESPN U-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png", group-title="LOCAL 🗽", ESPN U (USA)-ChrisJorgeTelevison2
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png",group-title="LOCAL 🗽", ESPN NEWS-ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png", group-title="LOCAL 🗽", ESPN NEWS (USA)-ChrisJorgeTelevison2
 http://41.205.93.154/ESPNNEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png",group-title="LOCAL 🗽", ESPN DEPORTES (USA🇺🇸)-ChrisJorgeTelevison2
-http://45.228.234.62:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png", group-title="LOCAL 🗽", ESPN DEPORTES (USA)-ChrisJorgeTelevison2
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/509171
 
 ########## SECTION: LATINO ##########
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title=" LATINO", ViX JaJaJa - ChrisJorgeTelevison2

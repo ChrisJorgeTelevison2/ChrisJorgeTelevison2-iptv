@@ -35,7 +35,7 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆4K 2
 http://nocable.cc:8080/3jhwHD/390283/325876
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆4K 3
-
+https://iptv.domains/live/Henry/123456/345545.ts
 # -------- USA SPORTS --------
 
 #EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png" group-title="USA SPORTS ", TUDN (USA) - ChrisJorgeTelevision2
@@ -504,7 +504,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s",group-title="LOCAL 🗽",TELEMUNDO 47(USA)ChrisJorgeTelevison2 
-https://streamvidex.qzz.io/latamplay/telemundo/index.m3u8
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410606
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png",group-title="LOCAL 🗽",GOLTV-ChrisJorgeTelevison2 
 http://199.188.103.176:8000/play/a0cy/index.m3u8
@@ -2808,9 +2808,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",  VIX JAJAJA
 https://d3v3mmi4g0m0ew.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9dep4gfn1ijcp/server/distrib/manifest.m3u8
 
- VIX NOVELAS DE ORO - ChrisJorgeTelevison2
+  #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS",VIX NOVELAS DE ORO - ChrisJorgeTelevison2
 https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/manifest.m3u8
- VIX GRANDES PAREJAS - ChrisJorgeTelevison2
+ #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", VIX GRANDES PAREJAS - ChrisJorgeTelevison2
 https://dfthcr89xhr9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qakw38x191dx/server/distrib/manifest.m3u8
 
  #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/24-7-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20200817164557" group-title="24/7 CHANNELS", ZONA TUDN - ChrisJorgeTelevison2
@@ -3097,7 +3097,19 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/st
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="EVENTOS PPV🎫", EVENTOS PPV 3 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/4rk3b7mc/hls/media-2/stream.m3u8
- 
+
+# -------- PARAMOUNT+|EVENTS --------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGw7r19xPo2jvDQOgwMXorcI3x9XPK4v8Xw&s" group-title="PARAMOUNT+|EVENTS",PARAMOUNT+(EVENT 1)
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/524434
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGw7r19xPo2jvDQOgwMXorcI3x9XPK4v8Xw&s" group-title="PARAMOUNT+|EVENTS",PARAMOUNT+(EVENT 2)
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/5421
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGw7r19xPo2jvDQOgwMXorcI3x9XPK4v8Xw&s" group-title="PARAMOUNT+|EVENTS",PARAMOUNT+(EVENT 3)
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/5420
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGw7r19xPo2jvDQOgwMXorcI3x9XPK4v8Xw&s" group-title="PARAMOUNT+|EVENTS",PARAMOUNT+(EVENT 4)
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/5419
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRGw7r19xPo2jvDQOgwMXorcI3x9XPK4v8Xw&s" group-title="PARAMOUNT+|EVENTS",PARAMOUNT+(EVENT 5)
+http://dsmqbfez.pardns.com/6CTB9BKG/4Q7Y9DFW/5418
 # -------- PPV🎫 -------- 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaWcJnxhKg5Y6nwbBs6JEFcW7zGN0BoJ6-VpXUztC2tS2ywqczUVA05nJwhbTpgQQQe4C2LxarXknu7khC_V5ulUL-BPARd9GZ2aEReiFuQn12llimILPumLxNsrYpXuqRWecEX6Kh-ymHUzn69lsvgNOqt9QofDGV4uoWO9_LnRziwHm7k-ho_3Qi9dY/s610-rw/PPV%20LIVE.png" group-title="PPV🎫",PPV LIVE 1 - ChrisJorgeTelevison2
@@ -3151,18 +3163,19 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u
 
 # -------- PEACOCK|EVENTS --------  
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|Español  
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/chunks.m3u8
+https://streamvidex.qzz.io/videx/telemundo/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 1 
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+https://streamvidex.qzz.io/videx/universo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 2 
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/X1GOYTFD/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 3 
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/X1GOYTFD/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 4 
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/UXqTwIhy/hls/master.m3u8
+https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/X1GOYTFD/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK|EVENTS", PEACOCK|EVENT 5
 https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/X1GOYTFD/hls/master.m3u8

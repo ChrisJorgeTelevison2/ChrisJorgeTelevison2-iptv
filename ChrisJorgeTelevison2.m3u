@@ -261,7 +261,7 @@ https://cdn.telecloud.tv/CH3225/index.m3u8
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ596P7p4lC-16i_P-zcXslhQn8EpXQ&s" group-title="USA SPORTS ", SNY (USA) - ChrisJorgeTelevision2
-http://212.102.60.231/SNY/index.m3u8
+https://iptv.domains/live/Henry/123456/14556.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="USA SPORTS ", YES Network - ChrisJorgeTelevision2
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
@@ -270,17 +270,23 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSGN Network - ChrisJorgeTelevision2
-http://23.237.104.106:8080/USA_MSG/index.m3u8
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/418147
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSG 2 Network - ChrisJorgeTelevision2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/hIRMPqv2/hls/master.m3u8
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/238356
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSGN 2 Network - ChrisJorgeTelevision2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/Nce2diJn/hls/master.m3u8
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/238357
 
 #EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png" group-title="USA SPORTS ", Big Ten Network - ChrisJorgeTelevision2
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png" group-title="USA SPORTS ", Big Ten Network 2 - ChrisJorgeTelevision2
+http://garaveli.123tv.to:8080/2rSvsynKRJ/5GHeYZFNwI/48582
+#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png" group-title="USA SPORTS ", Big Ten Network 3 - ChrisJorgeTelevision2
+http://garaveli.123tv.to:8080/2rSvsynKRJ/5GHeYZFNwI/48581
+#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BIG10.png" group-title="USA SPORTS ", Big Ten Network 4 - ChrisJorgeTelevision2
+http://garaveli.123tv.to:8080/2rSvsynKRJ/5GHeYZFNwI/48580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="USA SPORTS ", SEC Network - ChrisJorgeTelevision2
 http://212.102.60.231/SEC_NETWORK/index.m3u8
 
@@ -288,7 +294,7 @@ http://212.102.60.231/SEC_NETWORK/index.m3u8
 http://41.223.30.230/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEHR19Uv-KiCltFsgzWXnkYiBaPCj643JCw&s" group-title="USA SPORTS ", ESPN 2 - ChrisJorgeTelevision2
-http://41.223.30.230/ESPN2/index.m3u8
+https://iptv.domains/live/Henry/123456/1248.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png" group-title="USA SPORTS ", ESPN U - ChrisJorgeTelevision2
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
@@ -297,7 +303,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png" group-title="USA SPORTS ", ESPN Deportes - ChrisJorgeTelevision2
-http://45.228.234.62:8000/play/a002/index.m3u8
+http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/509171
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2250/887144-854918/a4df4ef049b119253c9833bea8ed6515.jpg" group-title="USA SPORTS ",CBS Sports Network
 http://192.129.159.196:8020/watch/9ab7e7d9-db8b-4427-a4ad-c469d2f13b40/server1.m3u8

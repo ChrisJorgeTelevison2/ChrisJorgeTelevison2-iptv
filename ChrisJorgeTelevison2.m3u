@@ -280,13 +280,13 @@ http://199.188.103.176:8000/play/a0cy/index.m3u8
 https://cdn.telecloud.tv/CH3223/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA SPORTS", FOX Sports 2 (FS2) - ChrisJorgeTelevision2
-https://cdn.telecloud.tv/CH3225/index.m3u8
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8995
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="USA SPORTS ", FOX Deportes - ChrisJorgeTelevision2
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ596P7p4lC-16i_P-zcXslhQn8EpXQ&s" group-title="USA SPORTS ", SNY (USA) - ChrisJorgeTelevision2
-https://iptv.domains/live/Henry/123456/14556.ts
+http://bgdc.live:25461/donnas5197/5197/15080
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="USA SPORTS ", YES Network - ChrisJorgeTelevision2
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
@@ -374,7 +374,23 @@ http://nocable.cc:8080/3jhwHD/390283/20184
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="USA SPORTS ", US YES Network
 http://nocable.cc:8080/3jhwHD/390283/57972
+# -------- FOX ONE --------
 
+#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Sports 1
+https://cdn.telecloud.tv/CH3223/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Sports 1 HD
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8996
+#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Sports 2
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8995
+
+#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Soccer Plus
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/17018
+#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE",  Fox New York
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 # -------- 4K EVENTS  --------
@@ -384,13 +400,13 @@ http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/17017
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg" group-title="4K EVENTS",4K (EVENT 2)
 http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/17017
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg" group-title="4K EVENTS",4K (EVENT 3)
-https://iptv.domains/live/Henry/123456/209224.ts
+https://iptv.852851.xyz/l/Cl75mtbb1AglueWkYdfgpfkJmDeS2FvzGFye1G5hY-Q_Zur6USE2Nm9rOXZtTKuX/index.m3u8
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg" group-title="4K EVENTS",4K (EVENT 4)
-https://iptv.domains/live/Henry/123456/345544.ts
+https://iptv.852851.xyz/l/Cl75mtbb1AglueWkYdfgpfkJmDeS2FvzGFye1G5hY-Q_Zur6USE2Nm9rOXZtTKuX/index.m3u8
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg" group-title="4K EVENTS",4K (EVENT 5)
-http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/17017
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg" group-title="4K EVENTS",4K (EVENT 6)
-http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419896
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/17017
 # -------- USA LOCAL FOX --------
 
 
@@ -403,46 +419,43 @@ http://stream.cammonitorplus.net/1780/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX NETWORK
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 5 NEW YORK
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 29 PHILADELPHIA
-http://84.17.50.102/fox/index.m3u8
-
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 25 BOSTON
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 32 CHICAGO
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 2 DETROIT
-http://84.17.50.102/fox/index.m3u8
-
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 9 MINNEAPOLIS
-http://84.17.50.102/fox/index.m3u8
-
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 4 DALLAS
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 13 TAMPA BAY
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 5 ATLANTA
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 10 PHOENIX
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 13 SEATTLE
@@ -450,7 +463,7 @@ http://84.17.50.102/fox/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 31 DENVER
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 # -------- USA LOCAL CBS --------
 
@@ -525,6 +538,17 @@ http://stream.cammonitorplus.net/1798/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_2020_%28Blue%29.svg/960px-CBS_2020_%28Blue%29.svg.png?_=20250323020721" group-title="USA LOCAL CBS",CBS EAST
 https://cdn.telecloud.tv/CH3247/index.m3u8
+
+
+
+# -------- beIN SPORTS CONNECT  --------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="beIN SPORTS CONNECT", beIN SPORTS (USA) 
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="beIN SPORTS CONNECT",beIN SPORTS en Español (USA) 
+http://xuucdmku.gr2bwu.xyz/play/vit813937/qkfJ4xkcXjcE/1257977.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkr7XsNLvGlPjvsGp675h4a_ag-Qk4ac1rFwaIiQhF&s=10" group-title="beIN SPORTS CONNECT", beIN SPORTS 1
 
 # -------- USA LOCAL NBC --------
 
@@ -993,7 +1017,7 @@ http://179.60.224.196:8000/play/a0ek/index.m3u8
 http://179.60.224.196:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",    group-title="Guatemala🇬🇹", ESPN 2 -ChrisJorgeTelevison2
 http://179.60.224.196:8000/play/a0f6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",  ggroup-title="Guatemala🇬🇹", ESPN 3 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",  group-title="Guatemala🇬🇹", ESPN 3 -ChrisJorgeTelevison2
 http://179.60.224.196:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",   group-title="Guatemala🇬🇹", ESPN 4-ChrisJorgeTelevison2
 http://179.60.224.196:8000/play/a0f8/index.m3u8
@@ -2817,17 +2841,100 @@ http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89767
 http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89770
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 7)
 http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89771
-########## SECTION: CHRISJORGESPORTSTV+ PASS CHANNELS ##########
+# -------- MLB TEAMS⚾ --------
 
-#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/s/z/i/temp-oxibyqpzbueudoqssukr/ylnzj7/chrisjorgesportstv-1.jpg", group-title="CHRISJORGESPORTSTV CHANNELS",CHRISJORGESPORTSTV (CHANNEL 1) - ChrisJorgeTelevison2 
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Atlanta Braves
+http://bgdc.live:25461/donnas5197/5197/99215
 
-#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/s/z/i/temp-oxibyqpzbueudoqssukr/ylnzj7/chrisjorgesportstv-1.jpg",group-title="CHRISJORGESPORTSTV CHANNELS", CHRISJORGESPORTSTV (CHANNEL 2) - ChrisJorgeTelevison2 
-https://live20.bozztv.com/giatv/giatv-Eventos2-ChrisJorgeTelevison2/Eventos2-ChrisJorgeTelevison2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/s/z/i/temp-oxibyqpzbueudoqssukr/ylnzj7/chrisjorgesportstv-1.jpg",group-title="CHRISJORGESPORTSTV CHANNELS", CHRISJORGESPORTSTV (CHANNEL 3) - ChrisJorgeTelevison2 
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/s/z/i/temp-oxibyqpzbueudoqssukr/ylnzj7/chrisjorgesportstv-1.jpg",group-title="CHRISJORGESPORTSTV CHANNELS", CHRISJORGESPORTSTV (CHANNEL 4) - ChrisJorgeTelevison2 
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Baltimore Orioles
+http://bgdc.live:25461/donnas5197/5197/99216
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Boston Red Sox
+http://bgdc.live:25461/donnas5197/5197/99217
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Chicago Cubs
+http://bgdc.live:25461/donnas5197/5197/99218
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Chicago White Sox
+http://bgdc.live:25461/donnas5197/5197/99219
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Cincinnati Reds
+http://bgdc.live:25461/donnas5197/5197/99220
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Cleveland Guardians
+http://bgdc.live:25461/donnas5197/5197/99221
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Colorado Rockies
+http://bgdc.live:25461/donnas5197/5197/99222
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Detroit Tigers
+http://bgdc.live:25461/donnas5197/5197/99223
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Houston Astros
+http://bgdc.live:25461/donnas5197/5197/99224
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Kansas City Royals
+http://bgdc.live:25461/donnas5197/5197/99225
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Los Angeles Angels
+http://bgdc.live:25461/donnas5197/5197/99226
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Los Angeles Dodgers
+http://bgdc.live:25461/donnas5197/5197/99227
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Miami Marlins
+http://bgdc.live:25461/donnas5197/5197/99228
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Milwaukee Brewers
+http://bgdc.live:25461/donnas5197/5197/99229
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Minnesota Twins
+http://bgdc.live:25461/donnas5197/5197/99230
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB New York Mets
+http://bgdc.live:25461/donnas5197/5197/99234
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB New York Yankees
+http://bgdc.live:25461/donnas5197/5197/99235
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Oakland Athletics
+http://bgdc.live:25461/donnas5197/5197/99236
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Philadelphia Phillies
+http://bgdc.live:25461/donnas5197/5197/99237
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Pittsburgh Pirates
+http://bgdc.live:25461/donnas5197/5197/99238
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB San Diego Padres
+http://bgdc.live:25461/donnas5197/5197/99239
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB San Francisco Giants
+http://bgdc.live:25461/donnas5197/5197/99240
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Seattle Mariners
+http://bgdc.live:25461/donnas5197/5197/99241
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB St. Louis Cardinals
+http://bgdc.live:25461/donnas5197/5197/99242
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Tampa Bay Rays
+http://bgdc.live:25461/donnas5197/5197/99243
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Texas Rangers
+http://bgdc.live:25461/donnas5197/5197/99244
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Toronto Blue Jays
+http://bgdc.live:25461/donnas5197/5197/99245
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Washington Nationals
+http://bgdc.live:25461/donnas5197/5197/99246
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Network
+http://bgdc.live:25461/donnas5197/5197/99231
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Network Strike Zone
+http://bgdc.live:25461/donnas5197/5197/99233
 
 # --------  NBA LEAGUE PASS 🏀 -------- 
 

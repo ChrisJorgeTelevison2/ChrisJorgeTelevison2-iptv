@@ -18,10 +18,9 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 6)
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 7)
-http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/410606
+http://190.90.154.112:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 8)
-http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/419367
-
+http://bgdc.live:25461/donnas5197/5197/38236
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 9)
 http://nocable.cc:8080/3jhwHD/390283/325876
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png" group-title="🏆La Copa Mundial 2026🏆",🏆 La Copa Mundial 2026🏆(CANAL 10)
@@ -536,7 +535,7 @@ http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 13 SEATTLE
-http://84.17.50.102/fox/index.m3u8
+http://bgdc.live:25461/miss.sara/8749634/215741
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5DnpHJVbNC4SvJ6Tb5en-PP5Wf9tEaPNhgSm3svLyg&s=10" group-title="USA LOCAL FOX",FOX 31 DENVER
@@ -625,7 +624,11 @@ http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="beIN SPORTS CONNECT",beIN SPORTS en Español (USA) 
 http://xuucdmku.gr2bwu.xyz/play/vit813937/qkfJ4xkcXjcE/1257977.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkr7XsNLvGlPjvsGp675h4a_ag-Qk4ac1rFwaIiQhF&s=10" group-title="beIN SPORTS CONNECT", beIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg?p=facebook" group-title="beIN SPORTS CONNECT", beIN SPORTS  XTRA (USA) 
+https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="beIN SPORTS CONNECT", beIN SPORTS  XTRA   en Español XTRA(USA🇺🇸)
+https://bein-esp-klowdtv.amagi.tv/playlistR1080p.m3u8
 
 # -------- USA LOCAL NBC --------
 

@@ -245,7 +245,7 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/st
 # -------- WESTCHESTER LOCAL🗽 --------
 
 #EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png" group-title="WESTCHESTER LOCAL🗽", TUDN (USA) - ChrisJorgeTelevision2
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntyzTXfank4jNLdfKpLtTqVIXpuwAeMx6HA&s" group-title="WESTCHESTER LOCAL🗽",NEWS 12 Westchester (USA🇺🇸)-ChrisJorgeTelevison2
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
@@ -319,8 +319,7 @@ http://212.102.60.231/SEC_NETWORK/index.m3u8
 http://41.223.30.230/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEHR19Uv-KiCltFsgzWXnkYiBaPCj643JCw&s" group-title="USA SPORTS ", ESPN 2 - ChrisJorgeTelevision2
-https://iptv.domains/live/Henry/123456/1248.ts
-
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8998
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/960px-ESPN_U_logo.svg.png" group-title="USA SPORTS ", ESPN U - ChrisJorgeTelevision2
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
@@ -328,7 +327,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png" group-title="USA SPORTS ", ESPN Deportes - ChrisJorgeTelevision2
-http://websafety101.net:5050/wm8237351@gmail.com/LkaZHX6Zvj/509171
+http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11390
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2250/887144-854918/a4df4ef049b119253c9833bea8ed6515.jpg" group-title="USA SPORTS ",CBS Sports Network
 http://192.129.159.196:8020/watch/9ab7e7d9-db8b-4427-a4ad-c469d2f13b40/server1.m3u8
@@ -392,6 +391,84 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE",  Fox New York
 http://bgdc.live:25461/miss.sara/8749634/215741
 
+# -------- FanDuel Sports Network -------
+
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_common_production/df884093945b2fa117498453df626114ac03c331-5478x2434.png" group-title="FanDuel Sports Network", FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Fanduel_TV_2022.svg/revision/latest/scale-to-width-down/500?cb=20220906010255" group-title="FanDuel Sports Network", FanDuel TV
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Ohio
+http://bgdc.live:25461/donnas5197/5197/216851
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", NHRA TV
+http://bgdc.live:25461/donnas5197/5197/175763
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel TV
+http://bgdc.live:25461/donnas5197/5197/217326
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network West
+http://bgdc.live:25461/donnas5197/5197/217327
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Cincinnati
+http://bgdc.live:25461/donnas5197/5197/217329
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Detroit
+http://bgdc.live:25461/donnas5197/5197/217330
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Florida
+http://bgdc.live:25461/donnas5197/5197/217331
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Indiana
+http://bgdc.live:25461/donnas5197/5197/217332
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Kansas City
+http://bgdc.live:25461/donnas5197/5197/217333
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Midwest
+http://bgdc.live:25461/donnas5197/5197/217334
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Midwest Extra
+http://bgdc.live:25461/donnas5197/5197/217335
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network New Orleans
+http://bgdc.live:25461/donnas5197/5197/217336
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network North
+http://bgdc.live:25461/donnas5197/5197/217337
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Ohio
+http://bgdc.live:25461/donnas5197/5197/217338
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Oklahoma
+http://bgdc.live:25461/donnas5197/5197/217339
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network San Diego
+http://bgdc.live:25461/donnas5197/5197/217340
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Socal
+http://bgdc.live:25461/donnas5197/5197/217341
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network South
+http://bgdc.live:25461/donnas5197/5197/217342
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Southwest
+http://bgdc.live:25461/donnas5197/5197/217343
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Southeast
+http://bgdc.live:25461/donnas5197/5197/217344
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Southeast (Georgia)
+http://bgdc.live:25461/donnas5197/5197/217345
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Southwest
+http://bgdc.live:25461/donnas5197/5197/217346
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Sun
+http://bgdc.live:25461/donnas5197/5197/217347
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/960px-FanDuel_Sports_Network_logo.svg.png" group-title="FanDuel Sports Network", FanDuel Sports Network Wisconsin
+http://bgdc.live:25461/donnas5197/5197/21734
+ 
 
 # -------- 4K EVENTS  --------
 
@@ -2951,155 +3028,166 @@ http://84.17.50.102/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" group-title=" NBA LEAGUE PASS 🏀", NBA TV (CHANNEL 5)
 http://84.17.50.102/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 1)
-https://iptv.domains/live/Henry/123456/129619.ts
+http://bgdc.live:25461/donnas5197/5197/99247
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 2)
-https://iptv.domains/live/Henry/123456/129623.ts
+http://bgdc.live:25461/donnas5197/5197/99248
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 3)
-https://iptv.domains/live/Henry/123456/129622.ts
+http://bgdc.live:25461/donnas5197/5197/99249
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 4)
-https://iptv.domains/live/Henry/123456/129621.ts
+http://bgdc.live:25461/donnas5197/5197/99250
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 5)
-https://iptv.domains/live/Henry/123456/129620.ts
+http://bgdc.live:25461/donnas5197/5197/99251
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 6)
-https://iptv.domains/live/Henry/123456/129618.ts
+http://bgdc.live:25461/donnas5197/5197/99252
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 7)
-https://iptv.domains/live/Henry/123456/129617.ts
+http://bgdc.live:25461/donnas5197/5197/99253
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 8)
-https://iptv.domains/live/Henry/123456/129616.ts
+http://bgdc.live:25461/donnas5197/5197/99254
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 9)
-https://iptv.domains/live/Henry/123456/129615.ts
+http://bgdc.live:25461/donnas5197/5197/99255
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 10)
-https://iptv.domains/live/Henry/123456/129614.ts
+http://bgdc.live:25461/donnas5197/5197/99256
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 11)
-https://iptv.domains/live/Henry/123456/129613.ts
+http://bgdc.live:25461/donnas5197/5197/99257
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 12)
-https://iptv.domains/live/Henry/123456/129612.ts
+http://bgdc.live:25461/donnas5197/5197/99258
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 13)
-https://iptv.domains/live/Henry/123456/129611.ts
+http://bgdc.live:25461/donnas5197/5197/99259
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 14)
-https://iptv.domains/live/Henry/123456/129610.ts
+http://bgdc.live:25461/donnas5197/5197/99260
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 15)
-https://iptv.domains/live/Henry/123456/129608.ts
+http://bgdc.live:25461/donnas5197/5197/99261
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 16)
-https://iptv.domains/live/Henry/123456/129607.ts
+http://bgdc.live:25461/donnas5197/5197/99262
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 17)
-https://iptv.domains/live/Henry/123456/129609.ts
+http://bgdc.live:25461/donnas5197/5197/99263
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 18)
-https://iptv.domains/live/Henry/123456/129606.ts
+http://bgdc.live:25461/donnas5197/5197/99264
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 19)
-https://iptv.domains/live/Henry/123456/129605.ts
+http://bgdc.live:25461/donnas5197/5197/99265
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 20)
-https://iptv.domains/live/Henry/123456/129604.ts
+http://bgdc.live:25461/donnas5197/5197/99266
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 21)
-https://iptv.domains/live/Henry/123456/129603.ts
+http://bgdc.live:25461/donnas5197/5197/99267
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 22)
-https://iptv.domains/live/Henry/123456/129602.ts
+http://bgdc.live:25461/donnas5197/5197/99268
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 23)
-https://iptv.domains/live/Henry/123456/129601.ts
+http://bgdc.live:25461/donnas5197/5197/99269
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 24)
-https://iptv.domains/live/Henry/123456/129600.ts
+http://bgdc.live:25461/donnas5197/5197/99270
+
 #EXTINF:-1 tvg-logo="https://i.logos-download.com/109097/27533-s1280-b303ae089dab3b3928996b81f6dc5e84.png/NBA_League_Pass_Logo_2017-s1280.png" group-title=" NBA LEAGUE PASS 🏀", NBA LEAGUE PASS (EVENT 25)
-https://iptv.domains/live/Henry/123456/129598.ts
+http://bgdc.live:25461/donnas5197/5197/99271
+
 # -------- NBA TEAMS  -------
 
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/bos.png" group-title="NBA TEAMS", Boston Celtics - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/atl.png" group-title="NBA TEAMS", Atlanta Hawks
+http://bgdc.live:25461/donnas5197/5197/99247
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/bkn.png" group-title="NBA TEAMS", Brooklyn Nets - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/bos.png" group-title="NBA TEAMS", Boston Celtics
+http://bgdc.live:25461/donnas5197/5197/99248
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/nyk.png" group-title="NBA TEAMS", New York Knicks - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/bkn.png" group-title="NBA TEAMS", Brooklyn Nets
+http://bgdc.live:25461/donnas5197/5197/99249
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/phi.png" group-title="NBA TEAMS", Philadelphia 76ers - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/cha.png" group-title="NBA TEAMS", Charlotte Hornets
+http://bgdc.live:25461/donnas5197/5197/99250
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/tor.png" group-title="NBA TEAMS", Toronto Raptors - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/chi.png" group-title="NBA TEAMS", Chicago Bulls
+http://bgdc.live:25461/donnas5197/5197/99251
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/cle.png" group-title="NBA TEAMS", Cleveland Cavaliers
+http://bgdc.live:25461/donnas5197/5197/99252
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/dal.png" group-title="NBA TEAMS", Dallas Mavericks
+http://bgdc.live:25461/donnas5197/5197/99253
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/chi.png" group-title="NBA TEAMS", Chicago Bulls - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/den.png" group-title="NBA TEAMS", Denver Nuggets
+http://bgdc.live:25461/donnas5197/5197/99254
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/cle.png" group-title="NBA TEAMS", Cleveland Cavaliers - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/det.png" group-title="NBA TEAMS", Detroit Pistons
+http://bgdc.live:25461/donnas5197/5197/99255
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/det.png" group-title="NBA TEAMS", Detroit Pistons - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/gsw.png" group-title="NBA TEAMS", Golden State Warriors
+http://bgdc.live:25461/donnas5197/5197/99256
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/ind.png" group-title="NBA TEAMS", Indiana Pacers - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/hou.png" group-title="NBA TEAMS", Houston Rockets
+http://bgdc.live:25461/donnas5197/5197/99257
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mil.png" group-title="NBA TEAMS", Milwaukee Bucks - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/ind.png" group-title="NBA TEAMS", Indiana Pacers
+http://bgdc.live:25461/donnas5197/5197/99258
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/lac.png" group-title="NBA TEAMS", LA Clippers
+http://bgdc.live:25461/donnas5197/5197/99259
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" group-title="NBA TEAMS", Los Angeles Lakers
+http://bgdc.live:25461/donnas5197/5197/99260
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/atl.png" group-title="NBA TEAMS", Atlanta Hawks - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mem.png" group-title="NBA TEAMS", Memphis Grizzlies
+http://bgdc.live:25461/donnas5197/5197/99261
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/cha.png" group-title="NBA TEAMS", Charlotte Hornets - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mia.png" group-title="NBA TEAMS", Miami Heat
+http://bgdc.live:25461/donnas5197/5197/99262
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mia.png" group-title="NBA TEAMS", Miami Heat - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mil.png" group-title="NBA TEAMS", Milwaukee Bucks
+http://bgdc.live:25461/donnas5197/5197/99263
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/orl.png" group-title="NBA TEAMS", Orlando Magic - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/min.png" group-title="NBA TEAMS", Minnesota Timberwolves
+http://bgdc.live:25461/donnas5197/5197/99264
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/was.png" group-title="NBA TEAMS", Washington Wizards - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/nop.png" group-title="NBA TEAMS", New Orleans Pelicans
+http://bgdc.live:25461/donnas5197/5197/99265
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/nyk.png" group-title="NBA TEAMS", New York Knicks
+http://bgdc.live:25461/donnas5197/5197/99266
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/okc.png" group-title="NBA TEAMS", Oklahoma City Thunder
+http://bgdc.live:25461/donnas5197/5197/99267
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/den.png" group-title="NBA TEAMS", Denver Nuggets - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/orl.png" group-title="NBA TEAMS", Orlando Magic
+http://bgdc.live:25461/donnas5197/5197/99268
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/min.png" group-title="NBA TEAMS", Minnesota Timberwolves - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/phi.png" group-title="NBA TEAMS", Philadelphia 76ers
+http://bgdc.live:25461/donnas5197/5197/99269
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/okc.png" group-title="NBA TEAMS", Oklahoma City Thunder - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/phx.png" group-title="NBA TEAMS", Phoenix Suns
+http://bgdc.live:25461/donnas5197/5197/99270
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/por.png" group-title="NBA TEAMS", Portland Trail Blazers - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/por.png" group-title="NBA TEAMS", Portland Trail Blazers
+http://bgdc.live:25461/donnas5197/5197/99271
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/utah.png" group-title="NBA TEAMS", Utah Jazz - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sac.png" group-title="NBA TEAMS", Sacramento Kings
+http://bgdc.live:25461/donnas5197/5197/99272
 
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sas.png" group-title="NBA TEAMS", San Antonio Spurs
+http://bgdc.live:25461/donnas5197/5197/99273
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/gsw.png" group-title="NBA TEAMS", Golden State Warriors - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/tor.png" group-title="NBA TEAMS", Toronto Raptors
+http://bgdc.live:25461/donnas5197/5197/99274
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/lac.png" group-title="NBA TEAMS", LA Clippers - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/utah.png" group-title="NBA TEAMS", Utah Jazz
+http://bgdc.live:25461/donnas5197/5197/99276
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" group-title="NBA TEAMS", Los Angeles Lakers - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/was.png" group-title="NBA TEAMS", Washington Wizards
+http://bgdc.live:25461/donnas5197/5197/99277
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/phx.png" group-title="NBA TEAMS", Phoenix Suns - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sac.png" group-title="NBA TEAMS", Sacramento Kings - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/dal.png" group-title="NBA TEAMS", Dallas Mavericks - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/hou.png" group-title="NBA TEAMS", Houston Rockets - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/mem.png" group-title="NBA TEAMS", Memphis Grizzlies - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/nop.png" group-title="NBA TEAMS", New Orleans Pelicans - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sas.png" group-title="NBA TEAMS", San Antonio Spurs - ChrisJorgeTelevison2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/jKllgS21/hls/media-1/stream.m3u8
 ########## SECTION:  NFL Sunday Ticket  ##########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png"group-title="NFL Sunday Ticket", NFL Channel(USA🇺🇸)-ChrisJorgeTelevison2
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=desktop&usprivacy=1YNN&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=157bf1cc-d901-62b2-6b46-028727400e00&tmsid=121705&palnonce=&rdid=157bf1cc-d901-62b2-6b46-028727400e00&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=NFL%20Channel&ads.site_name=XumoPlay&ads.site_page=play.xumo.com

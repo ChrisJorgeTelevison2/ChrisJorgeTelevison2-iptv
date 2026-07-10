@@ -631,6 +631,9 @@ https://redbox-beinsports-xumo.amagi.tv/playlist.m3u8
 https://bein-esp-klowdtv.amagi.tv/playlistR1080p.m3u8 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="beIN SPORTS CONNECT", beIN SPORTS 1 
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxlgvDGiVJ2Q1B_B0oAkfV0LsfGp3pmJ3FpNxBt82&s=10" group-title="beIN SPORTS CONNECT", beIN SPORTS  2
+http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxlgvDGiVJ2Q1B_B0oAkfV0LsfGp3pmJ3FpNxBt82&s=10" group-title="beIN SPORTS CONNECT", beIN SPORTS  2
 https://restream-live.realiptv.to/1234567/7654321/5309
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHwv715wHB5T3L8MBWcfW-J2DGbSR_sANRKAPEnSY&s=10" group-title="beIN SPORTS CONNECT", beIN SPORTS 3
@@ -1437,303 +1440,343 @@ http://45.228.233.60:8000/play/a05a/index.m3u8
 
 # -------- Canada🇨🇦 SPORTS --------
 
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/nba_tv.png" group-title="CANADA SPORTS",NBA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nba-tv-ca.png" group-title="CANADA SPORTS",NBA TV
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/22995
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="CANADA SPORTS",Sportsnet East
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/41836
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet 360 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" group-title="CANADA SPORTS",Sportsnet 360 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/2219
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet 360
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" group-title="CANADA SPORTS",Sportsnet 360
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57299
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet East HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="CANADA SPORTS",Sportsnet East HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57298
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet One (FHD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="CANADA SPORTS",Sportsnet One (FHD)
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57297
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet One (HD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="CANADA SPORTS",Sportsnet One (HD)
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47379
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Ontario
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="CANADA SPORTS",Sportsnet Ontario
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57463
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Ontario HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="CANADA SPORTS",Sportsnet Ontario HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57296
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Ontario (FHD)
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/11649
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Pacific (FHD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" group-title="CANADA SPORTS",Sportsnet Pacific (FHD)
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/9860
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet Pacific HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" group-title="CANADA SPORTS",Sportsnet Pacific HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47387
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet West (FHD)
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/20975
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet West
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="CANADA SPORTS",Sportsnet West
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57300
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/sportsnet.png" group-title="CANADA SPORTS",Sportsnet World HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="CANADA SPORTS",Sportsnet World HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/75675
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn1-ca.png" group-title="CANADA SPORTS",TSN 1
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57292
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 1 (R)
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47440
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn2-ca.png" group-title="CANADA SPORTS",TSN 2
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16129
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 2 HD
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47442
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn3-ca.png" group-title="CANADA SPORTS",TSN 3
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/10389
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 3 HD (Alt)
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47444
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn4-ca.png" group-title="CANADA SPORTS",TSN 4
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66783
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 4 HD
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16130
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn5-ca.png" group-title="CANADA SPORTS",TSN 5
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57467
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn.png" group-title="CANADA SPORTS",TSN 5 HD
-http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16131
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tsn_ocho.png" group-title="CANADA SPORTS",TSN The Ocho
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/rds.png" group-title="CANADA SPORTS",RDS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" group-title="CANADA SPORTS",RDS
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57325
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/rds.png" group-title="CANADA SPORTS",RDS2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds2-ca.png" group-title="CANADA SPORTS",RDS2 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57490
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/rds.png" group-title="CANADA SPORTS",RDS INFO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-info-ca.png" group-title="CANADA SPORTS",RDS INFO
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57491
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tva_sports.png" group-title="CANADA SPORTS",TVA SPORTS 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" group-title="CANADA SPORTS",TVA SPORTS 1
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57498
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/tva_sports.png" group-title="CANADA SPORTS",TVA SPORTS 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-2-ca.png" group-title="CANADA SPORTS",TVA SPORTS 2
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57337
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/golf_channel.png" group-title="CANADA SPORTS",Golf Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/golf-channel-us.png" group-title="CANADA SPORTS",Golf Channel HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57362
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/nfl_network.png" group-title="CANADA SPORTS",NFL Network HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/channels/nfl-network-us.png" group-title="CANADA SPORTS",NFL Network HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47346
-
-#EXTINF:-1 tvg-logo="https://yourcdn.com/logos/oln.png" group-title="CANADA SPORTS",OLN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/oln-ca.png" group-title="CANADA SPORTS",OLN
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57366
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="CANADA SPORTS",Sportsnet Ontario (FHD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/11649
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="CANADA SPORTS",Sportsnet West (FHD)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/20975
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn1-ca.png" group-title="CANADA SPORTS",TSN 1 (R)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47440
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn2-ca.png" group-title="CANADA SPORTS",TSN 2 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47442
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn3-ca.png" group-title="CANADA SPORTS",TSN 3 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/10389
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn3-ca.png" group-title="CANADA SPORTS",TSN 3 HD (Alt)
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47444
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn4-ca.png" group-title="CANADA SPORTS",TSN 4 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16130
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn5-ca.png" group-title="CANADA SPORTS",TSN 5 HD
+http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16131
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ocho-ca.png" group-title="CANADA SPORTS",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 # -------- CANADA MOVIES --------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 1 HD
+#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave1.png" group-title="CANADA MOVIES",CRAVE 1 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57309
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 2 HD
+#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave2.png" group-title="CANADA MOVIES",CRAVE 2 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57310
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 3
+#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave3.png" group-title="CANADA MOVIES",CRAVE 3
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57322
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Crave_logo_2021.svg" group-title="CANADA MOVIES",CRAVE 4 HD
+#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave4.png" group-title="CANADA MOVIES",CRAVE 4 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57311
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Super_%C3%89cran_2011.svg/revision/latest/scale-to-width-down/284?cb=20240811151222" group-title="CANADA MOVIES",SUPER ECRAN 1
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66363
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Super_%C3%89cran_2_2011.svg/revision/latest/scale-to-width-down/250?cb=20240811190056" group-title="CANADA MOVIES",SUPER ECRAN 2
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66364
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Super_%C3%89cran_3_2011.svg/revision/latest/scale-to-width-down/250?cb=20240811190649" group-title="CANADA MOVIES",SUPER ECRAN 3
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66365
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Super_Ecran_logo.svg" group-title="CANADA MOVIES",SUPER ECRAN 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Super_%C3%89cran_4_2011.svg/revision/latest/scale-to-width-down/250?cb=20240811190719" group-title="CANADA MOVIES",SUPER ECRAN 4
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66366
 
 ---
 
 # -------- CANADA NEWS --------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/CBC_logo_2018.svg" group-title="CANADA NEWS",CBC NEWS NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png" group-title="CANADA NEWS",CBC NEWS NETWORK
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57304
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/CBC_logo_2018.svg" group-title="CANADA NEWS",CBC TORONTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CBC_Toronto_2017_main.svg/3840px-CBC_Toronto_2017_main.svg.png" group-title="CANADA NEWS",CBC TORONTO
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57306
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/CBC_logo_2018.svg" group-title="CANADA NEWS",CBC VANCOUVER
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSML5WWRuGINKOzkVG4h055_WThcLyDMypfnRph-3ZghBY0XjNzaBxA1adn&s=10" group-title="CANADA NEWS",CBC VANCOUVER
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57391
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/CTV_logo_2018.svg" group-title="CANADA NEWS",CTV NEWS CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CTV_News_Channel_%28Canada%29_logo.svg/1280px-CTV_News_Channel_%28Canada%29_logo.svg.png" group-title="CANADA NEWS",CTV NEWS CHANNEL
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57350
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/CP24_logo.svg" group-title="CANADA NEWS",CP24 NEWS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CP24_black_logo.svg/1280px-CP24_black_logo.svg.png" group-title="CANADA NEWS",CP24 NEWS HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57357
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/CP24_logo.svg" group-title="CANADA NEWS",BNN BLOOMBERG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/1280px-BNN_Bloomberg.svg.png" group-title="CANADA NEWS",BNN BLOOMBERG
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57358
 
 ---
 
 # -------- CANADA GENERAL --------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/CTV_logo_2018.svg" group-title="CANADA GENERAL",CTV TORONTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png" group-title="CANADA GENERAL",CTV TORONTO
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47296
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/CTV_logo_2018.svg" group-title="CANADA GENERAL",GLOBAL TORONTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Television_Network_2019_logo.svg/1280px-Global_Television_Network_2019_logo.svg.png" group-title="CANADA GENERAL",GLOBAL TORONTO
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57435
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Citytv_logo_2012.svg" group-title="CANADA GENERAL",CITY TV TORONTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/250px-Citytv_old_logo.svg.png" group-title="CANADA GENERAL",CITY TV TORONTO
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57394
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Citytv_logo_2012.svg" group-title="CANADA GENERAL",CITY TV VANCOUVER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/250px-Citytv_old_logo.svg.png" group-title="CANADA GENERAL",CITY TV VANCOUVER
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57395
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/CTV_logo_2018.svg" group-title="CANADA GENERAL",CTV OTTAWA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62dvNbn7iTohpCgKlajzsKKPnQ01A0dN3AB8NitM2xt0xcEFd4zDlw1ya&s=10" group-title="CANADA GENERAL",CTV OTTAWA
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47237
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/CTV_logo_2018.svg" group-title="CANADA GENERAL",CTV MONTREAL
+#EXTINF:-1 tvg-logo="https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Fbellmediainc%2F4b94d1a0-7ee9-41b2-a720-c53a538ca1c7.png?smart=true&auth=5742ab0be4f1ca163ffdd57608a28918927b4c8ba8a114348fc9dd2e780d6d16&width=320&height=180" group-title="CANADA GENERAL",CTV MONTREAL
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47234
 
 
 
-########## SECTION: DEPORTES│Uruguay🇺🇾 ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",group-title="DEPORTES│Uruguay🇺🇾 ", TNT SPORTS-ChrisJorgeTelevison2
-170.247.204.9:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",group-title="DEPORTES│Uruguay🇺🇾 ", DSPORTS -ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es", group-title="DEPORTES│Uruguay🇺🇾 ", DSPORTS 2 -ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s",group-title="DEPORTES│Uruguay🇺🇾",DSPORTS+ -ChrisJorgeTelevison2
-http://190.61.41.181:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",group-title="DEPORTES│Uruguay🇺🇾", ESPN -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a05a/index.m3u8
+# -------- DEPORTES│Uruguay🇺🇾  --------
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title="DEPORTES│Uruguay🇺🇾 ", ESPN 2 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN HD
+http://190.108.93.71:8000/play/a0c9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",group-title="DEPORTES│Uruguay🇺🇾 ",  ESPN 3 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN HD
+http://190.108.93.71:8000/play/a0bp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",group-title="DEPORTES│Uruguay🇺🇾 ",  ESPN 4 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png",group-title="DEPORTES│Uruguay🇺🇾 ", ESPN 5 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/388.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN
+http://190.108.93.71:8000/play/a05b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png", group-title="DEPORTES│Uruguay🇺🇾 ", ESPN 6 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/420.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN 2
+http://190.108.93.71:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",group-title="DEPORTES│Uruguay🇺🇾",ESPN 7 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/421.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",group-title="DEPORTES│Uruguay🇺🇾", ESPN Premium -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a078/index.m3u8
-########## SECTION: Uruguay🇺🇾 ##########
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png"group-title="Uruguay🇺🇾",USA Network LATIN AMERICA-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/usanetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN 2 HD
+http://190.108.93.71:8000/play/a0b4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN 2 HD
+http://190.108.93.71:8000/play/a0c1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhV-1BKIz4oHelP2DFvq2Kb_zstXh-l8ZDA&s", group-title="Uruguay🇺🇾",Star Channel-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/starchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/08/FX-Logo.png", group-title="Uruguay🇺🇾", FX-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png", group-title="Uruguay🇺🇾",HISTORY-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/history2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s", group-title="Uruguay🇺🇾", HISTORY 2-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/history2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png", group-title="Uruguay🇺🇾",National Geographic-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/natgeo/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/667f4af3f4f3a7af01016661/671f11436ed8d27b6f49c3c5_DJ_B_Disney_F(cyan-magenta).png", group-title="Uruguay🇺🇾",Disney Jr -ChrisJorgeTelevison2
-http://181.119.111.25:4000/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 3
+http://190.108.93.71:8000/play/a067/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 3 HD
+http://190.108.93.71:8000/play/a08n/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 4 HD
+http://190.108.93.71:8000/play/a0bl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboWfzVbZEFKo3nMI-pJ53NL7PYsG5E9ENVQ&s",group-title="Paraguay🇵🇾", TNT -ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN 5
+http://190.108.93.71:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/250px-Logo_TNT_Novelas.png",group-title="Paraguay🇵🇾",TNT Novelas HD-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tntnovelas/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/220px-TNT_Series_Logo_2016.png",group-title="Paraguay🇵🇾",TNT Series HD-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tntseries/index.m3u8
-########## SECTION: DEPORTES│Paraguay ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",group-title="DEPORTES│Paraguay🇵🇾", TNT SPORTS-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tntsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",group-title="DEPORTES│Paraguay🇵🇾", DSPORTS -ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es", group-title="DEPORTES│Paraguay🇵🇾", DSPORTS 2 -ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s",group-title="DEPORTES│Paraguay🇵🇾",DSPORTS+ -ChrisJorgeTelevison2
-http://190.61.41.181:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",group-title="DEPORTES│Paraguay🇵🇾", ESPN -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title="DEPORTES│Paraguay🇵🇾", ESPN 2 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 5
+http://190.108.93.71:8000/play/a0dj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",group-title="DEPORTES│Paraguay🇵🇾",  ESPN 3 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 5 HD
+http://190.108.93.71:8000/play/a0b2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",group-title="DEPORTES│Paraguay🇵🇾",  ESPN 4 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png",group-title="DEPORTES│Paraguay🇵🇾", ESPN 5 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/388.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 6
+http://190.108.93.71:8000/play/a05l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png", group-title="DEPORTES│Paraguay🇵🇾", ESPN 6 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/420.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 6 HD
+http://190.108.93.71:8000/play/a04c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",group-title="DEPORTES│Paraguay🇵🇾",ESPN 7 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/421.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",group-title="DEPORTES│Paraguay", ESPN Premium -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 7
+http://190.108.93.71:8000/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg", group-title="DEPORTES│Paraguay", Tigo Sports-ChrisJorgeTelevison2
-http://45.170.130.224:8000/play/a04k/index.m3u8 
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN 7 HD
+http://190.108.93.71:8000/play/a0bf/index.m3u8
 
-########## SECTION: Paraguay ##########
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Uruguay🇺🇾 ",ESPN HD
+http://190.108.93.71:8000/play/a0az/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg", group-title="Paraguay🇵🇾", Tigo Sports-ChrisJorgeTelevison2
-http://45.170.130.224:8000/play/a04k/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="DEPORTES│Uruguay🇺🇾",ESPN Premium HD
+http://190.108.93.71:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DEPORTES│Uruguay🇺🇾",DSPORTS 
+http://190.108.83.69:8000/play/a0cb/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png"group-title="Paraguay🇵🇾",USA Network LATIN AMERICA-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/usanetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="DEPORTES│Uruguay🇺🇾",DSPORTS 2 
+http://190.108.83.69:8000/play/a0c6/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhV-1BKIz4oHelP2DFvq2Kb_zstXh-l8ZDA&s", group-title="Paraguay🇵🇾",Star Channel-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/starchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/08/FX-Logo.png", group-title="Paraguay🇵🇾", FX-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png", group-title="Paraguay🇵🇾",HISTORY-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/history2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s", group-title="Paraguay🇵🇾", HISTORY 2-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/history2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png", group-title="Paraguay🇵🇾",National Geographic-ChrisJorgeTelevison2
-https://181.209.105.115:2525/play/natgeo/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/667f4af3f4f3a7af01016661/671f11436ed8d27b6f49c3c5_DJ_B_Disney_F(cyan-magenta).png", group-title="Paraguay🇵🇾",Disney Jr -ChrisJorgeTelevison2
-http://181.119.111.25:4000/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" group-title="DEPORTES│Uruguay🇺🇾",DSPORTS+ 
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboWfzVbZEFKo3nMI-pJ53NL7PYsG5E9ENVQ&s",group-title="Paraguay🇵🇾", TNT -ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="DEPORTES│Uruguay🇺🇾", TNT Sports
+http://181.119.185.32:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="DEPORTES│Uruguay🇺🇾", TNT Sports Premium 
+http://170.247.204.9:8000/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/250px-Logo_TNT_Novelas.png",group-title="Paraguay🇵🇾",TNT Novelas HD-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tntnovelas/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/220px-TNT_Series_Logo_2016.png",group-title="Paraguay🇵🇾",TNT Series HD-ChrisJorgeTelevison2
-http://181.209.105.115:2525/play/tntseries/index.m3u8
+
+# -------- Uruguay🇺🇾   -------- 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhV-1BKIz4oHelP2DFvq2Kb_zstXh-l8ZDA&s" group-title="Uruguay🇺🇾", Star Channel
+http://200.37.201.35:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/08/FX-Logo.png" group-title="Uruguay🇺🇾",  FX
+http://200.37.201.35:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Uruguay🇺🇾",  HISTORY
+http://200.37.201.35:8000/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Uruguay🇺🇾", HISTORY 2
+http://200.37.201.35:8000/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Uruguay🇺🇾", National Geographic
+http://200.37.201.35:8000/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/667f4af3f4f3a7af01016661/671f11436ed8d27b6f49c3c5_DJ_B_Disney_F(cyan-magenta).png" group-title="Uruguay🇺🇾",  Disney Jr 
+http://190.108.93.71:8000/play/a054/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboWfzVbZEFKo3nMI-pJ53NL7PYsG5E9ENVQ&s" group-title="Uruguay🇺🇾", TNT 
+http://190.108.93.71:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/250px-Logo_TNT_Novelas.png" group-title="Uruguay🇺🇾", TNT Novelas HD
+http://190.108.93.71:8000/play/a08h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/220px-TNT_Series_Logo_2016.png" group-title="Uruguay🇺🇾",TNT Series HD
+http://200.37.201.35:8000/play/a0ba/index.m3u8
+# -------- DEPORTES│Paraguay🇵🇾  --------
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN HD
+http://190.108.93.71:8000/play/a0c9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN HD
+http://190.108.93.71:8000/play/a0bp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN
+http://190.108.93.71:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 2
+http://190.108.93.71:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 2 HD
+http://190.108.93.71:8000/play/a0b4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 2 HD
+http://190.108.93.71:8000/play/a0c1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 3
+http://190.108.93.71:8000/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 3 HD
+http://190.108.93.71:8000/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 4 HD
+http://190.108.93.71:8000/play/a0bl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 5
+http://190.108.93.71:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 5
+http://190.108.93.71:8000/play/a0dj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 5 HD
+http://190.108.93.71:8000/play/a0b2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 6
+http://190.108.93.71:8000/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 6 HD
+http://190.108.93.71:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 7
+http://190.108.93.71:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN 7 HD
+http://190.108.93.71:8000/play/a0bf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo.png" group-title="DEPORTES│Paraguay",ESPN HD
+http://190.108.93.71:8000/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="DEPORTES│Paraguay🇵🇾",ESPN Premium HD
+http://190.108.93.71:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DEPORTES│Paraguay🇵🇾",DSPORTS
+http://190.108.83.69:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="DEPORTES│Paraguay🇵🇾",DSPORTS 2
+http://190.108.83.69:8000/play/a0c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037" group-title="DEPORTES│Paraguay🇵🇾",DSPORTS+
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png" group-title="DEPORTES│Paraguay🇵🇾",TNT Sports
+http://181.119.185.32:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="DEPORTES│Paraguay🇵🇾",TNT Sports Premium
+http://170.247.204.9:8000/play/a048/index.m3u8
+# -------- Paraguay🇵🇾  --------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhV-1BKIz4oHelP2DFvq2Kb_zstXh-l8ZDA&s" group-title="Paraguay🇵🇾",Star Channel
+http://200.37.201.35:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/08/FX-Logo.png" group-title="Paraguay🇵🇾",FX
+http://200.37.201.35:8000/play/a0bt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Paraguay🇵🇾",HISTORY
+http://200.37.201.35:8000/play/a0a4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&s" group-title="Paraguay🇵🇾",HISTORY 2
+http://200.37.201.35:8000/play/a0c3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="Paraguay🇵🇾",National Geographic
+http://200.37.201.35:8000/play/a0a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/667f4af3f4f3a7af01016661/671f11436ed8d27b6f49c3c5_DJ_B_Disney_F(cyan-magenta).png" group-title="Paraguay🇵🇾",Disney Jr
+http://190.108.93.71:8000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboWfzVbZEFKo3nMI-pJ53NL7PYsG5E9ENVQ&s" group-title="Paraguay🇵🇾",TNT
+http://190.108.93.71:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/250px-Logo_TNT_Novelas.png" group-title="Paraguay🇵🇾",TNT Novelas HD
+http://190.108.93.71:8000/play/a08h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/220px-TNT_Series_Logo_2016.png" group-title="Paraguay🇵🇾",TNT Series HD
+http://200.37.201.35:8000/play/a0ba/index.m3u8
 
 
  ########## SECTION: DEPORTES│COLOMBIA🇨🇴##########
@@ -2416,7 +2459,7 @@ http://190.61.41.181:8000/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s" group-title="DIRECTV CANALES",DSPORTS+ (🇪🇨ECUADOR )
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
-.#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DIRECTV CANALES",DSPORTS (COLOMBIA🇨🇴 )
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="DIRECTV CANALES",DSPORTS (COLOMBIA🇨🇴 )
 http://190.108.83.69:8000/play/a0cb/index.m3u8
 
 

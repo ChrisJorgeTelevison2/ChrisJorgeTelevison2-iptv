@@ -2489,38 +2489,31 @@ http://192.129.159.196:8020/watch/9ab7e7d2-dce8-4819-a4aa-efe4dfbef7ff/server1.m
 http://192.129.159.196:8020/watch/9ab7e7d3-0e0b-405a-a3dc-e5a2c9392402/server1.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="UK 🇬🇧 SPORTS",TNT SPORTS 4  🇬🇧
 http://192.129.159.196:8020/watch/9ab7e7d3-47b9-4758-8146-a3835e152757/server1.m3u8
-########## SECTION: PEACOCK  ##########
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK",NBC Sports-ChrisJorgeTelevison2 
+# -------- PEACOCK --------
+
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live| NBC Sports
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_desktopweb_NBCUSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=157bf1cc-d901-62b2-6b46-028727400e00&ads._fw_vcid2=512116:157bf1cc-d901-62b2-6b46-028727400e00&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB17&ads._fw_content_genre=Sports&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.19.1&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK",WWE NETWORK  -ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live| WWE NETWORK
 http://200.115.120.1:8000/play/ca121/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Telemundo Al Dia -ChrisJorgeTelevison2 
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live| Telemundo Al Dia 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747&ads._fw_ifa_type=dpid&ads._fw_did=157bf1cc-d901-62b2-6b46-028727400e00&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.caid=xumo_telemundoaldia&ads.csid=xumo_desktopweb_TelemundoNewsSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Action%2CAdventure%2CComedy%2CCrime%2CDrama%2CFamily%2CFantasy%2CHorror%2CMystery%2CRomance%2CSci-Fi%2CThriller%2CWar%2CWestern%2CSuperhero&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Latino&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoNewsSports&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoNewsSports&ads.xumo_channelName=Telemundo%2520Al%2520Dia&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=2-Personal_Computer&ads.channelId=99991747&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.19.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
-
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif",group-title="PEACOCK",TELEMUNDO 47(USA)ChrisJorgeTelevison2 
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif",group-title="PEACOCK",TELEMUNDO 31(USA)ChrisJorgeTelevison2 
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK",Universo-ChrisJorgeTelevison2 
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", NBC 6 Florida (USA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK",  WNBC (New York) NBC East (USA)-ChrisJorgeTelevison2
-https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", WRC-TV NBC 4(USA)-ChrisJorgeTelevison2
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/blackout-audio_eng=128000-video=4500000.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live|Nosey
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFacBjcaOUltKZbq7Z3AL32hY
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live|This Old House
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXjOoHPY0vOBAU3vJY0_8PE
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live|Golf Pass
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaUsMex_IMl_3dfkK401NwE8
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live|NBC News Now
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXeTufEVzT4r8bJee_Cuu_g
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live|NBC News Florida
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaTMI4msSJSJy6UMRyoO5GPQ
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live| TELEMUNDO 41
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif", group-title="PEACOCK", Peacock Live| Universo
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3696
 ########## SECTION:   PRIME VIDEO   ##########
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Logo.png",group-title="PRIME VIDEO", CBS SPORTS NETWORK HQ-ChrisJorgeTelevison2 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
@@ -2921,21 +2914,92 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yvb5bEV1/hls/media-2/st
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB League Pass⚾", MLB TV (CHANNEL 4)
 	http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11341
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 1)
-	http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89764
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 1)
+http://bgdc.live:25461/donnas5197/5197/99215
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 2)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89765
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 3)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89766
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 4)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89767
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 4)
-	http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89768
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 5)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89770
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmq07jReAX0JJgkt_FW-qlwZBMSjRlIGCYkHXJI85_A&s=10" group-title="MLB League Pass⚾", MLB League Pass (CHANNEL 7)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/89771
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 2)
+http://bgdc.live:25461/donnas5197/5197/99216
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 3)
+http://bgdc.live:25461/donnas5197/5197/99217
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 4)
+http://bgdc.live:25461/donnas5197/5197/99218
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 5)
+http://bgdc.live:25461/donnas5197/5197/99219
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 6)
+http://bgdc.live:25461/donnas5197/5197/99220
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 7)
+http://bgdc.live:25461/donnas5197/5197/99221
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 8)
+http://bgdc.live:25461/donnas5197/5197/99222
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 9)
+http://bgdc.live:25461/donnas5197/5197/99223
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 10)
+http://bgdc.live:25461/donnas5197/5197/99224
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 11)
+http://bgdc.live:25461/donnas5197/5197/99225
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 12)
+http://bgdc.live:25461/donnas5197/5197/99226
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 13)
+http://bgdc.live:25461/donnas5197/5197/99227
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 14)
+http://bgdc.live:25461/donnas5197/5197/99228
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 15)
+http://bgdc.live:25461/donnas5197/5197/99229
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 16)
+http://bgdc.live:25461/donnas5197/5197/99230
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 17)
+http://bgdc.live:25461/donnas5197/5197/99234
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 18)
+http://bgdc.live:25461/donnas5197/5197/99235
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 19)
+http://bgdc.live:25461/donnas5197/5197/99236
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 20)
+http://bgdc.live:25461/donnas5197/5197/99237
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 21)
+http://bgdc.live:25461/donnas5197/5197/99238
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 22)
+http://bgdc.live:25461/donnas5197/5197/99239
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" g group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 23)
+http://bgdc.live:25461/donnas5197/5197/99240
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 24)
+http://bgdc.live:25461/donnas5197/5197/99241
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 25)
+http://bgdc.live:25461/donnas5197/5197/99242
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 26)
+http://bgdc.live:25461/donnas5197/5197/99243
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 27)
+http://bgdc.live:25461/donnas5197/5197/99244
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 28)
+http://bgdc.live:25461/donnas5197/5197/99245
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10"  group-title="MLB League Pass⚾",MLB League Pass⚾(EVENT 29)
+http://bgdc.live:25461/donnas5197/5197/99246
 # -------- MLB TEAMS⚾ --------
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLVHA8teLrZMSefpUt03RxDBXL8z5MkRdnUnEMGG7EwfO1z14F3HBUug&s=10" group-title="MLB TEAMS⚾",MLB Atlanta Braves

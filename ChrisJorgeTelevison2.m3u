@@ -254,6 +254,17 @@ https://muc002.myluck1.top:8088/live/canakl1gl/playlist.m3u8?vidictid=2044987147
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1FDel2564gRr-wdG3huIPvzPrmrUJYtqLBQ&s" group-title="NETFLIX LIVE SPORTS",NETFLIX LIVE SPORTS  6 - ChrisJorgeTelevison2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/XAt3hiCX/hls/media-1/stream.m3u8
+
+
+# -------- Premier League --------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png" group-title="Premier League",Premier League Schedule
+https://stream.adilo.com/adilo-encoding/DH6o0Fh5SU7r1s8K/9RJ39k940Yrl8Eua/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png" group-title="Premier League",Premier League 1 (English)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png" group-title="Premier League",Premier League 2 (Spanish)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png" group-title="Premier League",Premier League 3 (Spanish)
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3696
 # -------- WESTCHESTER LOCAL🗽 --------
 
 #EXTINF:-1 tvg-logo="https://dishpromotions.com/wp-content/uploads/TUDN-logo.png" group-title="WESTCHESTER LOCAL🗽", TUDN (USA) - ChrisJorgeTelevision2
@@ -2459,7 +2470,8 @@ http://nocable.cc:8080/3jhwHD/390283/53695
 ---
 
 # -------- UK SPORTS 🇬🇧 --------
-
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="UK 🇬🇧 SPORTS",Sky Sport Premier League 🇬🇧
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 #EXTINF:-1 tvg-logo="https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-ME-2020-logo-250.png" group-title="UK 🇬🇧 SPORTS",SKY SPORTS MAIN EVENT 🇬🇧
 http://nocable.cc:8080/3jhwHD/390283/35243
 

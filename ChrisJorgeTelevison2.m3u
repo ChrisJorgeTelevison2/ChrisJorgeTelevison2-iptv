@@ -2498,21 +2498,21 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_cha
 http://200.115.120.1:8000/play/ca121/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live| Telemundo Al Dia 
+ #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live| Telemundo Al Dia 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747&ads._fw_ifa_type=dpid&ads._fw_did=157bf1cc-d901-62b2-6b46-028727400e00&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.caid=xumo_telemundoaldia&ads.csid=xumo_desktopweb_TelemundoNewsSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Action%2CAdventure%2CComedy%2CCrime%2CDrama%2CFamily%2CFantasy%2CHorror%2CMystery%2CRomance%2CSci-Fi%2CThriller%2CWar%2CWestern%2CSuperhero&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Latino&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoNewsSports&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoNewsSports&ads.xumo_channelName=Telemundo%2520Al%2520Dia&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=2-Personal_Computer&ads.channelId=99991747&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.19.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live|Nosey
+  #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live|Nosey
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFacBjcaOUltKZbq7Z3AL32hY
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif"group-title="PEACOCK", Peacock Live|This Old House
+ #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live|This Old House
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXjOoHPY0vOBAU3vJY0_8PE
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live|Golf Pass
+ #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live|Golf Pass
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaUsMex_IMl_3dfkK401NwE8
 #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live|NBC News Now
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXeTufEVzT4r8bJee_Cuu_g
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live|NBC News Florida
+ #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live|NBC News Florida
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaTMI4msSJSJy6UMRyoO5GPQ
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live| TELEMUNDO 41
+ #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live| TELEMUNDO 41
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
-#EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK", Peacock Live| Universo
+ #EXTINF:-1 tvg-logo="https://mortystv.com/blog/wp-content/uploads/2022/05/peacock-logo-ani.gif" group-title="PEACOCK",Peacock Live| Universo
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3696
 ########## SECTION:   PRIME VIDEO   ##########
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Logo.png",group-title="PRIME VIDEO", CBS SPORTS NETWORK HQ-ChrisJorgeTelevison2 

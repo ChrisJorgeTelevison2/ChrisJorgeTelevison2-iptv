@@ -147,7 +147,7 @@ http://xplatinmedia.com:8080/@JustMerc_friend/sesmw2BXurGi9RJGx6Vnd/118421
 # -------- DAZN PPV --------  
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_vA_N4qTAnpbzKWVQQU8liP1UeLFNnzV6Q&s" group-title="DAZN PPV", DAZN PPV 1 - ChrisJorgeTelevision2
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
+http://bgdc.live:25461/donnas5197/5197/199228
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_vA_N4qTAnpbzKWVQQU8liP1UeLFNnzV6Q&s" group-title="DAZN PPV", DAZN PPV 2 - ChrisJorgeTelevision2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/0umRODlR/hls/master.m3u8
@@ -309,6 +309,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSGN Network - ChrisJorgeTelevision2
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFadSrVdtwt5WguA7AmsdIsxQ
 
+http://40.160.24.52/MSG_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png" group-title="USA SPORTS ", MSG 2 Network - ChrisJorgeTelevision2
 http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/238356
 
@@ -388,16 +389,16 @@ http://nocable.cc:8080/3jhwHD/390283/57972
 # -------- FOX ONE --------
 
 #EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Sports 1
-https://cdn.telecloud.tv/CH3223/index.m3u8
+http://bgdc.live:25461/donnas5197/5197/100735
 
 
-#EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Sports 1 HD
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8996
+
+
 #EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Sports 2
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/8995
+http://bgdc.live:25461/donnas5197/5197/99151
 
 #EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Soccer Plus
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/17018
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE", Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.csimagazine.com/csi/images/FOX_One_Logo.jpg" group-title="FOX ONE",  Fox New York
@@ -1130,192 +1131,70 @@ http://179.60.224.196:8000/play/a0f9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="Guatemala🇬🇹", Azteca Guate  - ChrisJorgeTelevison2
 http://179.60.224.196:8000/play/a0dw/index.m3u8
 
+# -------- DEPORTES│MEXICO🇲🇽 --------
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN
+http://38.194.226.190:8000/play/a01v/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a002/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 2
+http://38.194.226.190:8000/play/a01w/index.m3u8?hls
 
-
-
- ########## SECTION: MEXICO🇲🇽 ##########
-
-
-
-#EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1.jpg" group-title="MEXICO🇲🇽",AMC en Español (MEXICO🇲🇽) - ChrisJorgeTelevison2
-
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/8ad36d82-015f-4045-b812-fc1fa676bfc8/3.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Estrella_TV_2020_Logo.svg" group-title="MEXICO🇲🇽",Estrella TV (MEXICO🇲🇽) - ChrisJorgeTelevison2
-
-https://amg00567-estrellamedia-estrellatvsmsng-samsungus-d2iky.amagi.tv/ts-us-e2-n1/playlist/amg00567-estrellamedia-estrellatvsmsng-samsungus/cb5638196573629098c83678d2f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dac6852db80148b6f4adafb8c2360625f5c98435ee3b24af1fdb25c10da3da6ac4d1cc32b58e68314c9c914e886d046cb458527f4179e96a18b8111e03ba059816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935ea58158f706bd58677afa3b0da50527bd7ac8582fec297c2a4c24f5b9363ece2d0d26177d3917e1d16993a88777971f898baf0e9ecda62a307a5cd684f0d90db5ca93df2168cfafd6b9120d8cef799726c4b743b3b894fa9a0a0ba43d255a7d41a2d504c0bf8d40584ceee573e664091931efa275be88bc5d3844e0cc36e4d0eb320c10d51258c157c6ce928ce9f3e47803245d0666ab50b63c00ad79018d88b97a50a32bedb8765fa6ce4ba4392d50abb62315c4de2a67d1115022d9ebe263e317fc257ed9c9fb2204753ba85b894aa6431093d18451fcbb3b702fca0f4694c468f035c231e7630990bd165da7a392326db11dea94939c5312823e2a8284e180bb2cda28a93d9da4ed62e84961d58fae0e3c4db8d57029306a574598c724155a333fba0/179/848x480_1249600/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/12/unnamed-1.jpg" group-title="MEXICO🇲🇽", CINE LATINO  - ChrisJorgeTelevison2
-https://dakx5lx3r8kdx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i8te7bkxtxtyk/server/distrib/AVM6MyFXVOkYSzN0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmRj8vj-oWa2c7AfycYxckSjrhw6M5wnSHb_M-ipF-_gAUgB4Au2GiAbu9plqlpzSelj70dag8LI1WtRCBFc5POzwoqNj6MnletDK7AIJH8MQpa6CHWCIwcVAuMZxZ1Bp6wEqyEKGdO89flHaPae-PFrmRrbIXG4e5yaUlKGWwqdCbpmgN-iWWY4W1LkvfhStw/manifest.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-5.jpg" group-title="MEXICO🇲🇽",SonyCanalNovelas - ChrisJorgeTelevison2
-https://amg00658-amg00658c83-canelatv-international-5657.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-sonycanalnovelasusappta-canelatvinternational/cb5638196573629098c83678d2f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24af2ace05a10da6ef0ac4f1a942758e68314c9c914bf87d146ca168524f241cf90f68eda4588bdab50f50af6466d324053b8da0ef9a659b3cc936a3ca37d29481940e7a4968c2a56e44250069495aebc6aef03cffb46eb0167e16af22c803e9e19c963c6b114fcc7d8ca504d4bf1ae086933b4f5b3d0b47a30bc68feaee893676ad6e618795ecc7f972123399ef3ce18cbd01a98af6e86b5671c348d9f4a8d98be82fceaf420f624dad7cb9a284c4a6f0170ed37cb996cd52cd179e6da057b292729ac8a45fb95cd51226770939252a67771dbf5aad9a06451df73244afa69cf5a0675be450613eb38f59603799a191a973c2bfa5b2cda3296d025f3a6e4f11f2bb0aca3289d41ceef47b89506a0694e1f68f7a27e5c46187e80b72b5f337c9308b08bcbb63a5156bea780aec30a6a513f13005d8dbae32af5e4a2201e64a9394049553246db53e484be6a3168af6283b1d66b41b6444c18e8ae2b585e2ca5dcb09582c5b83cdf1dfdee8df4aba63b19d01d0a347adbf6ac54f82a427d7b27ee67fba767652825d39ac7ee9c927d8cef0c74dbbb7611a7de2e3b617c76744aa29f7adc1485f978e8cb9d0c99bdc47a20f4d8ce2edf6ac5f84c81ecd3f21f458998f759f2f49957e47e28d51ed72ac7fc75cf8f6c090e377a85a3e45bd250a3d696cb2ad579e31f4336dd71b598eca4c52678d3d11b637d590e57485b787a58e39acd325432ac9d37f651e3dc50ab695d2770128dd54e0dd0a83f37b401534ce9e0c782a6cf4337cf6dff7a802020ae450223e48369bed1fca3b4d7210440eab7ad4da9a8c7d49f8184752879195af1f6565b73d731e3cc56b1df7a52dbc9dab5943eed3688539c8bb929e839dabb9f06bc9f90fbbb3a57695359f8cee0e956bc980f56b06fd45d277bcddcb614046c3842ae1efbcffe284fa691177515d90ec33eb117/162/1280x720_3072000/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-4.jpg" group-title="MEXICO🇲🇽",Sony Canal Coompetencias- ChrisJorgeTelevison2
-https://amg00658-amg00658c82-canelatv-international-6451.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-sonycanalcompetenciasusappta-canelatvinternational/cb5638196573629098c83678d2f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24aa7f8e60e148c6ef2ac4f1a942658e68314c9c94dbc87d6469c168722a7469ec7a1dfd74688a9ab59ec14dd241b51347c9a990be2a332b8cf966506896217560c5cf0a290e71445ec2d424ce8c0c9aa6bfb1fcbfb4eeb0934ba0e9d43857e9e7df065cd844dafbdabde302253c59401114dc8eca68bc4212aad6389c683bf5d5dc3bb7e1b43c069aa64417cc0afc817d0c045cffb7186b139506c989012d6c5e4d1bffddd49c5779cc1f0ca6c4416675e6cec3fab991fb343bb5189ec426c0b1731c7f754d496e64d246d5d83bf4bc61f69ddb1e9adfe5450a0031757fc12bd316742ed6e06168629f78e4e0fe3475adf4257945c30964bffbd13f9a6d5e2133ab2dbb526950deaa6383f9768d105bdf29fd1884e6a760e10e5e06f19357d8376f0d2dee4647b788695e3dfb09ebc9a5b6d3f2284f0f378dbafcd2c0f1fc2525c0e1c8ff34c66a40ee60f470b2bdb0d91df61aa66df435f84890627324293dff1b888c4c10ed215b69ead6e7f6e0b2ad55674c203fc79794cd918327f2868d0457d711d47cf21a0e5e8e89c9267cd9d2b843d752b5acae21c7bc433196c27948a61db52e3dc48f7cb8a14fbe683164a922fe32f24de818c22a8b6c1f04601c6fe0c597fc1876e85523dd71bd11c8dd05bd1a41a534f6b0e1b94ce1cd4778df2b68b6b9625a64a4359ef7bb093aaf3f56e44e89c4f7c625d07592f1c26625cf8e9d4620169e5f372b50aa8b803db373e59084ed0860f4995a8264cee525054e5f19bc5fdb0407aac49fb7ace6c06dc272e26f3c335efc3ffb3cd8e61500fcea5e92b9fa49b8ad8d9da2c1d5a39677ba0c3b18971409011f1b7d35deae9f5cd3eca45ad7cf6/157/1920x1080_4403200/index.m3u8
-#EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-4.jpg" group-title="MEXICO🇲🇽",Sony Canal Comedias   - ChrisJorgeTelevison2
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/8ad36d82-015f-4045-b812-fc1fa676bfc8/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/250px-Sky_Group_logo_2020.svg.png" group-title="MEXICO🇲🇽",Sky Channel- ChrisJorgeTelevison2
-http://177.10.184.60:8002/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="MEXICO🇲🇽",SKY SPORTS LALIGA - ChrisJorgeTelevison2
- http://177.10.184.60:8002/play/a01d/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="MEXICO🇲🇽",Sony Canal - ChrisJorgeTelevison2
-https://fl31.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
-
-
-https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA970/0-16x9.jpg?width=160&updatedTime=0&dt=Web
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA970/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="MEXICO🇲🇽",AMC EN Español - ChrisJorgeTelevison2
-https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv1&user_id=&vip=47.17.229.27&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02cc4c09-2ce0-48a7-8620-0c926fd21f8d&url=https://canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="MEXICO🇲🇽",Filmex  - ChrisJorgeTelevison2
-
-https://filmex-filmex-xumo.amagi.tv/1080p-cc/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="MEXICO🇲🇽",Filmex Clasico - ChrisJorgeTelevison2
-https://filmex-filmexclasico-xumo.amagi.tv/1080p-cc/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-3.jpg" group-title="MEXICO🇲🇽",Sony Canal Competencias  - ChrisJorgeTelevison2
-https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="MEXICO🇲🇽",Azteca Deportes  - ChrisJorgeTelevison2
-http://videx-limit182-stream.x10.mx:8000/stream/aztecadeportes.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO🇲🇽",Azteca UNO  - ChrisJorgeTelevison2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/0/0a/Logo_Univision_2019.png/revision/latest?cb=20191107013537" group-title="MEXICO🇲🇽",Univision - ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0q3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"group-title="MEXICO🇲🇽",TUDN -ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0ut/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"group-title="MEXICO🇲🇽",TUDN -ChrisJorgeTelevison2
-http://177.10.184.60:8002/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyE5xYhJ4ybYPv3Pzb_AVaBjMIGcEANDp5pA&s"group-title="MEXICO🇲🇽",TUDN VIX -ChrisJorgeTelevison2
-http://177.10.184.60:8002/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBLRMkC4oXbB5h2-8mnYYtpAVmU1rcTWmgA&s"group-title="MEXICO🇲🇽",CANAL 5-ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0uu/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png"group-title="MEXICO🇲🇽",Claro Sports-  ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0qe/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png"group-title="MEXICO🇲🇽",Claro Sports-  ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0us/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855"group-title="MEXICO🇲🇽",Claro Sports 2- ChrisJorgeTelevison2
-http://181.119.111.25:4000/play/a08v/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png"group-title="MEXICO🇲🇽",Las Estrellas -ChrisJorgeTelevison2
-http://45.228.234.62:8000/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.postwrestling.com/wp-content/uploads/2023/04/aaa-678x381.jpg",group-title="MEXICO🇲🇽", Lucha Libre AAA Worldwide  - ChrisJorgeTelevision2
-
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png", group-title="MEXICO🇲🇽", Azteca Internacional (USA)-ChrisJorgeTelevison2
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",group-title="MEXICO🇲🇽",  Azteca Internacional(MEXICO)-ChrisJorgeTelevison2
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",group-title="MEXICO🇲🇽",Universal Cinema-ChrisJorgeTelevison2
-http://181.119.111.25:4000/play/a0gu/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/recess/images/d/d7/Azteca_7_Network_logo.png/revision/latest?cb=20120911215314", group-title="MEXICO🇲🇽", Azteca 7 (MEXICO)-ChrisJorgeTelevison2
-http://38.49.128.38:8000/play/a0la/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LhWlVDijmuC4C6TcmmJUAIRpvab10NCt2q0ZaF6Hz9d3ofZq4CrRSHYZskXsTR8L7Ldb", group-title="MEXICO🇲🇽",ITV DEPORTES(USA)-ChrisJorgeTelevison2
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s", group-title="MEXICO🇲🇽", Sky Sports Laliga ChrisJorgeTelevison2
-http://177.10.184.60:8002/play/a01d/index.m3u8 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfz6ob_WG9kYc5VOZvxIGdmSbRc0GGTjC4fA&s, group-title="MEXICO🇲🇽", Sky Sports  ChrisJorgeTelevison2
-http://177.10.184.60:8002/play/a006/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.png",   group-title="MEXICO🇲🇽", ESPN ChrisJorgeTelevison2
-http://45.228.234.62:8000/play/a002/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png",    group-title="MEXICO🇲🇽",ESPN 2 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 2 - ChrisJorgeTelevison2
 http://45.228.234.62:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png",  group-title="MEXICO🇲🇽", ESPN 3 -ChrisJorgeTelevison2
-http://45.228.234.62:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png",   group-title="MEXICO🇲🇽", ESPN 4-ChrisJorgeTelevison2
- http://45.228.234.62:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.png",  group-title="MEXICO🇲🇽", ESPN 5 -ChrisJorgeTelevison2
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 3
+http://38.194.226.190:8000/play/a002/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 3 - ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 4
+http://38.194.226.190:8000/play/a02x/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 4 - ChrisJorgeTelevison2
+http://45.228.234.62:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 5 - ChrisJorgeTelevison2
 http://200.92.227.238:8000/play/a0um/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn6.png",  group-title="MEXICO🇲🇽", ESPN 6 -ChrisJorgeTelevison2
-http://videx-limit182-stream.x10.mx:8000/stream/espn6.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsportsmx.png",  group-title="MEXICO🇲🇽", FOX SPORTS 1-ChrisJorgeTelevison2
-http://38.194.226.190:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports2mx.png", group-title="MEXICO🇲🇽", FOX SPORTS 2-ChrisJorgeTelevison2
-http://38.194.226.190:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports3mexico.png", group-title="MEXICO🇲🇽",FOX SPORTS 3-ChrisJorgeTelevison2
-http://38.194.226.190:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png",  group-title="MEXICO🇲🇽", FOX SPORTS Premium-ChrisJorgeTelevison2
-http://38.194.226.190:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT
+http://38.194.226.190:8000/play/a00h/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg/revision/latest/scale-to-width-down/300?cb=20241222132246" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT 2
+http://38.194.226.190:8000/play/a011/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg/revision/latest/scale-to-width-down/300?cb=20241222132427" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT 3
+http://38.194.226.190:8000/play/a02m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Fox_Sports_Premium_MX_II.svg/revision/latest/scale-to-width-down/300?cb=20241222132515" group-title="DEPORTES│MEXICO🇲🇽",FOX SPORT PREMIUM
+http://38.194.226.190:8000/play/a003/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg/revision/latest/scale-to-width-down/200?cb=20130608195911" group-title="DEPORTES│MEXICO🇲🇽",AYM SPORT
+http://38.194.226.190:8000/play/a00z/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="DEPORTES│MEXICO🇲🇽",AZTECA DEPORTES
+http://38.194.226.190:8000/play/a02r/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/0/04/20200407000320%21CBC_Sports_Logo.png" group-title="DEPORTES│MEXICO🇲🇽",CBC Sports
+http://38.194.226.190:8000/play/a02v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN +
+http://38.194.226.190:8000/play/a01m/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="DEPORTES│MEXICO🇲🇽",ITV Deportes 1
+http://38.194.226.190:8000/play/a033/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small/nba-logo-on-transparent-background-free-vector.jpg" group-title="DEPORTES│MEXICO🇲🇽",NBA
+http://38.194.226.190:8000/play/a001/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/960px-National_Football_League_logo.svg.png" group-title="DEPORTES│MEXICO🇲🇽",NFL
+http://38.194.226.190:8000/play/a00y/index.m3u8?hls
 
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivyCx61cZX1YV8auneWjzDMCs_piIcZ5XV2WRqyFGNlSbn5Sm9f_u6zC6jdhmaW5OmPZz1rkBX76boxzvkBDZ0bPXaht-zCWUKamuV53ChdYIY2v3iCazmUodFAdd-lGy_9XKZlSpKvnt9VcvUqOgZoowxy9vTy5G_ldbEDvLzdVnSEcr4KYyRNadVmm0/s60/FOXENTUBI.png",  group-title="MEXICO🇲🇽", FOX EN TUBI 1  -ChrisJorgeTelevison2 
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivyCx61cZX1YV8auneWjzDMCs_piIcZ5XV2WRqyFGNlSbn5Sm9f_u6zC6jdhmaW5OmPZz1rkBX76boxzvkBDZ0bPXaht-zCWUKamuV53ChdYIY2v3iCazmUodFAdd-lGy_9XKZlSpKvnt9VcvUqOgZoowxy9vTy5G_ldbEDvLzdVnSEcr4KYyRNadVmm0/s60/FOXENTUBI.png",  group-title="MEXICO🇲🇽", FOX EN TUBI 2 -ChrisJorgeTelevison2 
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-
-########## SECTION: DISNEY+-MEXICO🇲🇽 ##########
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",  group-title="DISNEY+-MEXICO🇲🇽", ESPN ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0o6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",   group-title="DISNEY+-MEXICO🇲🇽", ESPN 2 -ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",  group-title="DISNEY+-MEXICO🇲🇽", ESPN 3 -ChrisJorgeTelevison2
-http://200.92.227.238:8000/play/a0nb/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",   group-title="DISNEY+-MEXICO🇲🇽", ESPN 4-ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",  group-title="DISNEY+-MEXICO🇲🇽", ESPN 5 -ChrisJorgeTelevison2
-http://190.105.128.198:5800/play/a05o/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",  group-title="DISNEY+-MEXICO🇲🇽", ESPN 6 -ChrisJorgeTelevison2
-http://videx-limit182-stream.x10.mx:8000/stream/espn6.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png", group-title="DISNEY+-MEXICO🇲🇽", Los Simpsons 24/7- ChrisJorgeTelevison
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/500px-Disney%2B_2024.svg.png",group-title="DISNEY+-MEXICO🇲🇽", Los Simpsons 24/7- ChrisJorgeTelevison
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
 # -------- DEPORTES│Costa Rica🇨🇷 --------
 

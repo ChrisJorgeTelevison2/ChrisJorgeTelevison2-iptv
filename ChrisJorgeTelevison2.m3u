@@ -2219,7 +2219,7 @@ http://181.119.185.32:8000/play/a002/index.m3u8
 http://181.119.185.32:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsportsec.jpg", group-title="🇪🇨 ECUADOR  | DEPORTES", ZAPPING SPORTS
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/chunks.m3u8
+http://205.235.6.29:8000/play/a0wc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports2ec.jpg", group-title="🇪🇨 ECUADOR  | DEPORTES", ZAPPING SPORTS 2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
@@ -2228,17 +2228,16 @@ https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/st
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zpsportsplusec.jpg", group-title="🇪🇨 ECUADOR  | DEPORTES", ZAPPING SPORTS+
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
+http://205.235.6.29:8000/play/a0wc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zpsportsplus2ec.jpg", group-title="🇪🇨 ECUADOR  | DEPORTES", ZAPPING SPORTS+ 2
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 # --------LIGA PRO ECUADOR --------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/LigaPro_Ecuabet_Logo.png" group-title="LIGA PRO ECUADOR",LIGA PRO ECUADOR (CANAL 1)
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/chunks.m3u8
-
+http://205.235.6.29:8000/play/a0wc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/LigaPro_Ecuabet_Logo.png" group-title="LIGA PRO ECUADOR",LIGA PRO ECUADOR (CANAL 2)
-https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
+http://205.235.6.29:8000/play/a0wc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/LigaPro_Ecuabet_Logo.png" group-title="LIGA PRO ECUADOR",LIGA PRO ECUADOR (CANAL 3)
 https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yG78BXFY/hls/media-1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/LigaPro_Ecuabet_Logo.png" group-title="LIGA PRO ECUADOR",LIGA PRO ECUADOR (CANAL 4)

@@ -1106,7 +1106,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 # -------- USA LOCAL LATINOS --------
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KTMW (Salt Lake City)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11696
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KGLA (New Orleans)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
@@ -1122,12 +1122,13 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KTMD (Houston)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - WNJU (New York)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11318
+https://restream-live.realiptv.to/1234567/7654321/2392
+
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KBLR (Las Vegas)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KVEA (Los Angeles)
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11315
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo - KHRR (Tucson)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
@@ -1141,7 +1142,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo Phoenix
-http://premiumclub.streamtv.to:8080/Fratila/VQlMIcx3iE/11327
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3883
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Logo-2012.png" group-title="USA LOCAL LATINOS",Telemundo Internacional
 https://cdnmain5.win.cdn.moderntv.eu:7909/win/stream/Telemundo/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTelemundo_stream_xz&_cdn_session=2723148531&_cdn_token=60389d0794f5af34be2b79a00e582fc592a0ad62
@@ -1380,19 +1381,18 @@ http://38.194.226.190:8000/play/a01v/index.m3u8?hls
 http://45.228.234.62:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 2
-http://38.194.226.190:8000/play/a01w/index.m3u8?hls
-
+http://38.194.226.190:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 2 - ChrisJorgeTelevison2
 http://45.228.234.62:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 3
-http://38.194.226.190:8000/play/a002/index.m3u8?hls
+http://38.194.226.190:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 3 - ChrisJorgeTelevison2
 http://45.228.234.62:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 4
-http://38.194.226.190:8000/play/a02x/index.m3u8?hls
+http://38.194.226.190:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.png" group-title="DEPORTES│MEXICO🇲🇽",ESPN 4 - ChrisJorgeTelevison2
 http://45.228.234.62:8000/play/a058/index.m3u8
@@ -1586,19 +1586,19 @@ http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47387
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="CANADA SPORTS",Sportsnet World HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/75675
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn1-ca.png" group-title="CANADA SPORTS",TSN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1280px-TSN1.svg.png" group-title="CANADA SPORTS",TSN 1
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57292
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn2-ca.png" group-title="CANADA SPORTS",TSN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1280px-TSN2.svg.png" group-title="CANADA SPORTS",TSN 2
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16129
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn3-ca.png" group-title="CANADA SPORTS",TSN 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cqKGbXU8XCrCN5o9dow145Dg19P5AeomTUX9I7I9&s=10" group-title="CANADA SPORTS",TSN 3
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/10389
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn4-ca.png" group-title="CANADA SPORTS",TSN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/3840px-TSN4.svg.png" group-title="CANADA SPORTS",TSN 4
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/66783
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn5-ca.png" group-title="CANADA SPORTS",TSN 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/3840px-TSN5.svg.png" group-title="CANADA SPORTS",TSN 5
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57467
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" group-title="CANADA SPORTS",RDS
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57325
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds2-ca.png" group-title="CANADA SPORTS",RDS2 HD
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/RDS_2.png" group-title="CANADA SPORTS",RDS2 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57490
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-info-ca.png" group-title="CANADA SPORTS",RDS INFO
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57491
@@ -1617,17 +1617,17 @@ http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/57366
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/11649
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="CANADA SPORTS",Sportsnet West (FHD)
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/20975
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn1-ca.png" group-title="CANADA SPORTS",TSN 1 (R)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/1280px-TSN1.svg.pngg" group-title="CANADA SPORTS",TSN 1 (R)
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47440
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn2-ca.png" group-title="CANADA SPORTS",TSN 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/1280px-TSN2.svg.png" group-title="CANADA SPORTS",TSN 2 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47442
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn3-ca.png" group-title="CANADA SPORTS",TSN 3 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cqKGbXU8XCrCN5o9dow145Dg19P5AeomTUX9I7I9&s=10" group-title="CANADA SPORTS",TSN 3 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/10389
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn3-ca.png" group-title="CANADA SPORTS",TSN 3 HD (Alt)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cqKGbXU8XCrCN5o9dow145Dg19P5AeomTUX9I7I9&s=10" group-title="CANADA SPORTS",TSN 3 HD (Alt)
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/47444
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn4-ca.png" group-title="CANADA SPORTS",TSN 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/3840px-TSN4.svg.png" group-title="CANADA SPORTS",TSN 4 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16130
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn5-ca.png" group-title="CANADA SPORTS",TSN 5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/3840px-TSN5.svg.png" group-title="CANADA SPORTS",TSN 5 HD
 http://fortv.cc:8080/kturner127@yahoo.com/kturner127@2024/16131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ocho-ca.png" group-title="CANADA SPORTS",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -1899,7 +1899,7 @@ http://190.108.93.71:8000/play/a08h/index.m3u8
 http://200.37.201.35:8000/play/a0ba/index.m3u8
 
 
- ########## SECTION: DEPORTES│COLOMBIA🇨🇴##########
+# -------- DEPORTES│COLOMBIA🇨🇴 --------
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400", group-title="DEPORTES│COLOMBIA🇨🇴", DSPORTS -ChrisJorgeTelevison2
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es", group-title="DEPORTES│COLOMBIA🇨🇴", DSPORTS 2 -ChrisJorgeTelevison2
